@@ -1,0 +1,145 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:dynamics",
+    "writtenAt": "2026-11-05T12:45:00Z"
+  },
+  "method": "curated from stardust/dynamic-features.md (8 rows, 28 detector rows) against the published home page; replayed with dynamics-check.mjs on aem.live; 7/7 checks PASS on aem.page 2026-11-05 (aem.live edge serves the previous header.js until its cache expires — re-replay on aem.live once its 2 h edge cache refreshes; aem.live already passed 6/7 with the previous header, the 7th is the aria-modal fix)",
+  "features": [
+    {
+      "id": "country-modal",
+      "feature": "country selector modal",
+      "class": "M",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "dialog 1440px; heading \"Choose your Country\"; Escape closes (aria-modal only while open)",
+      "checks": [
+        {
+          "type": "click-dialog",
+          "path": "/",
+          "trigger": "header .country-toggle",
+          "minWidth": 300
+        }
+      ]
+    },
+    {
+      "id": "m-header-menus",
+      "feature": "header nav menus",
+      "class": "M",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "4 × header .nav-sub",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": "header .nav-sub",
+          "min": 1
+        }
+      ]
+    },
+    {
+      "id": "carousel",
+      "feature": "Popular Products / inspiration carousels",
+      "class": "C",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "9 product cards, 10 idea cards, 2 bullet tracks",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": ".products .product-card",
+          "min": 4
+        },
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": ".inspiration .idea-card",
+          "min": 3
+        },
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": ".carousel-bullets",
+          "min": 2
+        }
+      ]
+    },
+    {
+      "id": "ugc-videos",
+      "feature": "UGC video wall (autoplay muted loop)",
+      "class": "V",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "video playing, currentTime Δ 0.81s",
+      "checks": [
+        {
+          "type": "video-plays",
+          "path": "/",
+          "videoSelector": ".ugc video"
+        }
+      ]
+    },
+    {
+      "id": "page-errors",
+      "feature": "no uncaught page errors",
+      "class": "Q",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "0 uncaught on /",
+      "checks": [
+        {
+          "type": "no-page-errors",
+          "paths": [
+            "/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tags",
+      "feature": "tag & consent stack (Launch, Analytics, GTM, OneTrust, pixels)",
+      "class": "T",
+      "pages": 1,
+      "disposition": "deferred",
+      "reproducibility": "owner",
+      "status": "scaffolded-awaiting-owner",
+      "verifiedBy": "not shipped by this run",
+      "owner": "which tags and property ids run on the new host",
+      "checks": []
+    },
+    {
+      "id": "commerce-ugc-vendors",
+      "feature": "PriceSpider, Squarelovin, inMoment, chat widgets",
+      "class": "E",
+      "pages": 1,
+      "disposition": "deferred",
+      "reproducibility": "owner",
+      "status": "scaffolded-awaiting-owner",
+      "verifiedBy": "static recreation of the rendered state",
+      "owner": "vendor accounts are host-bound — enable the vendors for the new host",
+      "checks": []
+    },
+    {
+      "id": "i18n-locales",
+      "feature": "29 hreflang locale variants",
+      "class": "L",
+      "pages": 1,
+      "disposition": "out-of-scope",
+      "reproducibility": "n/a",
+      "status": "decided-out",
+      "verifiedBy": "links kept as captured; run scope is one page",
+      "checks": []
+    }
+  ]
+}

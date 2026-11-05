@@ -1,0 +1,203 @@
+/* popular products — lifted from stardust/prototypes/css/index.css § popular products */
+main .section.products-container {
+  margin: 40px 0 41px;
+  padding: 20px 0 40px;
+}
+
+.products .product-card {
+  position: relative;
+  flex: 0 0 301px;
+  padding: 20px;
+  box-shadow: var(--card-shadow);
+  background: #fff;
+  color: #000;
+}
+
+.products .product-card:hover {
+  box-shadow: rgb(0 0 0 / 80%) 0 0 10px 0;
+}
+
+.products .product-card-media {
+  line-height: 0;
+}
+
+.products .product-card-media img {
+  width: 301px;
+  height: 301px;
+  margin: 0 -20px;
+  max-width: none;
+  object-fit: contain;
+}
+
+.products .product-card-title {
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
+.products .product-card-text {
+  margin-top: 15px;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
+/* carousel — lifted from stardust/prototypes/css/index.css § shared card sections */
+.products {
+  position: relative;
+  margin-top: 49px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.products .carousel-viewport {
+  overflow: hidden;
+  padding: 10px;
+}
+
+.products .carousel-arrow {
+  position: absolute;
+  top: -10px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  height: calc(100% - 100px);
+  color: #fff;
+}
+
+.products .carousel-arrow-prev {
+  left: -78px;
+}
+
+.products .carousel-arrow-next {
+  right: -78px;
+}
+
+.products .carousel-arrow svg {
+  width: 35px;
+  height: 35px;
+  opacity: 0;
+  transform: scale(0.6);
+  transition: opacity 0.6s, transform 0.6s;
+}
+
+.products:hover .carousel-arrow svg {
+  opacity: 1;
+  transform: none;
+}
+
+.products .carousel-track {
+  position: relative;
+  left: 0;
+  display: flex;
+  gap: 20px;
+  transition: left 0.7s ease;
+}
+
+.products .carousel-bullets {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  margin-top: 30px;
+}
+
+.products .carousel-bullets button {
+  display: none;
+  width: 14px;
+  height: 14px;
+  margin: 0 14px;
+  padding: 0;
+  border-radius: 50%;
+  background: var(--text);
+  transform: scale(1);
+  transition: transform 0.7s, background-color 0.3s;
+}
+
+.products .carousel-bullets :is(.is-active, .is-next, .is-next-next, .is-prev) {
+  display: block;
+}
+
+.products .carousel-bullets .is-next,
+.products .carousel-bullets .is-prev {
+  transform: scale(0.5714);
+  background: #aaa;
+}
+
+.products .carousel-bullets .is-next-next {
+  transform: scale(0.2857);
+  background: #aaa;
+}
+
+.products .card-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.products .carousel-track img {
+  transition: opacity 0.6s;
+}
+
+.products .carousel-track img.is-loading {
+  opacity: 0;
+}
+
+/* section head + CTA: default content styled in place */
+main .section.products-container .default-content-wrapper {
+  text-align: center;
+}
+
+main .section.products-container .default-content-wrapper :is(h1, h2, h3) {
+  font-family: var(--font-headings);
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  text-align: center;
+  color: var(--text);
+}
+
+main .section.products-container .default-content-wrapper p:not(:has(a)) {
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
+@media (width <= 767px) {
+  main .section.products-container {
+    margin-bottom: 40px;
+  }
+
+  main .section.products-container .default-content-wrapper :is(h1, h2, h3) {
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+
+  .products {
+    margin-top: 40px;
+  }
+
+  .products .carousel-arrow {
+    display: none;
+  }
+
+  .products .product-cards {
+    align-items: flex-start;
+  }
+
+  .products .product-card {
+    flex-basis: 284px;
+  }
+
+  .products .product-card-media img {
+    width: 284px;
+    height: 284px;
+  }
+
+  .products .product-card-title {
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+}

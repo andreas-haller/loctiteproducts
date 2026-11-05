@@ -1,0 +1,190 @@
+/* choose your project — lifted from stardust/prototypes/css/index.css § choose your project */
+main .section.projects-container {
+  position: relative;
+  padding-top: 60px;
+  background: var(--surface);
+}
+
+.projects {
+  position: relative;
+}
+
+.projects .projects-head :is(h1, h2, h3) {
+  max-width: 1053px;
+  margin: 0 auto;
+  font-family: var(--font-headings);
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.projects .ai-bar {
+  position: absolute;
+  top: 26px;
+  left: 116px;
+  right: 116px;
+  padding: 10px 10px 14px;
+  border-radius: 12px;
+  background: rgb(238 238 238 / 60%);
+  backdrop-filter: blur(6px);
+  box-shadow: rgb(0 0 0 / 15%) 0 4px 20px;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.projects .ai-bar-chips {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.projects .ai-bar-chips span {
+  padding: 7px 8px;
+  border-radius: 6px;
+  background: rgb(0 0 0 / 25%);
+  color: #fff;
+}
+
+.projects .ai-bar-input {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: 52px;
+  padding: 0 12px;
+  border-radius: 6px;
+  background: #fff;
+  color: rgb(0 0 0 / 50%);
+  box-shadow: rgb(0 0 0 / 10%) 0 1px 4px;
+  font-size: 14px;
+}
+
+.projects .ai-bar-chip-1::before {
+  content: "Product Recommendation";
+}
+
+.projects .ai-bar-chip-2::before {
+  content: "Something else";
+}
+
+.projects .ai-bar-spark::before {
+  content: "\2726";
+}
+
+.projects .ai-bar-placeholder::before {
+  content: "Hi! I'm LOCTITE.AI (beta). How can I help?";
+}
+
+.projects .ai-bar-close {
+  margin-left: auto;
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.projects .ai-bar-close::before,
+.projects .ai-bar-close::after {
+  content: "";
+  position: absolute;
+  left: 3px;
+  top: 9px;
+  width: 14px;
+  height: 1.5px;
+  background: #888;
+  transform: rotate(45deg);
+}
+
+.projects .ai-bar-close::after {
+  transform: rotate(-45deg);
+}
+
+.projects .projects-list {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.projects .projects-list li {
+  width: 216px;
+  text-align: center;
+}
+
+.projects .projects-link a:any-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 136px;
+  height: 136px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background: var(--loctite-red);
+  font-size: 0;
+  line-height: 0;
+  color: transparent;
+}
+
+.projects .projects-link .icon {
+  width: 77px;
+  height: 75px;
+}
+
+.projects .projects-label {
+  margin-top: 8px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21.6px;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.projects .projects-banner {
+  margin-top: 61px;
+  line-height: 0;
+}
+
+.projects .projects-banner img {
+  width: 100%;
+  height: auto;
+  transition: opacity 0.6s;
+}
+
+.projects .projects-banner img.is-loading {
+  opacity: 0;
+}
+
+@media (width <= 767px) {
+  .projects .projects-head :is(h1, h2, h3) {
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+
+  .projects .ai-bar {
+    top: 92px;
+    left: 8px;
+    right: 8px;
+  }
+
+  .projects .ai-bar-chips {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .projects .projects-list {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 69px;
+    gap: 61px 18px;
+  }
+
+  .projects .projects-list li {
+    width: 151px;
+  }
+
+  .projects .projects-banner img {
+    height: 73px;
+    object-fit: cover;
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "slug": "index",
+  "type": "landing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "stage",
+    "projects",
+    "products",
+    "inspiration",
+    "ideas-teaser",
+    "ugc",
+    "carousel"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "stage",
+    "projects",
+    "products",
+    "inspiration",
+    "ideas-teaser",
+    "ugc"
+  ],
+  "canonShas": {
+    "header": "26154a972c1e",
+    "footer": "07ef32436169",
+    "css": "9b1e385f7ab8"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Homepage",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Homepage",
+    "url": "https://www.loctiteproducts.com/"
+  },
+  "migratedAt": "2026-11-05T09:17:21Z",
+  "designMdSha": "b519f8560bf6",
+  "designJsonSha": "d65464fa1e9a",
+  "sourceCurrentSha": "0b0c0b4bdddf",
+  "sourceProposedSha": "ad8f52c24e1a",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "approved prototype placed verbatim; recreate content-diff 0 red / 0 nothing-lost on main+header+footer at 1440 and 360"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 8,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://www.loctiteproducts.com/where-to-buy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/about-loctite.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/contact.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/products.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-create-craft.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-install.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-renovate.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-repair.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/products.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html?filter.pimCategory=Construction+Adhesives&filter.sort=recent",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html?filter.pimCategory=Specialty+Glues+%26+Epoxies&filter.sort=recent",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html?filter.pimCategory=Super+Glues&filter.sort=recent",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html?filter.pimCategory=Sealants+%26+Caulks&filter.sort=recent",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html?filter.pimCategory=Insulating+Spray+Foam&filter.sort=recent",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html?filter.pimCategory=Mounting+Putty&filter.sort=recent",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html?filter.pimCategory=Spray+Adhesives&filter.sort=recent",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/build-things.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/build-things/arts-and-crafts-adhesives-mounting-putty-and-spray-adhesive.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/build-things/best-silicone-sealant.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/build-things/bathroom-caulk-simple-solution-for-bathroom-projects.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/build-things/best-epoxy-for-plastic-know-your-plastic-before-you-reach-for-mastic.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/build-things/best-roof-sealants.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/build-things/backpack-crafts-make-back-to-school-special.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/fix-stuff.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff/aquarium-silicone-how-to-patch-a-leaky-fish-tank.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff/a-super-glue-with-a-brush-keeps-things-in-your-world-together.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff/ceramic-glue-tips-for-fixing-broken-ceramic-and-which-glue-is-best.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff/ceramic-tile-repair-a-quick-guide-to-saving-tile-and-money.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff/easter-basket-crafts-bunny-baskets-and-more.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff/5-minute-epoxy-repairs-done-quick.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/technical-bulletins.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-commercial-sealant-applications.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-moisture-and-delamination.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-sealant-best-practices.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-sealant-bubbling.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-sealant-paintability-and-fisheye.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-subfloor-assembly-considerations.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/inspiration/bathroom-vanity.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/inspiration/cinder-block-raised-garden-blog.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/inspiration/kids-play-kitchen-set.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/inspiration/clay-candle-holders-blog.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/inspiration/custom-tv-frame-blog.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/inspiration/fluted-wood-blog.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/sustainability.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/sustainability/vision.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/sustainability/formula-packaging.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/sustainability/social-initiatives.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/sustainability/henkel.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/sustainability/climate-and-nature.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/our-actions.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/our-actions/loctite-2nd-chance-house-part-2.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/our-actions/loctite-2nd-chance-house.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/our-actions/us-soccer-sponsorship.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/pro.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/where-to-buy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/about-loctite.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/contact.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/search.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/search.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/meta/re-direct-to-homepage.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/pro.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-create-craft.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-install.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-renovate.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-repair.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-super-glue-ultra-gel-control/SAP_0201DGL029X9.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-super-glue-ultra-liquid-control/SAP_0201DCL029X2.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-power-grab-ultimate-crystal-clear/SAP_0201C3L029O2.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-pl-premium-max/SAP_0201CRL029P7.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-power-grab-all-purpose/SAP_0201C3L029J4.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-super-glue-liquid-professional/SAP_0201DCL029X4.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-fun-tak-mounting-putty-tabs/SAP_0201BGL02K14.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-shoe-glue/SAP_0201OHL02KB5.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/central-pdp.html/loctite-threadlocker-blue/SAP_0201OHL029W4.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/products.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration/wood-scraps-to-beautiful-trim.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration/salvaged-storage-cabinet.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/build-things/threadlocker-red-or-blue-which-ones-right-for-you.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/fix-stuff/glue-removal.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration/restored-chair-blog.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/build-things/how-to-hang-a-mirror-on-a-wall-without-nails-a-guide-for-diyers.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration/bathroom-vanity.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration/fluted-wood-blog.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration/restored-dresser-blog.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas/inspiration/kids-play-kitchen-set.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/ideas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-create-craft.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-install.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-renovate.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-repair.html#results",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/products.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/build-things.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/ideas/inspiration.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/sustainability/vision.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/sustainability/formula-packaging.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/sustainability/social-initiatives.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/sustainability/henkel.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/sustainability/climate-and-nature.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/about-loctite.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/contact.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/where-to-buy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/gloolyai.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https:///www.loctiteproducts.com/sitemap.xml",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/data-protection.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/ca-privacy-rights.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/terms-of-use.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/limited-warranty.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.loctiteproducts.com/meta/accessibility-statement.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "index.html",
+  "outputPathDefault": null,
+  "sidecar": "_meta.json",
+  "driverVersion": "1"
+}

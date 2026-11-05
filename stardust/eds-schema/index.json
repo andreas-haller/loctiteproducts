@@ -1,0 +1,382 @@
+{
+ "source": "http://localhost:8791/index-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "stage",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Choose your profile:"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "I'm a DIYer",
+     "href": "/meta/re-direct-to-homepage.html"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "I'm a PRO",
+     "href": "/pro.html"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "LOCTITE FOR DIYers"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Find the perfect solution for all your home projects"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "A.stage__switch-link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "projects",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "CHOOSE YOUR PROJECT AND FIND THE RIGHT PRODUCT"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Create-Craft",
+     "href": "https://www.loctiteproducts.com/products/filterpages/products-create-craft.html#results"
+    },
+    {
+     "role": "eyebrow",
+     "order": 2,
+     "text": "Create-Craft"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Install",
+     "href": "https://www.loctiteproducts.com/products/filterpages/products-install.html#results"
+    },
+    {
+     "role": "eyebrow",
+     "order": 4,
+     "text": "Install"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Renovate",
+     "href": "https://www.loctiteproducts.com/products/filterpages/products-renovate.html#results"
+    },
+    {
+     "role": "eyebrow",
+     "order": 6,
+     "text": "Renovate"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Repair",
+     "href": "https://www.loctiteproducts.com/products/filterpages/products-repair.html#results"
+    },
+    {
+     "role": "eyebrow",
+     "order": 8,
+     "text": "Repair"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "products",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Popular Products"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Loctite is the ultimate provider of strong, simple and long lasting bonds for all your gluing needs and challenging projects."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Loctite Super Glue Ultra Gel Control"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Super-tough, durable bonds that resist weather, impact, shock and vibration."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Loctite Super Glue Ultra Liquid Control"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Fast bonding of common materials. Pin-point control squeeze-grip applicator. Dishwasher safe!"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Loctite Power Grab Ultimate Crystal Clear"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Works in all conditions and dries crystal clear"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Loctite PL Premium Max"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Our strongest, most durable construction adhesive"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Loctite Power Grab All Purpose"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Instant bonding that reduces the need for nails and screws. Low odor / water clean up."
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Loctite Super Glue Liquid Professional"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Professional applications where fast drytime and highest strength are desired."
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Loctite Fun-tak Mounting Putty Tabs"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Loctite Fun-Tak Mounting Putty Tabs are a non-toxic, safe, reusable and repositionable putty alternative for hanging lightweight décor on walls"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Loctite Shoe Glue"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Extra strong, flexible, moisture resistant formula dries clear and holds up where constant flexing occurs."
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Loctite Threadlocker Blue"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Loctite Threadlocker Blue 242 is designed to lock and seal threaded fasteners and prevent loosening from vibration."
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Explore More",
+     "href": "/products.html"
+    }
+   ],
+   "imgCount": 9,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "SECTION.carousel",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "inspiration",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Project Support & Inspiration"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Looking for how to's and inspirational ideas? Loctite can help your big ideas come to life. Find inspiration, advice, tips and tricks to get started today."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Wood Scraps to Beautiful Trim"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Upgrade a Salvaged Storage Cabinet"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Red or blue, we’ve got the right threadlocker for you!"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "How to get super glue off your hands"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Reduce, Reuse, Restore: Give an Antique Chair a Second Chance"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "How to hang a mirror on a wall without nails"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Old Bathroom Vanity Turned Modern"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "DIY Idea: Fluted Wood Using Trim"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Makeover an Old Dresser"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Create a Kids Play Kitchen Set From an Upcycled Cabinet"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Explore More",
+     "href": "/ideas.html"
+    }
+   ],
+   "imgCount": 10,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "LI.idea-card",
+     "count": 10,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "ideas-teaser",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "💡"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Ideas and How to"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Explore further projects, get advice and inspiration!"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Explore More",
+     "href": "/ideas.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "ugc",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "@loctiteglue"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Share your project with @loctiteglue and get featured on our wall - show off your creativity!"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  }
+ ]
+}

@@ -1,0 +1,3580 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-05T08:13:58.970Z",
+    "script": "style-census.mjs",
+    "readArtifacts": [
+      "https://www.loctiteproducts.com/"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "userAgent": "browser-default",
+    "synthesizedInputs": [],
+    "failed": []
+  },
+  "pages": {
+    "https://www.loctiteproducts.com/": {
+      "360": {
+        "title": "Homepage",
+        "viewport": {
+          "width": 360,
+          "height": 900
+        },
+        "elements": {
+          "total": 2667,
+          "visible": 1052
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "LOCTITE FOR DIYers",
+            "selector": "#title-3a00fc62ee > h1",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "50px",
+            "fontWeight": "700",
+            "lineHeight": "60px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "CHOOSE YOUR PROJECT AND FIND THE RIGHT …",
+            "selector": "div:nth-of-type(3) > heliux-section:nth-of-type(1) > div:nth-of-type(3) > heliux-section > div:nth-of-type(3) > heliux-text > div > h2",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "lineHeight": "38.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Products",
+            "selector": "#title-b04ff5ebc0 > h2",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "lineHeight": "38.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "h2",
+            "text": "Project Support & Inspiration",
+            "selector": "div:nth-of-type(3) > heliux-section > div:nth-of-type(3) > heliux-section > div:nth-of-type(4) > heliux-text:nth-of-type(1) > div > h2",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "lineHeight": "38.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "h1",
+            "text": "Posted by",
+            "selector": "#ugc-gallery-title",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "lineHeight": "26px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Posted by",
+            "selector": "main > div > div:nth-of-type(2) > h2",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "lineHeight": "18px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h4",
+            "text": "Social Media",
+            "selector": "div:nth-of-type(3) > section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(4) > heliux-text > div > h4",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Loctite is the ultimate provider of str…",
+            "selector": "#text-cc3e5d2f97 > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Super-tough, durable bonds that resist …",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(2) > li",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Fast bonding of common materials. Pin-p…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(3) > li",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Works in all conditions and dries cryst…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(4) > li",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Our strongest, most durable constructio…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(5) > li",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Instant bonding that reduces the need f…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(6) > li",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Explore More",
+            "selector": "#calltoaction-b7f78bc5cf",
+            "count": 2,
+            "backgroundColor": "rgb(218, 41, 28)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "padding": "16px 32px",
+            "border": "0px none rgb(218, 41, 28)",
+            "borderColor": "rgb(218, 41, 28)",
+            "boxShadow": "none",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(218, 41, 28)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "WHERE TO BUY",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(225, 0, 15)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "padding": "16px 32px",
+            "border": "0px none rgb(132, 1, 10)",
+            "borderColor": "rgb(132, 1, 10)",
+            "boxShadow": "none",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(225, 0, 15)",
+              "color": "rgb(132, 1, 10)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "LOCTITE.AI Assistant",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(132, 1, 10)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "padding": "16px 32px",
+            "border": "0px none rgb(132, 1, 10)",
+            "borderColor": "rgb(132, 1, 10)",
+            "boxShadow": "none",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(132, 1, 10)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "links": [
+          {
+            "text": "I'm a DIYer",
+            "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a",
+            "count": 1,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": null
+          },
+          {
+            "text": "I'm a PRO",
+            "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a",
+            "count": 1,
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgba(255, 255, 255, 0.6)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Create-Craft",
+            "selector": "#inlinesection-4f51ada51f > div > div > heliux-icon > a",
+            "count": 1,
+            "color": "rgb(218, 41, 28)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(218, 41, 28)",
+              "borderColor": "rgb(218, 41, 28)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Install",
+            "selector": "#inlinesection-41c4ad47e4 > div > div > heliux-icon > a",
+            "count": 3,
+            "color": "rgb(68, 68, 68)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": null
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "header",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 100
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main",
+            "selector": "#maincontent",
+            "rect": {
+              "x": 0,
+              "y": 100,
+              "w": 360,
+              "h": 3748
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "360px",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main",
+            "selector": "main",
+            "rect": {
+              "x": 25,
+              "y": 3324,
+              "w": 315,
+              "h": 524
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "720px",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "footer",
+            "selector": "footer",
+            "rect": {
+              "x": 0,
+              "y": 3888,
+              "w": 360,
+              "h": 1577
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#maincontent > div",
+            "rect": {
+              "x": 0,
+              "y": 100,
+              "w": 360,
+              "h": 3748
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "main > div",
+            "rect": {
+              "x": 25,
+              "y": 3324,
+              "w": 315,
+              "h": 524
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "50%",
+            "count": 7,
+            "area": 3623,
+            "sources": [
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(1)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(2)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "100px",
+            "count": 4,
+            "area": 73170,
+            "sources": [
+              "#inlinesection-4f51ada51f > div > div",
+              "#inlinesection-41c4ad47e4 > div > div",
+              "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div"
+            ]
+          },
+          {
+            "value": "8px",
+            "count": 2,
+            "area": 7147,
+            "sources": [
+              "section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(4) > div > div > heliux-icon > button",
+              "div > heliux-section > div:nth-of-type(3) > heliux-linklist > div > ul > li:nth-of-type(11) > button"
+            ]
+          },
+          {
+            "value": "4px 0px 0px 4px",
+            "count": 1,
+            "area": 144640,
+            "sources": [
+              "body > section:nth-of-type(2) > section"
+            ]
+          },
+          {
+            "value": "4px 4px 0px 0px",
+            "count": 1,
+            "area": 3232,
+            "sources": [
+              "body > section:nth-of-type(2) > sidebar"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(0, 0, 0, 0.2) 0px 0px 10px 0px",
+            "count": 19,
+            "sources": [
+              "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li",
+              "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(2) > li",
+              "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(3) > li"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.8) 0px 0px 0px 0px",
+            "count": 3,
+            "sources": [
+              "#inlinesection-41c4ad47e4 > div > div",
+              "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div",
+              "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.2) 0px 1px 3px 0px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px",
+            "count": 2,
+            "sources": [
+              "#wrapper-calltoaction-b7f78bc5cf",
+              "heliux-section > div:nth-of-type(4) > heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > div > heliux-calltoaction > div"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.8) 0px 0px 8.02324px 0px",
+            "count": 1,
+            "sources": [
+              "#inlinesection-4f51ada51f > div > div"
+            ]
+          }
+        ],
+        "gradients": [
+          {
+            "value": "linear-gradient(90deg, rgb(237, 28, 36), rgb(196, 22, 28))",
+            "count": 1,
+            "area": 567579,
+            "sources": [
+              "footer > div > div > heliux-section > div:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "linear-gradient(110deg, rgba(0, 0, 0, 0) 20px, rgba(0, 0, 0, 0.6) 21px, rgba(0, 0, 0, 0.6) calc(100% - 21px), rgba(0, 0, 0, 0) calc(100% - 20px))",
+            "count": 1,
+            "area": 14262,
+            "sources": [
+              "#section-7ba55fe2f2 > heliux-inlinesection > div"
+            ]
+          },
+          {
+            "value": "linear-gradient(110deg, rgba(0, 0, 0, 0) 20px, rgb(225, 0, 15) 21px, rgb(225, 0, 15) calc(100% - 21px), rgba(0, 0, 0, 0) calc(100% - 20px))",
+            "count": 1,
+            "area": 6750,
+            "sources": [
+              "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a"
+            ]
+          }
+        ],
+        "bgColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 54,
+            "area": 6312254,
+            "sources": [
+              "body",
+              "header",
+              "#maincontent > div > heliux-section:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(225, 0, 15)",
+            "count": 6,
+            "area": 650750,
+            "sources": [
+              "#inlinesection-4f51ada51f > div > div",
+              "#inlinesection-41c4ad47e4 > div > div",
+              "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div"
+            ]
+          },
+          {
+            "value": "rgb(68, 68, 68)",
+            "count": 6,
+            "area": 598,
+            "sources": [
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(1)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(2)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(238, 238, 238)",
+            "count": 3,
+            "area": 793615,
+            "sources": [
+              "#maincontent > div > heliux-section:nth-of-type(1)",
+              "#maincontent > div > heliux-section:nth-of-type(2)",
+              "#maincontent > div > heliux-section:nth-of-type(4)"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 2,
+            "area": 146575,
+            "sources": [
+              "body > div:nth-of-type(2) > div > heliux-backtotop > div > div > a",
+              "body > section:nth-of-type(2) > section > div"
+            ]
+          },
+          {
+            "value": "rgb(218, 41, 28)",
+            "count": 2,
+            "area": 20160,
+            "sources": [
+              "#calltoaction-b7f78bc5cf",
+              "heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > div > heliux-calltoaction > div > div > a"
+            ]
+          },
+          {
+            "value": "rgb(132, 1, 10)",
+            "count": 1,
+            "area": 13098,
+            "sources": [
+              "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a"
+            ]
+          },
+          {
+            "value": "rgb(224, 0, 15)",
+            "count": 1,
+            "area": 3232,
+            "sources": [
+              "body > section:nth-of-type(2) > sidebar"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 45,
+            "sources": [
+              "#section-7ba55fe2f2 > heliux-text > div > p",
+              "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a > span",
+              "heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a > span > strong"
+            ]
+          },
+          {
+            "value": "rgb(68, 68, 68)",
+            "count": 23,
+            "sources": [
+              "div > div:nth-of-type(1) > div > div > div > div > heliux-header > a",
+              "#header-metaNav > heliux-linklist > div > ul > li:nth-of-type(1) > a > div > span",
+              "#header-metaNav > heliux-linklist > div > ul > li:nth-of-type(2) > a > div > span"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 20,
+            "sources": [
+              "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(1) > div > span",
+              "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+              "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(1) > div > span"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.6)",
+            "count": 2,
+            "sources": [
+              "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a > span",
+              "heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a > span > strong"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 7,
+            "sources": [
+              "heliux-section > div:nth-of-type(3) > section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(2) > heliux-linklist:nth-of-type(1) > div",
+              "heliux-section > div:nth-of-type(3) > section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(2) > heliux-linklist:nth-of-type(2) > div",
+              "heliux-section > div:nth-of-type(3) > section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(3) > heliux-linklist:nth-of-type(1) > div"
+            ]
+          },
+          {
+            "value": "rgb(224, 0, 15)",
+            "count": 2,
+            "sources": [
+              "body > section:nth-of-type(2) > sidebar",
+              "body > section:nth-of-type(2) > section"
+            ]
+          }
+        ],
+        "customProps": {
+          "--global-h-flow-dir": {
+            "declared": "1",
+            "computed": "1"
+          },
+          "--brandName": {
+            "declared": "LOCTITE",
+            "computed": "LOCTITE"
+          },
+          "--baseUrl": {
+            "declared": "https://www.loctiteproducts.com",
+            "computed": "https://www.loctiteproducts.com"
+          },
+          "--embeddedViewUrl": {
+            "declared": "/loctiteai-hidden.html",
+            "computed": "/loctiteai-hidden.html"
+          },
+          "--surveyUrl": {
+            "declared": "https://feedback.inmoment.eu/websurvey/2/begin?gateway=GW_CKQ5E5&oc=CKQ5E5",
+            "computed": "https://feedback.inmoment.eu/websurvey/2/begin?gateway=GW_CKQ5E5&oc=CKQ5E5"
+          },
+          "--color-black": {
+            "declared": "#000000",
+            "computed": "#000000"
+          },
+          "--color-black-90": {
+            "declared": "rgba(0, 0, 0, 0.9)",
+            "computed": "rgba(0, 0, 0, 0.9)"
+          },
+          "--color-black-80": {
+            "declared": "rgba(0, 0, 0, 0.8)",
+            "computed": "rgba(0, 0, 0, 0.8)"
+          },
+          "--color-white": {
+            "declared": "#FFFFFF",
+            "computed": "#FFFFFF"
+          },
+          "--color-loctite-red": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--primary-font": {
+            "declared": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif",
+            "computed": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif"
+          },
+          "--secondary-font": {
+            "declared": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif",
+            "computed": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif"
+          },
+          "--helper-text-font-size-medium": {
+            "declared": "18px",
+            "computed": "18px"
+          },
+          "--helper-text-font-size": {
+            "declared": "16px",
+            "computed": "16px"
+          },
+          "--helper-text-font-size-small": {
+            "declared": "14px",
+            "computed": "14px"
+          },
+          "--helper-text-font-size-extra-small": {
+            "declared": "13px",
+            "computed": "13px"
+          },
+          "--helper-text-font-size-tiny": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--helper-text-font-size-extra-tiny": {
+            "declared": "10px",
+            "computed": "10px"
+          },
+          "--button-font-size": {
+            "declared": "14px",
+            "computed": "14px"
+          },
+          "--primary-theme-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--secondary-theme-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--error-text-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--button-primary": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--button-default": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--button-primary-focus": {
+            "declared": "#333333",
+            "computed": "#333333"
+          },
+          "--text-primary": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--text-secondary": {
+            "declared": "#fff",
+            "computed": "#fff"
+          },
+          "--bg-secondary": {
+            "declared": "#fff",
+            "computed": "#fff"
+          },
+          "--background": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--feedback-prompt-text-line-height": {
+            "declared": "22px",
+            "computed": "22px"
+          },
+          "--body-gradient": {
+            "declared": "linear-gradient(#EEE, #EEE)",
+            "computed": "linear-gradient(#EEE, #EEE)"
+          },
+          "--font-weight-bold": {
+            "declared": "700",
+            "computed": "700"
+          },
+          "--font-weight-regular": {
+            "declared": "400",
+            "computed": "400"
+          },
+          "--font-weight-button": {
+            "declared": "600",
+            "computed": "600"
+          },
+          "--button-radius": {
+            "declared": "50px",
+            "computed": "50px"
+          },
+          "--textarea-radius": {
+            "declared": "8px",
+            "computed": "8px"
+          },
+          "--overlay-bg": {
+            "declared": "rgba(0, 0, 0, 0.6)",
+            "computed": "rgba(0, 0, 0, 0.6)"
+          },
+          "--panel-box-shadow-button-hover": {
+            "declared": "0px 4px 20px 3px rgba(0, 0, 0, 0.3), 0 0 0 0px rgba(255, 255, 255, 0.1)",
+            "computed": "0px 4px 20px 3px rgba(0, 0, 0, 0.3), 0 0 0 0px rgba(255, 255, 255, 0.1)"
+          },
+          "--panel-box-shadow-button": {
+            "declared": "0 4px 20px 3px rgba(0,0,0,0.25)",
+            "computed": "0 4px 20px 3px rgba(0,0,0,0.25)"
+          },
+          "--line-height-normal": {
+            "declared": "1.3",
+            "computed": "1.3"
+          },
+          "--bubble-button-zindex": {
+            "declared": "1",
+            "computed": "1"
+          },
+          "--bubble-icon-url": {
+            "declared": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/chat.svg')",
+            "computed": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/chat.svg')"
+          },
+          "--bubble-icon-size": {
+            "declared": "40px",
+            "computed": "40px"
+          },
+          "--bubble-button-touch-area-increase": {
+            "declared": "10px",
+            "computed": "10px"
+          },
+          "--bubble-button-desktop-top-offset": {
+            "declared": "auto",
+            "computed": "auto"
+          },
+          "--bubble-button-desktop-right-offset": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--bubble-button-desktop-bottom-offset": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--bubble-button-desktop-left-offset": {
+            "declared": "auto",
+            "computed": "auto"
+          },
+          "--bubble-button-radius": {
+            "declared": "100%",
+            "computed": "100%"
+          },
+          "--bubble-button-width": {
+            "declared": "76px",
+            "computed": "76px"
+          },
+          "--bubble-button-height": {
+            "declared": "76px",
+            "computed": "76px"
+          },
+          "--button-radius-small": {
+            "declared": "8px",
+            "computed": "8px"
+          },
+          "--button-radius-medium": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--button-radius-round": {
+            "declared": "50%",
+            "computed": "50%"
+          },
+          "--footer-text-color": {
+            "declared": "rgba(0, 0, 0, 0.50)",
+            "computed": "rgba(0, 0, 0, 0.50)"
+          },
+          "--bubble-button-focus-box-shadow": {
+            "declared": "0 0 4px 5px rgba(255, 255, 255, .5)",
+            "computed": "0 0 4px 5px rgba(255, 255, 255, .5)"
+          },
+          "--bubble-x-color": {
+            "declared": "#fff",
+            "computed": "#fff"
+          },
+          "--logo-url": {
+            "declared": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/loctite-logo.svg')",
+            "computed": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/loctite-logo.svg')"
+          },
+          "--logo-width": {
+            "declared": "106px",
+            "computed": "106px"
+          },
+          "--logo-height": {
+            "declared": "20px",
+            "computed": "20px"
+          },
+          "--logo-scale": {
+            "declared": "1",
+            "computed": "1"
+          },
+          "--table-header-border-top-radius": {
+            "declared": "4px",
+            "computed": "4px"
+          },
+          "--table-header-border-right": {
+            "declared": "1px solid white",
+            "computed": "1px solid white"
+          },
+          "--initial-chip-button-bg": {
+            "declared": "rgba(255, 255, 255, 0.9)",
+            "computed": "rgba(255, 255, 255, 0.9)"
+          },
+          "--initial-chip-button-bg-hover": {
+            "declared": "#fffffff2",
+            "computed": "#fffffff2"
+          },
+          "--initial-chip-button-box-shadow": {
+            "declared": "0 0 10px rgba(0, 0, 0, 0.5)",
+            "computed": "0 0 10px rgba(0, 0, 0, 0.5)"
+          },
+          "--initial-chip-button-box-shadow-hover": {
+            "declared": "0 6px 14px -3px rgba(225, 0, 15, 0.45)",
+            "computed": "0 6px 14px -3px rgba(225, 0, 15, 0.45)"
+          },
+          "--initial-chip-button-bg-disabled": {
+            "declared": "rgba(68, 68, 68, 0.2)",
+            "computed": "rgba(68, 68, 68, 0.2)"
+          },
+          "--initial-chip-button-border-disabled": {
+            "declared": "rgba(68, 68, 68, 0.4)",
+            "computed": "rgba(68, 68, 68, 0.4)"
+          },
+          "--chip-button-bg": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--chip-button-bg-hover": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--chip-button-bg-active": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--chip-button-border": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--chip-button-border-hover": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--chip-button-border-active": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--chip-button-text-color": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--chip-button-text-color-hover": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--initial-chat-input-bg": {
+            "declared": "rgba(255, 255, 255, 0.95)",
+            "computed": "rgba(255, 255, 255, 0.95)"
+          },
+          "--initial-chat-input-box-shadow": {
+            "declared": "0px 0px 12px 0px #00000080",
+            "computed": "0px 0px 12px 0px #00000080"
+          },
+          "--chip-button-text-color-selected": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--chip-button-text-color-active": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--chat-input-text-color": {
+            "declared": "rgba(0, 0, 0, 0.5)",
+            "computed": "rgba(0, 0, 0, 0.5)"
+          },
+          "--chat-input-placeholder-color": {
+            "declared": "rgba(0, 0, 0, 0.5)",
+            "computed": "rgba(0, 0, 0, 0.5)"
+          },
+          "--chat-input-placeholder-not-active-color": {
+            "declared": "#00000080",
+            "computed": "#00000080"
+          },
+          "--chat-input-background": {
+            "declared": "#FFF",
+            "computed": "#FFF"
+          },
+          "--chat-input-typing-icon-background": {
+            "declared": "#888888",
+            "computed": "#888888"
+          },
+          "--chat-input-typing-icon-background-active": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--chat-input-initializer-icon-bg-hover": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--chat-input-initializer-icon-bg-active": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--chat-header-icons-bg": {
+            "declared": "#FFF",
+            "computed": "#FFF"
+          },
+          "--chat-header-icons-bg-hover": {
+            "declared": "#ffffff80",
+            "computed": "#ffffff80"
+          },
+          "--chat-header-icons-bg-hover-active": {
+            "declared": "#FFF",
+            "computed": "#FFF"
+          },
+          "--chat-header-box-shadow": {
+            "declared": "0px 1px 8px 0px rgba(0, 0, 0, 0.25)",
+            "computed": "0px 1px 8px 0px rgba(0, 0, 0, 0.25)"
+          },
+          "--chat-carousel-info-bg": {
+            "declared": "#000",
+            "computed": "#000"
+          },
+          "--chat-carousel-info-trophy-icon": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--legal-disclaimer-bg": {
+            "declared": "rgba(217, 217, 217, 1)",
+            "computed": "rgba(217, 217, 217, 1)"
+          },
+          "--legal-disclaimer-close-hover-bg": {
+            "declared": "rgba(0, 0, 0, 0.08)",
+            "computed": "rgba(0, 0, 0, 0.08)"
+          },
+          "--legal-disclaimer-close-hover-fill": {
+            "declared": "#111827",
+            "computed": "#111827"
+          },
+          "--textarea-radius-20": {
+            "declared": "20px",
+            "computed": "20px"
+          },
+          "--textarea-radius-15": {
+            "declared": "15px",
+            "computed": "15px"
+          },
+          "--more-info-button-bg": {
+            "declared": "rgba(68, 68, 68, 0.9)",
+            "computed": "rgba(68, 68, 68, 0.9)"
+          },
+          "--more-info-button-bg-hover": {
+            "declared": "#fdfdfd",
+            "computed": "#fdfdfd"
+          },
+          "--more-info-button-color-hover": {
+            "declared": "#444444e5",
+            "computed": "#444444e5"
+          },
+          "--more-info-button-shadow-hover": {
+            "declared": "0px 0px 10px 0px #44444480",
+            "computed": "0px 0px 10px 0px #44444480"
+          },
+          "--where-to-buy-button-bg": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--where-to-buy-button-bg-hover": {
+            "declared": "#fefdfd",
+            "computed": "#fefdfd"
+          },
+          "--where-to-buy-button-border-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--where-to-buy-button-shadow-hover": {
+            "declared": "0px 0px 10px 0px #e1000f80",
+            "computed": "0px 0px 10px 0px #e1000f80"
+          },
+          "--where-to-buy-overlay-shadow": {
+            "declared": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)",
+            "computed": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)"
+          },
+          "--where-to-buy-overlay-bg": {
+            "declared": "#eeeeeee5",
+            "computed": "#eeeeeee5"
+          },
+          "--where-to-buy-checkbox-border": {
+            "declared": "#444444b2",
+            "computed": "#444444b2"
+          },
+          "--where-to-buy-row-shadow": {
+            "declared": "0px 0px 6px 0px #00000040",
+            "computed": "0px 0px 6px 0px #00000040"
+          },
+          "--where-to-buy-row-shadow-hover": {
+            "declared": "0px 6px 18px 0px rgba(0, 0, 0, 0.22)",
+            "computed": "0px 6px 18px 0px rgba(0, 0, 0, 0.22)"
+          },
+          "--carousel-item-shadow": {
+            "declared": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)",
+            "computed": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)"
+          },
+          "--carousel-item-shadow-hover": {
+            "declared": "0px 1px 15px 0px #000000bf",
+            "computed": "0px 1px 15px 0px #000000bf"
+          },
+          "--carousel-close-button-bg-hover": {
+            "declared": "#44444433",
+            "computed": "#44444433"
+          },
+          "--delivery-icon-color": {
+            "declared": "rgb(13, 117, 89)",
+            "computed": "rgb(13, 117, 89)"
+          },
+          "--delivery-icon-color-fast": {
+            "declared": "rgb(13, 117, 89)",
+            "computed": "rgb(13, 117, 89)"
+          },
+          "--delivery-icon-color-slow": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          }
+        },
+        "fonts": [
+          {
+            "family": "swiper-icons",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "body",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "body",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "body",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "headings",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "headings",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "headings",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "navigation",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "navigation",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "navigation",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "VideoJS",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "900",
+            "style": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "svg",
+            "selector": "div:nth-of-type(2) > div > div > div > heliux-icon > a > span > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 2643 767",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": "https://www.loctiteproducts.com/",
+            "inHomeLink": false,
+            "rect": {
+              "x": 127,
+              "y": 20,
+              "w": 107,
+              "h": 60
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "div > div:nth-of-type(5) > div:nth-of-type(1) > div > heliux-icon > a > span > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": "Country Switch",
+            "class": "",
+            "id": null,
+            "href": "https://www-loctite-nl.prod.web.raqn.io/experience-fragments/local/language-switch-modal/master.html",
+            "inHomeLink": false,
+            "rect": {
+              "x": 20,
+              "y": 38,
+              "w": 24,
+              "h": 24
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "div > div:nth-of-type(5) > div:nth-of-type(2) > div > heliux-icon > a > span > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": "https://www.loctiteproducts.com/search.html",
+            "inHomeLink": false,
+            "rect": {
+              "x": 54,
+              "y": 38,
+              "w": 24,
+              "h": 24
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "#icon-c6fff9d3e0 > span > span:nth-of-type(1) > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 316,
+              "y": 38,
+              "w": 24,
+              "h": 24
+            }
+          }
+        ],
+        "iconFont": {
+          "families": [
+            "swiper-icons"
+          ],
+          "glyphs": []
+        },
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://www.loctiteproducts.com/"
+      },
+      "1440": {
+        "title": "Homepage",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elements": {
+          "total": 2731,
+          "visible": 1171
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "LOCTITE FOR DIYers",
+            "selector": "#title-3a00fc62ee > h1",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "72px",
+            "fontWeight": "700",
+            "lineHeight": "86.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "CHOOSE YOUR PROJECT AND FIND THE RIGHT …",
+            "selector": "div:nth-of-type(3) > heliux-section:nth-of-type(1) > div:nth-of-type(3) > heliux-section > div:nth-of-type(3) > heliux-text > div > h2",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "50px",
+            "fontWeight": "700",
+            "lineHeight": "60px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Products",
+            "selector": "#title-b04ff5ebc0 > h2",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "50px",
+            "fontWeight": "700",
+            "lineHeight": "60px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "h2",
+            "text": "Project Support & Inspiration",
+            "selector": "div:nth-of-type(3) > heliux-section > div:nth-of-type(3) > heliux-section > div:nth-of-type(4) > heliux-text:nth-of-type(1) > div > h2",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "50px",
+            "fontWeight": "700",
+            "lineHeight": "60px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "h3",
+            "text": "Share your project with @loctiteglue an…",
+            "selector": "main > div > div:nth-of-type(1) > h3",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "18px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "h4",
+            "text": "Social Media",
+            "selector": "div:nth-of-type(3) > section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(4) > heliux-text > div > h4",
+            "fontFamily": "headings, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "lineHeight": "33.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Loctite is the ultimate provider of str…",
+            "selector": "#text-cc3e5d2f97 > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(1)",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Super-tough, durable bonds that resist …",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(2)",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Fast bonding of common materials. Pin-p…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(3)",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Works in all conditions and dries cryst…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(4)",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Our strongest, most durable constructio…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(2) > li:nth-of-type(1)",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          },
+          {
+            "tag": "p",
+            "text": "Instant bonding that reduces the need f…",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "li",
+            "text": "#section-62cfdebc29 { --scope-grid-area…",
+            "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(2) > li:nth-of-type(2)",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(68, 68, 68)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Explore More",
+            "selector": "#calltoaction-b7f78bc5cf",
+            "count": 2,
+            "backgroundColor": "rgb(218, 41, 28)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "padding": "16px 32px",
+            "border": "0px none rgb(218, 41, 28)",
+            "borderColor": "rgb(218, 41, 28)",
+            "boxShadow": "none",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(218, 41, 28)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "WHERE TO BUY",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(225, 0, 15)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "padding": "16px 32px",
+            "border": "0px none rgb(132, 1, 10)",
+            "borderColor": "rgb(132, 1, 10)",
+            "boxShadow": "none",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(225, 0, 15)",
+              "color": "rgb(132, 1, 10)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "LOCTITE.AI Assistant",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(132, 1, 10)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "padding": "16px 32px",
+            "border": "0px none rgb(132, 1, 10)",
+            "borderColor": "rgb(132, 1, 10)",
+            "boxShadow": "none",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(132, 1, 10)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "links": [
+          {
+            "text": "I'm a DIYer",
+            "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a",
+            "count": 1,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": null
+          },
+          {
+            "text": "I'm a PRO",
+            "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a",
+            "count": 1,
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgba(255, 255, 255, 0.6)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Create-Craft",
+            "selector": "#inlinesection-4f51ada51f > div > div > heliux-icon > a",
+            "count": 4,
+            "color": "rgb(68, 68, 68)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(218, 41, 28)",
+              "borderColor": "rgb(218, 41, 28)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "header",
+            "rect": {
+              "x": 0,
+              "y": 60,
+              "w": 1440,
+              "h": 107
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 228,
+              "y": 103,
+              "w": 684,
+              "h": 21
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main",
+            "selector": "#maincontent",
+            "rect": {
+              "x": 0,
+              "y": 167,
+              "w": 1440,
+              "h": 4333
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "1440px",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main",
+            "selector": "main",
+            "rect": {
+              "x": 88,
+              "y": 3345,
+              "w": 1264,
+              "h": 1150
+            },
+            "backgroundColor": "rgba(255, 255, 255, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "5px",
+            "maxWidth": "1600px",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "footer",
+            "selector": "footer",
+            "rect": {
+              "x": 0,
+              "y": 4540,
+              "w": 1440,
+              "h": 735
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#maincontent > div",
+            "rect": {
+              "x": 0,
+              "y": 167,
+              "w": 1440,
+              "h": 4333
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "main > div",
+            "rect": {
+              "x": 93,
+              "y": 3350,
+              "w": 1254,
+              "h": 1140
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(68, 68, 68)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "body, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "8px",
+            "count": 7,
+            "area": 187593,
+            "sources": [
+              "#icon-b2e70eaf1f > button",
+              "heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > button:nth-of-type(1)",
+              "heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > button:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "50%",
+            "count": 6,
+            "area": 3651,
+            "sources": [
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(1)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(2)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "100px",
+            "count": 4,
+            "area": 73170,
+            "sources": [
+              "#inlinesection-4f51ada51f > div > div",
+              "#inlinesection-41c4ad47e4 > div > div",
+              "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div"
+            ]
+          },
+          {
+            "value": "4px 0px 0px 4px",
+            "count": 1,
+            "area": 144640,
+            "sources": [
+              "body > section:nth-of-type(2) > section"
+            ]
+          },
+          {
+            "value": "4px 4px 0px 0px",
+            "count": 1,
+            "area": 3232,
+            "sources": [
+              "body > section:nth-of-type(2) > sidebar"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(0, 0, 0, 0.2) 0px 0px 10px 0px",
+            "count": 19,
+            "sources": [
+              "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(1)",
+              "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(2)",
+              "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.8) 0px 0px 0px 0px",
+            "count": 4,
+            "sources": [
+              "#inlinesection-4f51ada51f > div > div",
+              "#inlinesection-41c4ad47e4 > div > div",
+              "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.2) 0px 1px 3px 0px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px",
+            "count": 2,
+            "sources": [
+              "#wrapper-calltoaction-b7f78bc5cf",
+              "heliux-section > div:nth-of-type(4) > heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > div > heliux-calltoaction > div"
+            ]
+          }
+        ],
+        "gradients": [
+          {
+            "value": "linear-gradient(90deg, rgb(237, 28, 36), rgb(196, 22, 28))",
+            "count": 1,
+            "area": 1058333,
+            "sources": [
+              "footer > div > div > heliux-section > div:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "linear-gradient(110deg, rgba(0, 0, 0, 0) 20px, rgba(0, 0, 0, 0.6) 21px, rgba(0, 0, 0, 0.6) calc(100% - 21px), rgba(0, 0, 0, 0) calc(100% - 20px))",
+            "count": 1,
+            "area": 14262,
+            "sources": [
+              "#section-7ba55fe2f2 > heliux-inlinesection > div"
+            ]
+          },
+          {
+            "value": "linear-gradient(110deg, rgba(0, 0, 0, 0) 20px, rgb(225, 0, 15) 21px, rgb(225, 0, 15) calc(100% - 21px), rgba(0, 0, 0, 0) calc(100% - 20px))",
+            "count": 1,
+            "area": 6750,
+            "sources": [
+              "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a"
+            ]
+          }
+        ],
+        "bgColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 60,
+            "area": 13441877,
+            "sources": [
+              "body",
+              "header",
+              "#maincontent > div > heliux-section:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(225, 0, 15)",
+            "count": 8,
+            "area": 1252032,
+            "sources": [
+              "div > div:nth-of-type(1) > div > div > div > div > heliux-header > heliux-banner",
+              "heliux-header > heliux-banner > div > section > div > heliux-grid > div > heliux-inlinesection",
+              "#inlinesection-4f51ada51f > div > div"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.6)",
+            "count": 8,
+            "area": 1135930,
+            "sources": [
+              "div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div > div:nth-of-type(2) > div:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(68, 68, 68)",
+            "count": 5,
+            "area": 626,
+            "sources": [
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(1)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(2)",
+              "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(238, 238, 238)",
+            "count": 3,
+            "area": 3055095,
+            "sources": [
+              "#maincontent > div > heliux-section:nth-of-type(1)",
+              "#maincontent > div > heliux-section:nth-of-type(2)",
+              "#maincontent > div > heliux-section:nth-of-type(4)"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 2,
+            "area": 146575,
+            "sources": [
+              "body > div:nth-of-type(2) > div > heliux-backtotop > div > div > a",
+              "body > section:nth-of-type(2) > section > div"
+            ]
+          },
+          {
+            "value": "rgb(218, 41, 28)",
+            "count": 2,
+            "area": 20160,
+            "sources": [
+              "#calltoaction-b7f78bc5cf",
+              "heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > div > heliux-calltoaction > div > div > a"
+            ]
+          },
+          {
+            "value": "rgb(132, 1, 10)",
+            "count": 1,
+            "area": 13098,
+            "sources": [
+              "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a"
+            ]
+          },
+          {
+            "value": "rgb(224, 0, 15)",
+            "count": 1,
+            "area": 3232,
+            "sources": [
+              "body > section:nth-of-type(2) > sidebar"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 56,
+            "sources": [
+              "div > heliux-inlinesection > div > div:nth-of-type(5) > div > heliux-icon > a > span:nth-of-type(2)",
+              "div > heliux-inlinesection > div > div:nth-of-type(6) > div > heliux-icon > a > span:nth-of-type(2)",
+              "div > heliux-inlinesection > div > div:nth-of-type(7) > div > heliux-icon > a > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(68, 68, 68)",
+            "count": 35,
+            "sources": [
+              "div > div:nth-of-type(1) > div > div > div > div > heliux-header > a",
+              "nav > ul > li:nth-of-type(1) > div:nth-of-type(1) > a > span > span",
+              "nav > ul > li:nth-of-type(2) > div:nth-of-type(1) > a > span > span"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 18,
+            "sources": [
+              "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(1) > div > span",
+              "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(2) > div > p",
+              "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(1) > div > span"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.6)",
+            "count": 2,
+            "sources": [
+              "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a > span",
+              "heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a > span > strong"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 11,
+            "sources": [
+              "section:nth-of-type(2) > div > heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div",
+              "div > div > heliux-section > div:nth-of-type(3) > heliux-linklist > div > ul > li:nth-of-type(1)",
+              "div > div > heliux-section > div:nth-of-type(3) > heliux-linklist > div > ul > li:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(224, 0, 15)",
+            "count": 2,
+            "sources": [
+              "body > section:nth-of-type(2) > sidebar",
+              "body > section:nth-of-type(2) > section"
+            ]
+          }
+        ],
+        "customProps": {
+          "--global-h-flow-dir": {
+            "declared": "1",
+            "computed": "1"
+          },
+          "--brandName": {
+            "declared": "LOCTITE",
+            "computed": "LOCTITE"
+          },
+          "--baseUrl": {
+            "declared": "https://www.loctiteproducts.com",
+            "computed": "https://www.loctiteproducts.com"
+          },
+          "--embeddedViewUrl": {
+            "declared": "/loctiteai-hidden.html",
+            "computed": "/loctiteai-hidden.html"
+          },
+          "--surveyUrl": {
+            "declared": "https://feedback.inmoment.eu/websurvey/2/begin?gateway=GW_CKQ5E5&oc=CKQ5E5",
+            "computed": "https://feedback.inmoment.eu/websurvey/2/begin?gateway=GW_CKQ5E5&oc=CKQ5E5"
+          },
+          "--color-black": {
+            "declared": "#000000",
+            "computed": "#000000"
+          },
+          "--color-black-90": {
+            "declared": "rgba(0, 0, 0, 0.9)",
+            "computed": "rgba(0, 0, 0, 0.9)"
+          },
+          "--color-black-80": {
+            "declared": "rgba(0, 0, 0, 0.8)",
+            "computed": "rgba(0, 0, 0, 0.8)"
+          },
+          "--color-white": {
+            "declared": "#FFFFFF",
+            "computed": "#FFFFFF"
+          },
+          "--color-loctite-red": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--primary-font": {
+            "declared": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif",
+            "computed": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif"
+          },
+          "--secondary-font": {
+            "declared": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif",
+            "computed": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif"
+          },
+          "--helper-text-font-size-medium": {
+            "declared": "18px",
+            "computed": "18px"
+          },
+          "--helper-text-font-size": {
+            "declared": "16px",
+            "computed": "16px"
+          },
+          "--helper-text-font-size-small": {
+            "declared": "14px",
+            "computed": "14px"
+          },
+          "--helper-text-font-size-extra-small": {
+            "declared": "13px",
+            "computed": "13px"
+          },
+          "--helper-text-font-size-tiny": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--helper-text-font-size-extra-tiny": {
+            "declared": "10px",
+            "computed": "10px"
+          },
+          "--button-font-size": {
+            "declared": "14px",
+            "computed": "14px"
+          },
+          "--primary-theme-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--secondary-theme-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--error-text-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--button-primary": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--button-default": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--button-primary-focus": {
+            "declared": "#333333",
+            "computed": "#333333"
+          },
+          "--text-primary": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--text-secondary": {
+            "declared": "#fff",
+            "computed": "#fff"
+          },
+          "--bg-secondary": {
+            "declared": "#fff",
+            "computed": "#fff"
+          },
+          "--background": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--feedback-prompt-text-line-height": {
+            "declared": "22px",
+            "computed": "22px"
+          },
+          "--body-gradient": {
+            "declared": "linear-gradient(#EEE, #EEE)",
+            "computed": "linear-gradient(#EEE, #EEE)"
+          },
+          "--font-weight-bold": {
+            "declared": "700",
+            "computed": "700"
+          },
+          "--font-weight-regular": {
+            "declared": "400",
+            "computed": "400"
+          },
+          "--font-weight-button": {
+            "declared": "600",
+            "computed": "600"
+          },
+          "--button-radius": {
+            "declared": "50px",
+            "computed": "50px"
+          },
+          "--textarea-radius": {
+            "declared": "8px",
+            "computed": "8px"
+          },
+          "--overlay-bg": {
+            "declared": "rgba(0, 0, 0, 0.6)",
+            "computed": "rgba(0, 0, 0, 0.6)"
+          },
+          "--panel-box-shadow-button-hover": {
+            "declared": "0px 4px 20px 3px rgba(0, 0, 0, 0.3), 0 0 0 0px rgba(255, 255, 255, 0.1)",
+            "computed": "0px 4px 20px 3px rgba(0, 0, 0, 0.3), 0 0 0 0px rgba(255, 255, 255, 0.1)"
+          },
+          "--panel-box-shadow-button": {
+            "declared": "0 4px 20px 3px rgba(0,0,0,0.25)",
+            "computed": "0 4px 20px 3px rgba(0,0,0,0.25)"
+          },
+          "--line-height-normal": {
+            "declared": "1.3",
+            "computed": "1.3"
+          },
+          "--bubble-button-zindex": {
+            "declared": "1",
+            "computed": "1"
+          },
+          "--bubble-icon-url": {
+            "declared": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/chat.svg')",
+            "computed": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/chat.svg')"
+          },
+          "--bubble-icon-size": {
+            "declared": "40px",
+            "computed": "40px"
+          },
+          "--bubble-button-touch-area-increase": {
+            "declared": "10px",
+            "computed": "10px"
+          },
+          "--bubble-button-desktop-top-offset": {
+            "declared": "auto",
+            "computed": "auto"
+          },
+          "--bubble-button-desktop-right-offset": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--bubble-button-desktop-bottom-offset": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--bubble-button-desktop-left-offset": {
+            "declared": "auto",
+            "computed": "auto"
+          },
+          "--bubble-button-radius": {
+            "declared": "100%",
+            "computed": "100%"
+          },
+          "--bubble-button-width": {
+            "declared": "76px",
+            "computed": "76px"
+          },
+          "--bubble-button-height": {
+            "declared": "76px",
+            "computed": "76px"
+          },
+          "--button-radius-small": {
+            "declared": "8px",
+            "computed": "8px"
+          },
+          "--button-radius-medium": {
+            "declared": "12px",
+            "computed": "12px"
+          },
+          "--button-radius-round": {
+            "declared": "50%",
+            "computed": "50%"
+          },
+          "--footer-text-color": {
+            "declared": "rgba(0, 0, 0, 0.50)",
+            "computed": "rgba(0, 0, 0, 0.50)"
+          },
+          "--bubble-button-focus-box-shadow": {
+            "declared": "0 0 4px 5px rgba(255, 255, 255, .5)",
+            "computed": "0 0 4px 5px rgba(255, 255, 255, .5)"
+          },
+          "--bubble-x-color": {
+            "declared": "#fff",
+            "computed": "#fff"
+          },
+          "--logo-url": {
+            "declared": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/loctite-logo.svg')",
+            "computed": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/loctite-logo.svg')"
+          },
+          "--logo-width": {
+            "declared": "106px",
+            "computed": "106px"
+          },
+          "--logo-height": {
+            "declared": "20px",
+            "computed": "20px"
+          },
+          "--logo-scale": {
+            "declared": "1",
+            "computed": "1"
+          },
+          "--table-header-border-top-radius": {
+            "declared": "4px",
+            "computed": "4px"
+          },
+          "--table-header-border-right": {
+            "declared": "1px solid white",
+            "computed": "1px solid white"
+          },
+          "--initial-chip-button-bg": {
+            "declared": "rgba(255, 255, 255, 0.9)",
+            "computed": "rgba(255, 255, 255, 0.9)"
+          },
+          "--initial-chip-button-bg-hover": {
+            "declared": "#fffffff2",
+            "computed": "#fffffff2"
+          },
+          "--initial-chip-button-box-shadow": {
+            "declared": "0 0 10px rgba(0, 0, 0, 0.5)",
+            "computed": "0 0 10px rgba(0, 0, 0, 0.5)"
+          },
+          "--initial-chip-button-box-shadow-hover": {
+            "declared": "0 6px 14px -3px rgba(225, 0, 15, 0.45)",
+            "computed": "0 6px 14px -3px rgba(225, 0, 15, 0.45)"
+          },
+          "--initial-chip-button-bg-disabled": {
+            "declared": "rgba(68, 68, 68, 0.2)",
+            "computed": "rgba(68, 68, 68, 0.2)"
+          },
+          "--initial-chip-button-border-disabled": {
+            "declared": "rgba(68, 68, 68, 0.4)",
+            "computed": "rgba(68, 68, 68, 0.4)"
+          },
+          "--chip-button-bg": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--chip-button-bg-hover": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--chip-button-bg-active": {
+            "declared": "#EEE",
+            "computed": "#EEE"
+          },
+          "--chip-button-border": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--chip-button-border-hover": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--chip-button-border-active": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--chip-button-text-color": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--chip-button-text-color-hover": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--initial-chat-input-bg": {
+            "declared": "rgba(255, 255, 255, 0.95)",
+            "computed": "rgba(255, 255, 255, 0.95)"
+          },
+          "--initial-chat-input-box-shadow": {
+            "declared": "0px 0px 12px 0px #00000080",
+            "computed": "0px 0px 12px 0px #00000080"
+          },
+          "--chip-button-text-color-selected": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--chip-button-text-color-active": {
+            "declared": "#444444b3",
+            "computed": "#444444b3"
+          },
+          "--chat-input-text-color": {
+            "declared": "rgba(0, 0, 0, 0.5)",
+            "computed": "rgba(0, 0, 0, 0.5)"
+          },
+          "--chat-input-placeholder-color": {
+            "declared": "rgba(0, 0, 0, 0.5)",
+            "computed": "rgba(0, 0, 0, 0.5)"
+          },
+          "--chat-input-placeholder-not-active-color": {
+            "declared": "#00000080",
+            "computed": "#00000080"
+          },
+          "--chat-input-background": {
+            "declared": "#FFF",
+            "computed": "#FFF"
+          },
+          "--chat-input-typing-icon-background": {
+            "declared": "#888888",
+            "computed": "#888888"
+          },
+          "--chat-input-typing-icon-background-active": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--chat-input-initializer-icon-bg-hover": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--chat-input-initializer-icon-bg-active": {
+            "declared": "#444444",
+            "computed": "#444444"
+          },
+          "--chat-header-icons-bg": {
+            "declared": "#FFF",
+            "computed": "#FFF"
+          },
+          "--chat-header-icons-bg-hover": {
+            "declared": "#ffffff80",
+            "computed": "#ffffff80"
+          },
+          "--chat-header-icons-bg-hover-active": {
+            "declared": "#FFF",
+            "computed": "#FFF"
+          },
+          "--chat-header-box-shadow": {
+            "declared": "0px 1px 8px 0px rgba(0, 0, 0, 0.25)",
+            "computed": "0px 1px 8px 0px rgba(0, 0, 0, 0.25)"
+          },
+          "--chat-carousel-info-bg": {
+            "declared": "#000",
+            "computed": "#000"
+          },
+          "--chat-carousel-info-trophy-icon": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--legal-disclaimer-bg": {
+            "declared": "rgba(217, 217, 217, 1)",
+            "computed": "rgba(217, 217, 217, 1)"
+          },
+          "--legal-disclaimer-close-hover-bg": {
+            "declared": "rgba(0, 0, 0, 0.08)",
+            "computed": "rgba(0, 0, 0, 0.08)"
+          },
+          "--legal-disclaimer-close-hover-fill": {
+            "declared": "#111827",
+            "computed": "#111827"
+          },
+          "--textarea-radius-20": {
+            "declared": "20px",
+            "computed": "20px"
+          },
+          "--textarea-radius-15": {
+            "declared": "15px",
+            "computed": "15px"
+          },
+          "--more-info-button-bg": {
+            "declared": "rgba(68, 68, 68, 0.9)",
+            "computed": "rgba(68, 68, 68, 0.9)"
+          },
+          "--more-info-button-bg-hover": {
+            "declared": "#fdfdfd",
+            "computed": "#fdfdfd"
+          },
+          "--more-info-button-color-hover": {
+            "declared": "#444444e5",
+            "computed": "#444444e5"
+          },
+          "--more-info-button-shadow-hover": {
+            "declared": "0px 0px 10px 0px #44444480",
+            "computed": "0px 0px 10px 0px #44444480"
+          },
+          "--where-to-buy-button-bg": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--where-to-buy-button-bg-hover": {
+            "declared": "#fefdfd",
+            "computed": "#fefdfd"
+          },
+          "--where-to-buy-button-border-color": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          },
+          "--where-to-buy-button-shadow-hover": {
+            "declared": "0px 0px 10px 0px #e1000f80",
+            "computed": "0px 0px 10px 0px #e1000f80"
+          },
+          "--where-to-buy-overlay-shadow": {
+            "declared": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)",
+            "computed": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)"
+          },
+          "--where-to-buy-overlay-bg": {
+            "declared": "#eeeeeee5",
+            "computed": "#eeeeeee5"
+          },
+          "--where-to-buy-checkbox-border": {
+            "declared": "#444444b2",
+            "computed": "#444444b2"
+          },
+          "--where-to-buy-row-shadow": {
+            "declared": "0px 0px 6px 0px #00000040",
+            "computed": "0px 0px 6px 0px #00000040"
+          },
+          "--where-to-buy-row-shadow-hover": {
+            "declared": "0px 6px 18px 0px rgba(0, 0, 0, 0.22)",
+            "computed": "0px 6px 18px 0px rgba(0, 0, 0, 0.22)"
+          },
+          "--carousel-item-shadow": {
+            "declared": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)",
+            "computed": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)"
+          },
+          "--carousel-item-shadow-hover": {
+            "declared": "0px 1px 15px 0px #000000bf",
+            "computed": "0px 1px 15px 0px #000000bf"
+          },
+          "--carousel-close-button-bg-hover": {
+            "declared": "#44444433",
+            "computed": "#44444433"
+          },
+          "--delivery-icon-color": {
+            "declared": "rgb(13, 117, 89)",
+            "computed": "rgb(13, 117, 89)"
+          },
+          "--delivery-icon-color-fast": {
+            "declared": "rgb(13, 117, 89)",
+            "computed": "rgb(13, 117, 89)"
+          },
+          "--delivery-icon-color-slow": {
+            "declared": "#E1000F",
+            "computed": "#E1000F"
+          }
+        },
+        "fonts": [
+          {
+            "family": "swiper-icons",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "body",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "body",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "body",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "headings",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "headings",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "headings",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "navigation",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "navigation",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "navigation",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "VideoJS",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gotham",
+            "weight": "900",
+            "style": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "svg",
+            "selector": "nav > ul > li:nth-of-type(1) > div:nth-of-type(1) > div > heliux-icon > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 378,
+              "y": 108,
+              "w": 12,
+              "h": 12
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "nav > ul > li:nth-of-type(2) > div:nth-of-type(1) > div > heliux-icon > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 512,
+              "y": 108,
+              "w": 12,
+              "h": 12
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "nav > ul > li:nth-of-type(3) > div:nth-of-type(1) > div > heliux-icon > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 683,
+              "y": 108,
+              "w": 12,
+              "h": 12
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "nav > ul > li:nth-of-type(4) > div:nth-of-type(1) > div > heliux-icon > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 832,
+              "y": 108,
+              "w": 12,
+              "h": 12
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "nav > ul > li:nth-of-type(5) > div > div > heliux-icon > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 900,
+              "y": 108,
+              "w": 12,
+              "h": 12
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "div:nth-of-type(2) > div > div > div > heliux-icon > a > span > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 2643 767",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": "https://www.loctiteproducts.com/",
+            "inHomeLink": false,
+            "rect": {
+              "x": 88,
+              "y": 84,
+              "w": 130,
+              "h": 60
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "#icon-b2e70eaf1f > button > span > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 1162,
+              "y": 102,
+              "w": 24,
+              "h": 24
+            }
+          },
+          {
+            "tag": "svg",
+            "selector": "heliux-inlinesection > div > div:nth-of-type(2) > div > heliux-icon > a > span > svg",
+            "src": null,
+            "inlineSvg": true,
+            "hasText": false,
+            "viewBox": "0 0 24 24",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": "https://www.loctiteproducts.com/search.html",
+            "inHomeLink": false,
+            "rect": {
+              "x": 1206,
+              "y": 102,
+              "w": 24,
+              "h": 24
+            }
+          }
+        ],
+        "iconFont": {
+          "families": [
+            "swiper-icons"
+          ],
+          "glyphs": []
+        },
+        "consent": {
+          "dismissed": "#onetrust-accept-btn-handler"
+        },
+        "finalUrl": "https://www.loctiteproducts.com/"
+      }
+    }
+  },
+  "aggregate": {
+    "counts": {
+      "pages": 1,
+      "widths": [
+        360,
+        1440
+      ],
+      "measurements": 2
+    },
+    "colors": [
+      {
+        "hex": "#ffffff",
+        "values": [
+          "rgb(255, 255, 255)"
+        ],
+        "weight": 247,
+        "bgArea": 19754131,
+        "by": {
+          "background": 114,
+          "text": 101,
+          "border": 18,
+          "button-text": 8,
+          "heading": 4,
+          "link": 2
+        },
+        "roles": [
+          "background",
+          "text",
+          "border"
+        ],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "body",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "div > heliux-inlinesection > div > div:nth-of-type(5) > div > heliux-icon > a > span:nth-of-type(2)",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#section-7ba55fe2f2 > heliux-text > div > p",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "section:nth-of-type(2) > div > heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-section > div:nth-of-type(3) > section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(2) > heliux-linklist:nth-of-type(1) > div",
+            "prop": "border"
+          }
+        ]
+      },
+      {
+        "hex": "#444444",
+        "values": [
+          "rgb(68, 68, 68)"
+        ],
+        "weight": 83,
+        "bgArea": 1224,
+        "by": {
+          "text": 58,
+          "background": 11,
+          "link": 7,
+          "heading": 7
+        },
+        "roles": [
+          "accent",
+          "heading"
+        ],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "div > div:nth-of-type(1) > div > div > div > div > heliux-header > a",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(1)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#inlinesection-4f51ada51f > div > div > heliux-icon > a",
+            "prop": "link"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#inlinesection-41c4ad47e4 > div > div > heliux-icon > a",
+            "prop": "link"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#title-b04ff5ebc0 > h2",
+            "prop": "heading"
+          }
+        ]
+      },
+      {
+        "hex": "#e1000f",
+        "values": [
+          "rgb(225, 0, 15)",
+          "rgb(224, 0, 15)"
+        ],
+        "weight": 22,
+        "bgArea": 1909246,
+        "by": {
+          "background": 16,
+          "border": 4,
+          "button-background": 2
+        },
+        "roles": [
+          "secondary"
+        ],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "div > div:nth-of-type(1) > div > div > div > div > heliux-header > heliux-banner",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#inlinesection-4f51ada51f > div > div",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "body > section:nth-of-type(2) > sidebar",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "body > section:nth-of-type(2) > sidebar",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a",
+            "prop": "button-background"
+          }
+        ]
+      },
+      {
+        "hex": "#da291c",
+        "values": [
+          "rgb(218, 41, 28)"
+        ],
+        "weight": 9,
+        "bgArea": 40320,
+        "by": {
+          "background": 4,
+          "button-background": 4,
+          "link": 1
+        },
+        "roles": [
+          "primary"
+        ],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#calltoaction-b7f78bc5cf",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#calltoaction-b7f78bc5cf",
+            "prop": "button-background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#inlinesection-4f51ada51f > div > div > heliux-icon > a",
+            "prop": "link"
+          }
+        ]
+      },
+      {
+        "hex": "#eeeeee",
+        "values": [
+          "rgb(238, 238, 238)"
+        ],
+        "weight": 6,
+        "bgArea": 3848710,
+        "by": {
+          "background": 6
+        },
+        "roles": [
+          "surface"
+        ],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#maincontent > div > heliux-section:nth-of-type(1)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#000000",
+        "values": [
+          "rgb(0, 0, 0)"
+        ],
+        "weight": 44,
+        "bgArea": 293150,
+        "by": {
+          "text": 38,
+          "background": 4,
+          "heading": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#section-3d07aef51d > heliux-section > div:nth-of-type(3) > heliux-text:nth-of-type(1) > div > span",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "body > div:nth-of-type(2) > div > heliux-backtotop > div > div > a",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#ugc-gallery-title",
+            "prop": "heading"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "main > div > div:nth-of-type(2) > h2",
+            "prop": "heading"
+          }
+        ]
+      },
+      {
+        "hex": "#00000099",
+        "values": [
+          "rgba(0, 0, 0, 0.6)"
+        ],
+        "weight": 8,
+        "bgArea": 1135930,
+        "by": {
+          "background": 8
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div:nth-of-type(1)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#ffffff99",
+        "values": [
+          "rgba(255, 255, 255, 0.6)"
+        ],
+        "weight": 6,
+        "by": {
+          "text": 4,
+          "link": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a > span",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a",
+            "prop": "link"
+          }
+        ]
+      },
+      {
+        "hex": "#84010a",
+        "values": [
+          "rgb(132, 1, 10)"
+        ],
+        "weight": 4,
+        "bgArea": 26196,
+        "by": {
+          "background": 2,
+          "button-background": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a",
+            "prop": "button-background"
+          }
+        ]
+      }
+    ],
+    "type": {
+      "families": [
+        {
+          "family": "body",
+          "count": 33,
+          "headings": 1,
+          "text": 24,
+          "buttons": 8
+        },
+        {
+          "family": "headings",
+          "count": 12,
+          "headings": 12,
+          "text": 0,
+          "buttons": 0
+        }
+      ],
+      "headingFamily": "headings",
+      "bodyFamily": "body",
+      "sizes": [
+        {
+          "px": 72,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 50,
+          "count": 4,
+          "headings": 4,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 32,
+          "count": 3,
+          "headings": 3,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 28,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 24,
+          "count": 2,
+          "headings": 2,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 18,
+          "count": 24,
+          "headings": 0,
+          "text": 24,
+          "buttons": 0
+        },
+        {
+          "px": 16,
+          "count": 9,
+          "headings": 1,
+          "text": 0,
+          "buttons": 8
+        },
+        {
+          "px": 14,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        }
+      ],
+      "weights": [
+        {
+          "weight": "400",
+          "count": 26,
+          "headings": 2,
+          "text": 24,
+          "buttons": 0
+        },
+        {
+          "weight": "700",
+          "count": 19,
+          "headings": 11,
+          "text": 0,
+          "buttons": 8
+        }
+      ],
+      "levels": {
+        "h1": {
+          "fontSize": 72,
+          "fontWeight": "700",
+          "count": 1,
+          "score": 126
+        },
+        "h2": {
+          "fontSize": 50,
+          "fontWeight": "700",
+          "count": 3,
+          "score": 151.55
+        },
+        "h3": {
+          "fontSize": 14,
+          "fontWeight": "400",
+          "count": 1,
+          "score": 14
+        },
+        "h4": {
+          "fontSize": 28,
+          "fontWeight": "700",
+          "count": 1,
+          "score": 49
+        }
+      }
+    },
+    "motifs": {
+      "radius": {
+        "mode": "8px",
+        "areaMode": "4px 0px 0px 4px",
+        "pill": "50%",
+        "values": [
+          {
+            "value": "50%",
+            "count": 13,
+            "area": 7274,
+            "sources": [
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(1)"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(2)"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "section > div:nth-of-type(2) > div > div > div > heliux-carouselbullets > div > button:nth-of-type(3)"
+              }
+            ]
+          },
+          {
+            "value": "8px",
+            "count": 9,
+            "area": 194740,
+            "sources": [
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "section:nth-of-type(1) > div > heliux-grid > div:nth-of-type(4) > div > div > heliux-icon > button"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "div > heliux-section > div:nth-of-type(3) > heliux-linklist > div > ul > li:nth-of-type(11) > button"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "#icon-b2e70eaf1f > button"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > button:nth-of-type(1)"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > button:nth-of-type(2)"
+              }
+            ]
+          },
+          {
+            "value": "100px",
+            "count": 8,
+            "area": 146340,
+            "sources": [
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "#inlinesection-4f51ada51f > div > div"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "#inlinesection-41c4ad47e4 > div > div"
+              },
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div"
+              }
+            ]
+          },
+          {
+            "value": "4px 0px 0px 4px",
+            "count": 2,
+            "area": 289280,
+            "sources": [
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "body > section:nth-of-type(2) > section"
+              }
+            ]
+          },
+          {
+            "value": "4px 4px 0px 0px",
+            "count": 2,
+            "area": 6464,
+            "sources": [
+              {
+                "url": "https://www.loctiteproducts.com/",
+                "selector": "body > section:nth-of-type(2) > sidebar"
+              }
+            ]
+          }
+        ]
+      },
+      "shadows": [
+        {
+          "value": "rgba(0, 0, 0, 0.2) 0px 0px 10px 0px",
+          "count": 38,
+          "sources": [
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li"
+            },
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(2) > li"
+            },
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(3) > li"
+            },
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "heliux-teaserlist-sliding-v2 > heliux-carousel > section > div:nth-of-type(1) > div > div > ul:nth-of-type(1) > li:nth-of-type(2)"
+            }
+          ]
+        },
+        {
+          "value": "rgba(0, 0, 0, 0.8) 0px 0px 0px 0px",
+          "count": 7,
+          "sources": [
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "#inlinesection-41c4ad47e4 > div > div"
+            },
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "heliux-teaser-v2 > article > div > div > heliux-inlinesection > div > div > div"
+            },
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "#inlinesection-4f51ada51f > div > div"
+            }
+          ]
+        },
+        {
+          "value": "rgba(0, 0, 0, 0.2) 0px 1px 3px 0px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px",
+          "count": 4,
+          "sources": [
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "#wrapper-calltoaction-b7f78bc5cf"
+            },
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "heliux-section > div:nth-of-type(4) > heliux-teaserlist-v2 > heliux-teaserlist-v2 > div:nth-of-type(2) > div > heliux-calltoaction > div"
+            }
+          ]
+        }
+      ],
+      "gradients": [
+        {
+          "value": "linear-gradient(110deg, rgba(0, 0, 0, 0) 20px, rgb(225, 0, 15) 21px, rgb(225, 0, 15) calc(100% - 21px), rgba(0, 0, 0, 0) calc(100% - 20px))",
+          "count": 2,
+          "area": 13500,
+          "sources": [
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a"
+            }
+          ]
+        },
+        {
+          "value": "linear-gradient(110deg, rgba(0, 0, 0, 0) 20px, rgba(0, 0, 0, 0.6) 21px, rgba(0, 0, 0, 0.6) calc(100% - 21px), rgba(0, 0, 0, 0) calc(100% - 20px))",
+          "count": 2,
+          "area": 28524,
+          "sources": [
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "#section-7ba55fe2f2 > heliux-inlinesection > div"
+            }
+          ]
+        },
+        {
+          "value": "linear-gradient(90deg, rgb(237, 28, 36), rgb(196, 22, 28))",
+          "count": 2,
+          "area": 1625912,
+          "sources": [
+            {
+              "url": "https://www.loctiteproducts.com/",
+              "selector": "footer > div > div > heliux-section > div:nth-of-type(1)"
+            }
+          ]
+        }
+      ]
+    },
+    "hover": [
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(132, 1, 10)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgb(132, 1, 10)"
+        },
+        "to": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(132, 1, 10)",
+          "borderColor": "rgb(255, 255, 255)"
+        },
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(2) > div > div > a"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(218, 41, 28)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgb(218, 41, 28)"
+        },
+        "to": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(218, 41, 28)",
+          "borderColor": "rgb(255, 255, 255)"
+        },
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#calltoaction-b7f78bc5cf"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#calltoaction-b7f78bc5cf"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgb(132, 1, 10)"
+        },
+        "to": {
+          "color": "rgb(132, 1, 10)",
+          "borderColor": "rgb(255, 255, 255)"
+        },
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a"
+          },
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "heliux-grid > div:nth-of-type(1) > heliux-inlinesection > div > heliux-calltoaction:nth-of-type(1) > div > div > a"
+          }
+        ]
+      },
+      {
+        "kind": "link",
+        "from": {
+          "color": "rgb(68, 68, 68)"
+        },
+        "to": {
+          "color": "rgb(218, 41, 28)"
+        },
+        "count": 1,
+        "sources": [
+          {
+            "url": "https://www.loctiteproducts.com/",
+            "selector": "#inlinesection-4f51ada51f > div > div > heliux-icon > a"
+          }
+        ]
+      }
+    ],
+    "logo": {
+      "source": "none",
+      "url": null,
+      "selector": null
+    },
+    "iconFont": {
+      "families": [
+        "swiper-icons"
+      ],
+      "glyphs": []
+    }
+  }
+}

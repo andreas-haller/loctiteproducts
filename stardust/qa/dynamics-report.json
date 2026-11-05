@@ -1,0 +1,94 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-05T12:43:41.272Z",
+  "origin": "https://main--ba7ca764--aemcoder.aem.page",
+  "parity": "stardust/dynamics/parity.json"
+ },
+ "results": [
+  {
+   "feature": "country selector modal",
+   "id": "country-modal",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 1440px · heading \"Choose your Country\" · 0 fields · Escape closes: true",
+   "thirdParty": "cdn-vid.squarelovin.com:206×16",
+   "ms": 4616,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header nav menus",
+   "id": "m-header-menus",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "4 × header .nav-sub (min 1)",
+   "thirdParty": "cdn-vid.squarelovin.com:206×22",
+   "ms": 2344,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Popular Products / inspiration carousels",
+   "id": "carousel",
+   "class": "C",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "9 × .products .product-card (min 4)",
+   "thirdParty": "cdn-vid.squarelovin.com:206×22",
+   "ms": 2340,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Popular Products / inspiration carousels",
+   "id": "carousel",
+   "class": "C",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "10 × .inspiration .idea-card (min 3)",
+   "thirdParty": "cdn-vid.squarelovin.com:206×22",
+   "ms": 2327,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Popular Products / inspiration carousels",
+   "id": "carousel",
+   "class": "C",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "2 × .carousel-bullets (min 2)",
+   "thirdParty": "cdn-vid.squarelovin.com:206×22",
+   "ms": 2327,
+   "environmentLimit": null
+  },
+  {
+   "feature": "UGC video wall (autoplay muted loop)",
+   "id": "ugc-videos",
+   "class": "V",
+   "status": "done",
+   "type": "video-plays",
+   "pass": true,
+   "detail": "iframe/video: false · video playing (Δt 0.81s)",
+   "thirdParty": "cdn-vid.squarelovin.com:206×22",
+   "ms": 7662,
+   "environmentLimit": null
+  },
+  {
+   "feature": "no uncaught page errors",
+   "id": "page-errors",
+   "class": "Q",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 1 page(s)",
+   "thirdParty": "",
+   "ms": 8401,
+   "environmentLimit": null
+  }
+ ]
+}

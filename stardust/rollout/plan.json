@@ -1,0 +1,55 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-05T09:17:50.879Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-05T09:17:50.879Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "index"
+  ],
+  "steps": [
+    {
+      "slug": "index",
+      "path": "/",
+      "templateId": "index",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "stage",
+          "edsBlockName": "stage"
+        },
+        {
+          "id": "projects",
+          "edsBlockName": "projects"
+        },
+        {
+          "id": "products",
+          "edsBlockName": "products"
+        },
+        {
+          "id": "inspiration",
+          "edsBlockName": "inspiration"
+        },
+        {
+          "id": "ideas-teaser",
+          "edsBlockName": "ideas-teaser"
+        },
+        {
+          "id": "ugc",
+          "edsBlockName": "ugc"
+        },
+        {
+          "id": "carousel",
+          "edsBlockName": "carousel"
+        }
+      ],
+      "reuse": []
+    }
+  ]
+}

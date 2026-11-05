@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "stardust/prototypes/src/index.tpl.html"
+        ],
+        "createdAt": "2026-11-05T09:16:28.527Z",
+        "reason": "agent decision (replica run): type sizes are lifted verbatim from loctiteproducts.com (h1 72px, h2 50px, body 18px; gate-verified 1.66%/3.41% pixel diff); any change would be a fidelity defect under the empty inconsistency register"
+      }
+    ]
+  }
+}

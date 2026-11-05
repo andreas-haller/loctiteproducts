@@ -1,0 +1,213 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:replica",
+    "mode": "bounded-single",
+    "writtenAt": "2026-11-05T08:16:05Z",
+    "synthesizedFrom": [
+      "stardust/current/pages/index.json",
+      "stardust/replica/lifted-tokens.json"
+    ]
+  },
+  "name": "Loctite Products (current state)",
+  "colors": {
+    "primary": "#e1000f",
+    "accent": "#da291c",
+    "accent-dark": "#84010a",
+    "text": "#444444",
+    "background": "#ffffff",
+    "surface": "#eeeeee",
+    "black": "#000000"
+  },
+  "typography": {
+    "body": {
+      "fontFamily": "Gotham, body, Helvetica Neue, Helvetica, Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "1.2em",
+      "fontWeight": 400
+    },
+    "h1": {
+      "fontFamily": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif",
+      "fontSize": "72px",
+      "fontWeight": 700
+    },
+    "h2": {
+      "fontSize": "50px",
+      "fontWeight": 700
+    },
+    "h4": {
+      "fontSize": "28px",
+      "fontWeight": 700
+    },
+    "navigation": {
+      "fontSize": "16px",
+      "fontWeight": 700,
+      "lineHeight": "1.33em"
+    },
+    "caption": {
+      "fontSize": "16px"
+    },
+    "button": {
+      "fontSize": "14px"
+    }
+  },
+  "rounded": {
+    "default": "8px",
+    "pill": "50px",
+    "round": "50%"
+  },
+  "spacing": {
+    "gutter": "20px",
+    "margin": "20px",
+    "big-margin": "40px"
+  },
+  "components": {
+    "button": {
+      "radius": "50px",
+      "fontSize": "14px"
+    }
+  },
+  "extensions": {
+    "breakpoints": {
+      "containerMaxWidth": "1680px",
+      "probeWidth": 2560,
+      "shellMaxWidth": null,
+      "caps": [
+        {
+          "kind": "module",
+          "px": 1680,
+          "via": "max-width",
+          "selector": "#maincontent > div.main__baseWrapper > heliux-section.section.container > div.section__content.content",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1600,
+          "via": "max-width",
+          "selector": "div.socialwall__base > div > div.sq-w-full.sq-h-full > main.sq-container.sq-w-auto",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 753,
+          "via": "fixed",
+          "selector": "#title-3a00fc62ee > h1.heading1.hide-if-empty-placeholder",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 709,
+          "via": "fixed",
+          "selector": "div.section__content.content > heliux-text.title.container-max-grid > div.heliux-text__wrapper.inpagenavigation__item > span.heading4.hide-if-empty-placeholder",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 649,
+          "via": "fixed",
+          "selector": "main.sq-container.sq-w-auto > div.squarelovin-gallery-container.sq-gallery > div.sq-w-full.sq-flex > h3.squarelovin-gallery-subline.sq-text-2xl",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 440,
+          "via": "fixed",
+          "selector": "#title-b04ff5ebc0 > h2.heading2.hide-if-empty-placeholder",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 405,
+          "via": "other",
+          "selector": "div.carousel__sliderContainer > div.carousel__slider.animated > ul.teaserlist__items.atomic--target > li.teaserlist__item",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 297,
+          "via": "fixed",
+          "selector": "#section-7ba55fe2f2 > heliux-inlinesection.inlinesection.container > div.inlinesection__base.limited-container",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 247,
+          "via": "fixed",
+          "selector": "div.section__content.content > heliux-text.title.container-max-grid > div.heliux-text__wrapper.inpagenavigation__item > span.heading5.hide-if-empty-placeholder",
+          "pages": [
+            "https://www.loctiteproducts.com/"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://www.loctiteproducts.com/",
+          "section": 0,
+          "selector": "#maincontent > div.main__baseWrapper > heliux-section.section.container",
+          "px": 753
+        },
+        {
+          "url": "https://www.loctiteproducts.com/",
+          "section": 1,
+          "selector": "#maincontent > div.main__baseWrapper > heliux-section.section.container",
+          "px": 1680
+        },
+        {
+          "url": "https://www.loctiteproducts.com/",
+          "section": 2,
+          "selector": "#maincontent > div.main__baseWrapper > heliux-section.section.container",
+          "px": 1680
+        },
+        {
+          "url": "https://www.loctiteproducts.com/",
+          "section": 3,
+          "selector": "#maincontent > div.main__baseWrapper > heliux-section.section.container",
+          "px": 1680
+        },
+        {
+          "url": "https://www.loctiteproducts.com/",
+          "section": 4,
+          "selector": "#maincontent > div.main__baseWrapper > heliux-section.section.container",
+          "px": 1680
+        }
+      ],
+      "capRegister": [],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-05T08:14:03.573Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://www.loctiteproducts.com/"
+        ]
+      }
+    },
+    "containers": {
+      "xxl": "1680px",
+      "xl": "1264px",
+      "l": "944px",
+      "m": "728px",
+      "source": "--global-layout-content-max-width-*"
+    },
+    "headerHeight": {
+      "desktop": "107px",
+      "mobile": "60px",
+      "source": "--global-layout-header-height-*"
+    },
+    "fontLicensing": "Gotham is a licensed commercial face (Hoefler&Co); not rehosted — metric-matched open substitute behind the brand family name"
+  }
+}

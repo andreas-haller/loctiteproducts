@@ -1,0 +1,1557 @@
+{
+  "url": "https://www.loctiteproducts.com/",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky header__base--isUp",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky header__base--isUp",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky header__base--isUp",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3275,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1775,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky header__base--isUp",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531 header__base--sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "layoutHeader__base container-max layoutbuilder layoutbuilder__header-b12141e4be header__base header__base--isSticky header__base--isStickyAtTop header1698398585531",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": "#section-46921062a5 .carousel__bullet.next",
+      "frames": [
+        {
+          "t": 26103.299999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(0.5715, 0, 0, 0.5715, 0, 0)",
+          "dots": []
+        },
+        {
+          "t": 26307.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(0.409535, 0, 0, 0.409535, 0, 0)",
+          "dots": []
+        },
+        {
+          "t": 26518.19999999972,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(0.532736, 0, 0, 0.532736, 0, 0)",
+          "dots": []
+        },
+        {
+          "t": 26721.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(0.568083, 0, 0, 0.568083, 0, 0)",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": "header nav .navigation__item--level-0",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(68, 68, 68)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "a.navigation__item-link.navigation__item-link--level-0",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "color 0.1s"
+          },
+          {
+            "el": "span.navigation__icon.navigation__icon--right",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "heliux-icon.icon__chevronRight",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "heliux-icon.icon__openExpand",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "ul.navigation__group.navigation__group--level-1-adjustable",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(68, 68, 68)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "a.navigation__item-link.navigation__item-link--level-0",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "color 0.1s"
+          },
+          {
+            "el": "span.navigation__icon.navigation__icon--right",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "heliux-icon.icon__chevronRight",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "heliux-icon.icon__openExpand",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "ul.navigation__group.navigation__group--level-1-adjustable",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": "#section-46921062a5 .teaserlist__item",
+      "changed": [
+        "self.boxShadow"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(68, 68, 68)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 10px 0px",
+          "opacity": "1",
+          "transition": "overflow 0.4s"
+        },
+        "subs": [
+          {
+            "el": "a.teaserlist__item-link",
+            "transform": "none",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.image__img",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(68, 68, 68)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "rgba(0, 0, 0, 0.8) 0px 0px 10px 0px",
+          "opacity": "1",
+          "transition": "overflow 0.4s"
+        },
+        "subs": [
+          {
+            "el": "a.teaserlist__item-link",
+            "transform": "none",
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.image__img",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".calltoaction__link",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      }
+    ],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "margin-top",
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 274,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 800,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 800,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 800,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 800,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1558,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1558,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1558,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1558,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next-next",
+        "y": 1600,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.active",
+        "y": 1600,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1600,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.active",
+        "y": 1600,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1600,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1874,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1874,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1874,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1874,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 2400,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 2400,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 2400,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 2400,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 3941,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 1804,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1903,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1903,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1903,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1903,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 2352,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 2352,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 2352,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 2352,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 2350,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 2246,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 2246,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 2246,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 2246,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1749,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1749,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1749,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1749,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1480,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1480,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1480,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1480,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 500,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 500,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 500,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 500,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 296,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 795,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 795,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 795,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 795,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1507,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1507,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1507,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1507,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "left",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1866,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1866,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > div.carousel__sliderContainer > div.carousel__slider.animated > ul.teaserlist__items.atomic--target.carousel__slide--shown",
+        "y": 1866,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "left",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.prev",
+        "y": 1866,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.prev",
+        "y": 1866,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "left",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.active",
+        "y": 1866,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.active",
+        "y": 1866,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > div.carousel__sliderContainer > div.carousel__slider.animated > ul.teaserlist__items.atomic--target",
+        "y": 1866,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > div.carousel__sliderContainer > div.carousel__slider.animated > ul.teaserlist__items.atomic--target",
+        "y": 1866,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-backtotop.backtotop.aem-GridColumn.aem-GridColumn--default--12 > div.backtotop__base",
+        "y": 1866,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-backtotop.backtotop.aem-GridColumn.aem-GridColumn--default--12 > div.backtotop__base",
+        "y": 1866,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1866,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 1777,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1700,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1700,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1700,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1700,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-backtotop.backtotop.aem-GridColumn.aem-GridColumn--default--12 > div.backtotop__base.backtotop__base--hidden",
+        "y": 1517,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-backtotop.backtotop.aem-GridColumn.aem-GridColumn--default--12 > div.backtotop__base.backtotop__base--hidden",
+        "y": 1517,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowPrev.carousel__arrow--outside-component > heliux-icon.icon__previous > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > button.carousel__arrow.carousel__arrowNext.carousel__arrow--outside-component > heliux-icon.icon__next > svg",
+        "y": 1517,
+        "dur": "0.6s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "isOnScreen"
+        ],
+        "el": "section.columncontrol.container.responsivegrid > div.heliux-grid__wrapper.customizations__columncontrol > heliux-grid > div.columncontrol__wrapper > heliux-teaser-v2.teaser.margin-block-end-none.teasers__animationsteaser1712147141766",
+        "y": 82
+      },
+      {
+        "added": [
+          "isOnScreen"
+        ],
+        "el": "section.columncontrol.container.responsivegrid > div.heliux-grid__wrapper.customizations__columncontrol > heliux-grid > div.columncontrol__wrapper > heliux-teaser-v2.teaser.margin-block-end-none.teasers__animationsteaser1712147141766",
+        "y": 82
+      },
+      {
+        "added": [
+          "isOnScreen"
+        ],
+        "el": "section.columncontrol.container.responsivegrid > div.heliux-grid__wrapper.customizations__columncontrol > heliux-grid > div.columncontrol__wrapper > heliux-teaser-v2.teaser.margin-block-end-none.teasers__animationsteaser1712147141766",
+        "y": 82
+      },
+      {
+        "added": [
+          "isOnScreen"
+        ],
+        "el": "section.columncontrol.container.responsivegrid > div.heliux-grid__wrapper.customizations__columncontrol > heliux-grid > div.columncontrol__wrapper > heliux-teaser-v2.teaser.margin-block-end-none.teasers__animationsteaser1712147141766",
+        "y": 82
+      },
+      {
+        "added": [
+          "header__base--sticky"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 82
+      },
+      {
+        "added": [
+          "header__base--isUp"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 230
+      },
+      {
+        "added": [
+          "header__base--isUp"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 230
+      },
+      {
+        "added": [
+          "notifications--atTop"
+        ],
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-notifications.notifications.aem-GridColumn.aem-GridColumn--default--12 > div.notifications__base.notifications--atTop",
+        "y": 230
+      },
+      {
+        "added": [
+          "isOnScreen"
+        ],
+        "el": "div.section__content.content.limited-container > heliux-section.section.container.responsivegrid > div.section__content.content.limited-container > heliux-teaserlist-v2.teaserlist.list.margin-block-start-big > heliux-teaserlist-v2.teaserlist.teaserlist__animationsteaserlist1703262354566.isOffScreen",
+        "y": 784
+      },
+      {
+        "added": [
+          "mounted"
+        ],
+        "el": "div.carousel__controls.limited-container.undefined > div.carousel__controlsContainer > div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted",
+        "y": 1594
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.active",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next-next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next-next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next-next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next-next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next-next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next-next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next-next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next-next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next-next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next-next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "mounted"
+        ],
+        "el": "div.carousel__controls.limited-container.undefined > div.carousel__controlsContainer > div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted",
+        "y": 1594
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.active",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1594
+      },
+      {
+        "added": [
+          "isOnScreen"
+        ],
+        "el": "heliux-section.section.container.responsivegrid > div.section__content.content.limited-container > heliux-section.section.container.responsivegrid > div.section__content.content.limited-container > heliux-section.section.container.responsivegrid",
+        "y": 1682
+      },
+      {
+        "added": [
+          "isOnScreen"
+        ],
+        "el": "div.section__content.content.limited-container > heliux-section.section.container.responsivegrid > div.section__content.content.limited-container > heliux-teaserlist-v2.teaserlist.list.alignment-horizontal-center > heliux-teaserlist-v2.teaserlist.teaserlist__animationsteaserlist1703262354566.isOffScreen",
+        "y": 1830
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 2630
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 2630
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 2630
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 2630
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 2727
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 2727
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 2745
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 2745
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 3030
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 3030
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 3145
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 3145
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 3282
+      },
+      {
+        "added": [
+          "loaded"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > video.lozad.squarelovin-media-video.sq-zoom",
+        "y": 3282
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 3504
+      },
+      {
+        "added": [
+          "loaded-skeleton"
+        ],
+        "el": "div.sq-gallery-post-container.sq-flex.sq-flex-col > div.post-component.post-component-sqln-7bafc4dc-a541-43f3-a69c-52251de14d21.sq-w-full > div.sq-post.sq-h-full > div.sq-post-image.sq-relative.sq-w-full > div.skeleton-video.loaded-skeleton",
+        "y": 3504
+      },
+      {
+        "added": [
+          "header__base--isUp"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 1786
+      },
+      {
+        "added": [
+          "header__base--isUp"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 1786
+      },
+      {
+        "added": [
+          "notifications--atTop"
+        ],
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-notifications.notifications.aem-GridColumn.aem-GridColumn--default--12 > div.notifications__base.notifications--atTop",
+        "y": 1786
+      },
+      {
+        "added": [
+          "header__base--sticky"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 78
+      },
+      {
+        "added": [
+          "header__base--isUp"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 196
+      },
+      {
+        "added": [
+          "header__base--isUp"
+        ],
+        "el": "div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-header.header.aem-GridColumn.aem-GridColumn--default--12 > div.header__wrapper > header.layoutHeader__base.container-max.layoutbuilder",
+        "y": 196
+      },
+      {
+        "added": [
+          "notifications--atTop"
+        ],
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-notifications.notifications.aem-GridColumn.aem-GridColumn--default--12 > div.notifications__base.notifications--atTop",
+        "y": 196
+      },
+      {
+        "added": [
+          "prev"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.prev",
+        "y": 1866
+      },
+      {
+        "added": [
+          "prev"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.prev",
+        "y": 1866
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.active",
+        "y": 1866
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1866
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1866
+      },
+      {
+        "added": [
+          "next"
+        ],
+        "el": "div > div.carousel__bulletsContainer > heliux-carouselbullets.mounted > div.carousel__bullets > button.carousel__bullet.next",
+        "y": 1866
+      },
+      {
+        "added": [
+          "carousel__slide--shown"
+        ],
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > div.carousel__sliderContainer > div.carousel__slider > ul.teaserlist__items.atomic--target.carousel__slide--shown",
+        "y": 1866
+      },
+      {
+        "added": [
+          "carousel__slide--shown"
+        ],
+        "el": "section.carousel__base.container-max-grid > div.carousel__sliderContainerWrapper > div.carousel__sliderContainer > div.carousel__slider > ul.teaserlist__items.atomic--target.carousel__slide--shown",
+        "y": 1866
+      },
+      {
+        "added": [
+          "backtotop__base--hidden"
+        ],
+        "el": "body.page.basicpage.page-type-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > heliux-backtotop.backtotop.aem-GridColumn.aem-GridColumn--default--12 > div.backtotop__base.backtotop__base--hidden",
+        "y": 1517
+      }
+    ]
+  }
+}

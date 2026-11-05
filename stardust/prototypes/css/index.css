@@ -1,0 +1,134 @@
+/* home archetype — sections lifted from loctiteproducts.com (gate-measured geometry) */
+
+/* stage (hero) */
+.stage { position: relative; height: 511.19px; overflow: hidden; background: var(--surface); }
+.stage__bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.stage::before { content: ""; position: absolute; inset: 0; z-index: 1; background: linear-gradient(to right, rgba(0, 0, 0, 0.4) 35%, rgba(0, 0, 0, 0) 72%); }
+.stage__content { position: relative; z-index: 2; padding-top: 116px; text-align: center; color: #fff; text-shadow: rgba(0, 0, 0, 0.2) 0 0 10px; }
+.stage__kicker { font-size: 18px; line-height: 21.6px; }
+.stage__switch { display: flex; justify-content: center; margin-top: 22px; }
+.stage__switch-link { display: block; padding: 9px 26px; font-size: 20px; line-height: 24px; color: #fff; text-shadow: none;
+  background-image: linear-gradient(110deg, transparent 20px, rgba(0, 0, 0, 0.6) 21px, rgba(0, 0, 0, 0.6) calc(100% - 21px), transparent calc(100% - 20px)); color: rgba(255, 255, 255, 0.6); }
+.stage__switch-link.is-active { color: #fff; background-image: linear-gradient(110deg, transparent 20px, var(--loctite-red) 21px, var(--loctite-red) calc(100% - 21px), transparent calc(100% - 20px)); }
+.stage__switch-link + .stage__switch-link { margin-left: -24px; }
+.stage h1 { width: fit-content; margin-left: auto; margin-right: auto; margin-top: 53px; font-family: var(--font-headings); font-weight: 700; font-size: 72px; line-height: 86.4px; }
+.stage__lede { margin-top: 0; font-size: 28px; line-height: 33.6px; }
+
+/* choose your project */
+.projects { position: relative; background: var(--surface); padding-top: 60px; }
+.projects .container { position: relative; }
+.projects__title { max-width: 1053px; margin: 0 auto; text-transform: uppercase; }
+.ai-bar { position: absolute; top: 26px; left: 116px; right: 116px; padding: 10px 10px 14px; border-radius: 12px; background: rgba(238, 238, 238, 0.6); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); box-shadow: rgba(0, 0, 0, 0.15) 0 4px 20px; font-size: 13px; line-height: 16px; }
+.ai-bar__chips { display: flex; justify-content: center; gap: 8px; margin-bottom: 10px; }
+.ai-bar__chips span { padding: 7px 8px; border-radius: 6px; background: rgba(0, 0, 0, 0.25); color: #fff; }
+.ai-bar__input { display: flex; align-items: center; gap: 8px; height: 52px; padding: 0 12px; border-radius: 6px; background: #fff; color: rgba(0, 0, 0, 0.5); box-shadow: rgba(0, 0, 0, 0.1) 0 1px 4px; font-size: 14px; }
+.ai-bar__chip--1::before { content: "Product Recommendation"; }
+.ai-bar__chip--2::before { content: "Something else"; }
+.ai-bar__spark::before { content: "\2726"; }
+.ai-bar__placeholder::before { content: "Hi! I'm LOCTITE.AI (beta). How can I help?"; }
+.ai-bar__close { margin-left: auto; position: relative; width: 20px; height: 20px; }
+.ai-bar__close::before, .ai-bar__close::after { content: ""; position: absolute; left: 3px; top: 9px; width: 14px; height: 1.5px; background: #888; transform: rotate(45deg); }
+.ai-bar__close::after { transform: rotate(-45deg); }
+.projects__list { display: flex; justify-content: center; margin-top: 70px; }
+.projects__list li { width: 216px; text-align: center; }
+.projects__icon { display: flex; align-items: center; justify-content: center; width: 136px; height: 136px; margin: 0 auto; border-radius: 50%; background: var(--loctite-red); }
+.projects__icon svg { width: 77px; height: 75px; }
+.projects__desc { display: none; }
+.projects__label { display: block; margin-top: 8px; font-weight: 700; font-size: 18px; line-height: 21.6px; text-transform: uppercase; color: var(--text); }
+.projects__banner { width: 100%; height: auto; margin-top: 61px; }
+
+/* shared card sections */
+.section-intro { margin-top: 20px; text-align: center; font-size: 18px; line-height: 21.6px; }
+.carousel { position: relative; margin: 0 -10px; }
+.carousel__viewport { overflow: hidden; padding: 10px; }
+.carousel__arrow { position: absolute; top: -10px; width: 88px; height: calc(100% - 100px); display: flex; align-items: center; justify-content: center; color: #fff; }
+.carousel__arrow--prev { left: -78px; }
+.carousel__arrow--next { right: -78px; }
+.carousel__arrow svg { width: 35px; height: 35px; opacity: 0; transform: scale(0.6); transition: opacity 0.6s, transform 0.6s; }
+.carousel:hover .carousel__arrow svg { opacity: 1; transform: none; }
+.carousel__track { position: relative; left: 0; display: flex; gap: 20px; transition: left 0.7s ease; }
+.carousel__bullets { display: flex; justify-content: center; align-items: center; height: 70px; margin-top: 30px; }
+.carousel__bullets button { transition: transform 0.7s, background-color 0.3s; transform: scale(1); width: 14px; height: 14px; margin: 0 14px; padding: 0; border-radius: 50%; background: var(--text); }
+.carousel__bullets .is-next { transform: scale(0.5714); background: #aaa; }
+.carousel__bullets .is-next-next { transform: scale(0.2857); background: #aaa; }
+.carousel__bullets .is-prev { transform: scale(0.5714); background: #aaa; }
+.section-cta { text-align: center; }
+
+.product-card:hover, .idea-card:hover { box-shadow: rgba(0, 0, 0, 0.8) 0 0 10px 0; }
+
+main img { transition: opacity 0.6s; }
+main img.is-loading { opacity: 0; }
+
+/* popular products */
+.products { margin: 40px 0 41px; padding: 20px 0 40px; }
+.products .carousel { margin-top: 49px; }
+.card-link { position: absolute; inset: 0; z-index: 1; }
+.product-card { position: relative; flex: 0 0 301px; padding: 20px; box-shadow: var(--card-shadow); background: #fff; color: #000; }
+.product-card img { width: 301px; height: 301px; margin: 0 -20px; max-width: none; object-fit: contain; }
+.product-card__title { display: block; margin-top: 20px; font-weight: 700; font-size: 18px; line-height: 21.6px; }
+.product-card__text { display: block; margin-top: 15px; font-size: 18px; line-height: 21.6px; }
+
+/* inspiration */
+.inspiration { background: var(--surface); padding: 60px 0; }
+.inspiration .carousel { margin-top: 50px; }
+.idea-card { position: relative; flex: 0 0 237px; display: flex; flex-direction: column; padding-bottom: 28px; box-shadow: var(--card-shadow); background: #fff; color: var(--text); }
+.idea-card img { width: 237px; height: 237px; object-fit: cover; }
+.idea-card__title { display: block; padding: 8px 10px 0; font-weight: 700; font-size: 14px; line-height: 17px; }
+.idea-card__arrow { margin-top: auto; padding-left: 10px; }
+.idea-card__arrow svg { width: 29px; height: 29px; fill: var(--text); }
+
+/* UGC wall (Squarelovin widget, rendered state as captured) */
+.ugc { padding: 60px 0 52px; text-align: center; }
+.ugc__title { font-weight: 700; font-size: 24px; line-height: 69px; }
+.ugc__lede { margin-top: 16px; font-family: var(--font-body); font-weight: 400; font-size: 14px; line-height: 17px; }
+.ugc__wall { width: min(1264px, calc(100vw - 80px)); margin: 0 auto; }
+@media (min-width: 1920px) { .ugc__wall { width: min(1680px, calc(100vw - 80px)); } }
+.ugc__grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 9px 8.5px; width: calc(100% - 10px); margin: 30px auto 0; }
+.ugc__tile { position: relative; overflow: hidden; background: #ddd; aspect-ratio: 244 / 326; }
+.ugc__tile--big { aspect-ratio: auto; }
+
+.ideas-teaser h2 { font-family: var(--font-headings); font-weight: 700; font-size: 50px; line-height: 60px; }
+.ideas-teaser h2:first-child { font-size: 72px; line-height: 86.4px; }
+.ugc__post h2, .ugc__post h3 { font-family: var(--font-body); }
+.ugc__tile video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.ugc__tile--1 { grid-column: 1 / span 2; grid-row: 1 / span 2; }
+.ugc__tile--2 { grid-column: 3; grid-row: 1; }
+.ugc__tile--3 { grid-column: 4; grid-row: 1; }
+.ugc__tile--4 { grid-column: 5; grid-row: 1; }
+.ugc__tile--5 { grid-column: 3; grid-row: 2; }
+.ugc__tile--6 { grid-column: 4 / span 2; grid-row: 2 / span 2; }
+.ugc__tile--7 { grid-column: 1; grid-row: 3; }
+.ugc__tile--8 { grid-column: 2; grid-row: 3; }
+
+@media (max-width: 767px) {
+  .stage { height: 471px; }
+  .stage__content { padding-top: 66px; padding-left: 20px; padding-right: 20px; }
+  .stage h1 { width: fit-content; margin-left: auto; margin-right: auto; margin-top: 53px; font-size: 50px; line-height: 60px; }
+  .stage__lede { font-size: 16px; line-height: 21.6px; }
+  .heading2 { font-size: 32px; line-height: 38.4px; }
+  .projects { padding-top: 60px; }
+  .ai-bar { top: 92px; left: 8px; right: 8px; }
+  .ai-bar__chips { flex-direction: column; align-items: flex-start; }
+  .projects__list { flex-wrap: wrap; justify-content: flex-start; margin-top: 69px; gap: 61px 18px; }
+  .projects__list li { width: 151px; }
+  .projects__banner { margin-top: 61px; height: 73px; object-fit: cover; }
+  .product-cards { align-items: flex-start; }
+  .product-card__title { font-size: 16px; line-height: 19.2px; }
+  .products .carousel, .inspiration .carousel { margin-top: 40px; }
+  .idea-card { padding-bottom: 38px; }
+  .carousel__arrow { display: none; }
+  .idea-card__arrow svg { width: 51px; height: 24px; }
+  .product-card { flex-basis: 284px; }
+  .product-card img { width: 284px; height: 284px; }
+  .product-card__text { line-height: 21.6px; }
+  .idea-card { flex-basis: 284px; }
+  .idea-card img { width: 284px; height: 284px; }
+  .ugc { padding: 50px 0 40px; }
+  .products { margin-bottom: 40px; }
+  .ideas-teaser h2 { font-size: 32px; line-height: 38.4px; }
+  .ideas-teaser h2:first-child { font-size: 50px; line-height: 60px; }
+  .ugc__post { padding: 0 25px 0 25px; color: #000; }
+  .ugc__post-title { font-weight: 700; font-size: 24px; line-height: 26px; }
+  .ugc__post-sub { margin-top: 20px; font-size: 24px; line-height: 38px; }
+  .ugc__post img { width: 315px; height: 420px; margin-top: 10px; object-fit: cover; }
+}

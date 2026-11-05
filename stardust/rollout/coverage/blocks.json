@@ -1,0 +1,153 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-05T09:17:50.834Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-05T12:47:16.073Z",
+  "blocks": [
+    {
+      "id": "carousel",
+      "label": "carousel",
+      "kind": "module",
+      "signature": "module:carousel",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "products",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "ideas-teaser",
+      "label": "ideas-teaser",
+      "kind": "module",
+      "signature": "module:ideas-teaser",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "default-content",
+        "blockPath": null,
+        "convertedAt": "2026-11-05T12:47:16.073Z"
+      }
+    },
+    {
+      "id": "inspiration",
+      "label": "inspiration",
+      "kind": "module",
+      "signature": "module:inspiration",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "inspiration",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "products",
+      "label": "products",
+      "kind": "module",
+      "signature": "module:products",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "products",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "projects",
+      "label": "projects",
+      "kind": "module",
+      "signature": "module:projects",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "projects",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "stage",
+      "label": "stage",
+      "kind": "module",
+      "signature": "module:stage",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "stage",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "ugc",
+      "label": "ugc",
+      "kind": "module",
+      "signature": "module:ugc",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "ugc",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

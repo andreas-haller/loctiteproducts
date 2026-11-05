@@ -1,0 +1,96 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "index"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-05T09:18:47Z",
+      "endedAt": "2026-11-05T09:59:07Z",
+      "blocks": 2,
+      "gates": {
+        "360": {
+          "header": "1.35%",
+          "footer": "1.83%"
+        },
+        "1440": {
+          "header": "1.39%",
+          "footer": "1.99%"
+        },
+        "crop": "header/footer bands ≤2% on /drafts/foundation-shell (preview)",
+        "chrome": "chrome-parity 0 deltas; header contract 1 open (panel-visual@1440 country selector — re-check on the home page)"
+      },
+      "verdict": "foundation: nav+footer live, header 1440 1.39%/360 1.35%, footer 1440 1.99%/360 1.83%, chrome-parity 0 deltas, lint ok"
+    },
+    "archetype-index": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "startedAt": "2026-11-05T09:59:07Z",
+      "endedAt": "2026-11-05T12:31:27Z",
+      "blocks": 5,
+      "gates": {
+        "360": {
+          "archetype": "4.64% Δh0 clip0 content0"
+        },
+        "1440": {
+          "archetype": "2.17% Δh0 clip0 content0"
+        },
+        "crop": "header 1.39/1.35%, footer 1.48/1.73% (1440/360) on aem.live",
+        "chrome": "header-compare 1 error: panel-visual@1440 country selector (crop-region artifact)"
+      },
+      "verdict": "index: pages 1/1 live, blocks 5, gate 1440 2.17% Δh 0 / 360 4.64% Δh 0, clip 0, content 0, header-compare 1 errors, requests 2"
+    },
+    "index": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "index"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-05T12:31:37Z",
+      "endedAt": "2026-11-05T12:31:37Z",
+      "blocks": 0,
+      "verdict": "index: pages 0/0 siblings (template index has only its archetype, delivered in archetype-index)"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "startedAt": "2026-11-05T12:33:04Z",
+      "endedAt": "2026-11-05T12:39:54Z",
+      "blocks": 0,
+      "gates": {
+        "360": {
+          "archetype": "4.64% Δh0 clip0 content0 (aem.live)",
+          "preview": "3.39% Δh0 (aem.page, re-frozen foundation)"
+        },
+        "1440": {
+          "archetype": "2.17% Δh0 clip0 content0 (aem.live)",
+          "preview": "1.67% Δh0 (aem.page, re-frozen foundation)"
+        }
+      },
+      "verdict": "gate-all: 1/1 PASS on aem.live — 1440 2.17% Δh 0, 360 4.64% Δh 0, clip 0, content MISSING+HIDDEN 0; coverage updated; foundation requests applied (render-neutral, preview 1.67%/3.39%)"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "startedAt": "2026-11-05T12:40:08Z",
+      "endedAt": "2026-11-05T12:40:08Z",
+      "blocks": 0,
+      "verdict": "final: foundation-freeze check clean; 2 foundation requests resolved (1 applied, 1 reviewed no-change); coverage gated 1/1; C-deliver closed"
+    }
+  }
+}

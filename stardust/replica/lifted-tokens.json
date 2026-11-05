@@ -1,0 +1,30 @@
+{
+  "_provenance": { "writtenBy": "stardust:replica", "phase": "preserve-direction", "sources": ["stardust/current/css/inline.css (inline <style> of the live home page)", "stardust/current/css/all.css (46 live clientlib stylesheets)", "stardust/current/_computed-styles.json", "stardust/current/DESIGN.json extensions.breakpoints (cap-probe)"] },
+  "palette": {
+    "loctiteRed": { "value": "#e1000f", "source": "--global-color-default-background-2 / --color-loctite-red" },
+    "accentRed": { "value": "#da291c", "source": "--global-color-default-accent1" },
+    "darkRed": { "value": "#84010a", "source": "--global-color-secondary-accent2" },
+    "text": { "value": "#444444", "source": "--global-color-default-main-color" },
+    "background": { "value": "#ffffff", "source": "--global-color-default-background" },
+    "surface": { "value": "#eeeeee", "source": "--global-color-default-background-1" },
+    "black": { "value": "#000000", "source": "--global-color-default-accent2" },
+    "hoverGrey": { "value": "#505050", "source": "--global-color-default-accent2-hover" }
+  },
+  "type": {
+    "families": { "body": "body → Gotham Book/Bold", "headings": "headings → Gotham Book/Black", "navigation": "navigation → Gotham Book/Black", "fallback": "Helvetica Neue, Helvetica, Arial, sans-serif", "source": "inline @font-face + --global-fonts-*" },
+    "licensing": "Gotham is a licensed commercial face (Hoefler&Co); not rehosted — metric-matched open substitute behind the brand family name",
+    "body": { "size": "18px", "lineHeight": "1.2em", "source": "--global-type-body-*" },
+    "caption": { "size": "16px", "lineHeight": "1.2em", "source": "--global-type-caption-*" },
+    "linklist": { "size": "16px", "lineHeight": "2.5em", "source": "--global-type-linklist-*" },
+    "navigation": { "size": "16px", "weight": "bold", "lineHeight": "1.33em", "source": "--global-type-navigation-*" },
+    "levels": { "h1": "72px/700", "h2": "50px/700", "h3": "14px/400", "h4": "28px/700", "source": "_computed-styles.json aggregate.type.levels @1440" },
+    "button": { "size": "14px", "weightToken": 600, "source": "--button-font-size / --font-weight-button" }
+  },
+  "layout": {
+    "contentMaxWidth": { "xxl": "1680px", "xl": "1264px", "l": "944px", "m": "728px", "source": "--global-layout-content-max-width-*" },
+    "gutter": "20px", "defaultMargin": "20px", "bigMargin": "40px",
+    "headerHeight": { "desktop": "107px", "mobile": "60px", "source": "--global-layout-header-height-*" },
+    "capProbe": "content 1680px (module), shell fluid — DESIGN.json extensions.breakpoints"
+  },
+  "radius": { "mode": "8px", "pill": "50px (--button-radius)", "round": "50%", "source": "_computed-styles.json aggregate.motifs.radius + custom props" }
+}

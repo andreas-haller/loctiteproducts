@@ -1,0 +1,168 @@
+/* UGC wall — lifted from stardust/prototypes/css/index.css § UGC wall */
+main > .section > .ugc-wrapper {
+  width: auto;
+  max-width: none;
+}
+
+.ugc {
+  padding: 60px 0 52px;
+  text-align: center;
+}
+
+.ugc .ugc-post {
+  display: none;
+}
+
+.ugc .ugc-wall {
+  width: min(1264px, calc(100vw - 80px));
+  margin: 0 auto;
+}
+
+.ugc .ugc-title p {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 69px;
+}
+
+.ugc .ugc-lede {
+  margin-top: 16px;
+}
+
+.ugc .ugc-lede :is(h2, h3) {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.ugc .ugc-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 9px 8.5px;
+  width: calc(100% - 10px);
+  margin: 30px auto 0;
+}
+
+.ugc .ugc-tile {
+  position: relative;
+  overflow: hidden;
+  background: #ddd;
+  aspect-ratio: 244 / 326;
+}
+
+.ugc .ugc-tile.ugc-tile-big {
+  aspect-ratio: auto;
+}
+
+.ugc .ugc-tile video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ugc .ugc-tile-source {
+  display: none;
+}
+
+.ugc .ugc-tile-1 {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+}
+
+.ugc .ugc-tile-2 {
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.ugc .ugc-tile-3 {
+  grid-column: 4;
+  grid-row: 1;
+}
+
+.ugc .ugc-tile-4 {
+  grid-column: 5;
+  grid-row: 1;
+}
+
+.ugc .ugc-tile-5 {
+  grid-column: 3;
+  grid-row: 2;
+}
+
+.ugc .ugc-tile-6 {
+  grid-column: 4 / span 2;
+  grid-row: 2 / span 2;
+}
+
+.ugc .ugc-tile-7 {
+  grid-column: 1;
+  grid-row: 3;
+}
+
+.ugc .ugc-tile-8 {
+  grid-column: 2;
+  grid-row: 3;
+}
+
+.ugc .ugc-post :is(h2, h3) {
+  font-family: var(--font-body);
+}
+
+.ugc .ugc-media img {
+  transition: opacity 0.6s;
+}
+
+.ugc .ugc-media img.is-loading {
+  opacity: 0;
+}
+
+@media (width >= 1920px) {
+  .ugc .ugc-wall {
+    width: min(1680px, calc(100vw - 80px));
+  }
+}
+
+@media (width <= 767px) {
+  .ugc {
+    padding: 50px 0 40px;
+  }
+
+  .ugc .ugc-wall {
+    display: none;
+  }
+
+  .ugc .ugc-post {
+    display: block;
+    padding: 0 25px;
+    color: #000;
+  }
+
+  .ugc .ugc-post-title :is(h2, h3) {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+  }
+
+  .ugc .ugc-post-sub {
+    margin-top: 20px;
+  }
+
+  .ugc .ugc-post-sub :is(h2, h3, h4) {
+    font-size: 24px;
+    line-height: 38px;
+  }
+
+  .ugc .ugc-media {
+    line-height: 0;
+  }
+
+  .ugc .ugc-media img {
+    width: 315px;
+    max-width: none;
+    height: 420px;
+    margin-top: 10px;
+    object-fit: cover;
+  }
+}

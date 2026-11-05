@@ -1,0 +1,80 @@
+{
+ "tool": "chrome-compare",
+ "at": "2026-11-05T10:19:48.295Z",
+ "source": "https://www.loctiteproducts.com/",
+ "build": "https://main--ba7ca764--aemcoder.aem.live/",
+ "profile": "replica",
+ "bar": 0.02,
+ "widths": [
+  390,
+  1440
+ ],
+ "counts": {
+  "error": 1,
+  "warn": 6,
+  "decided": 0
+ },
+ "findings": [
+  {
+   "key": "link-missing@390 link",
+   "width": 390,
+   "path": "link",
+   "id": "link-missing",
+   "severity": "warn",
+   "detail": "top-level link / not in the build header"
+  },
+  {
+   "key": "link-missing@1440 link",
+   "width": 1440,
+   "path": "link",
+   "id": "link-missing",
+   "severity": "warn",
+   "detail": "top-level link /@loctiteglue not in the build header"
+  },
+  {
+   "key": "state-extra@1440 PRODUCTS [hover]",
+   "width": 1440,
+   "path": "PRODUCTS",
+   "action": "hover",
+   "id": "state-extra",
+   "severity": "warn",
+   "detail": "opens on hover on the build only"
+  },
+  {
+   "key": "state-extra@1440 KNOW HOW [hover]",
+   "width": 1440,
+   "path": "KNOW HOW",
+   "action": "hover",
+   "id": "state-extra",
+   "severity": "warn",
+   "detail": "opens on hover on the build only"
+  },
+  {
+   "key": "state-extra@1440 SUSTAINABILITY [hover]",
+   "width": 1440,
+   "path": "SUSTAINABILITY",
+   "action": "hover",
+   "id": "state-extra",
+   "severity": "warn",
+   "detail": "opens on hover on the build only"
+  },
+  {
+   "key": "state-extra@1440 OUR ACTIONS [hover]",
+   "width": 1440,
+   "path": "OUR ACTIONS",
+   "action": "hover",
+   "id": "state-extra",
+   "severity": "warn",
+   "detail": "opens on hover on the build only"
+  },
+  {
+   "key": "panel-visual@1440 menu [click]",
+   "width": 1440,
+   "path": "menu",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 87.6% (bar 2%; source 1440×567, build 600×860; texture 94% thick)"
+  }
+ ]
+}

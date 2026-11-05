@@ -1,0 +1,105 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:migrate",
+    "writtenAt": "2026-11-05T09:17:32Z",
+    "stardustVersion": "0.36.6"
+  },
+  "site": {
+    "originUrl": "https://www.loctiteproducts.com/",
+    "deployUrl": "https://main--ba7ca764--aemcoder.aem.live/",
+    "extractedAt": "2026-11-05T08:12:59.013Z",
+    "pageCap": 1,
+    "totalDiscovered": 1,
+    "crawled": 1
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-05T08:13:18Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "index",
+      "url": "https://www.loctiteproducts.com/",
+      "title": "Homepage",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-05T08:12:59.013Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-05T09:14:51Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-05T09:14:51Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-05T09:14:51Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-05T09:17:32Z"
+        },
+        {
+          "status": "deployed",
+          "at": "2026-11-05T10:11:05.360Z",
+          "by": "stardust:deploy (C-archetype index)"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": "stardust/prototypes/index-proposed.html",
+      "migratedPath": "stardust/migrated/index.html",
+      "liveUrl": "https://main--ba7ca764--aemcoder.aem.live/"
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-05T09:17:21Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/",
+        "outputPath": "index.html",
+        "slug": "index",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 8,
+    "bundledAssets": [
+      "css/canon.css",
+      "css/index.css",
+      "favicon.webp",
+      "fonts/Gotham-Black.woff2",
+      "fonts/Gotham-Bold.woff2",
+      "fonts/Gotham-Book.woff2",
+      "fonts/Gotham-BookIta.woff2",
+      "js/index.js"
+    ],
+    "pages": [
+      {
+        "slug": "index",
+        "file": "stardust/migrated/index.html",
+        "assetsBundled": 8
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-05T09:17:21Z",
+      "rendered": [
+        "index"
+      ],
+      "unchanged": [],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

@@ -1,0 +1,138 @@
+/* stage (hero), home page — lifted from stardust/prototypes/css/index.css § stage */
+
+main > .section > .stage-wrapper {
+  width: auto;
+  max-width: none;
+}
+
+.stage {
+  position: relative;
+  height: 511.19px;
+  overflow: hidden;
+  background: var(--surface);
+}
+
+.stage .stage-bg img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  transition: opacity 0.6s;
+}
+
+.stage .stage-bg img.is-loading {
+  opacity: 0;
+}
+
+.stage .stage-bg-mobile {
+  display: none;
+}
+
+.stage::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(to right, rgb(0 0 0 / 40%) 35%, rgb(0 0 0 / 0%) 72%);
+}
+
+.stage .stage-content {
+  position: relative;
+  z-index: 2;
+  padding-top: 116px;
+  text-align: center;
+  color: #fff;
+  text-shadow: rgb(0 0 0 / 20%) 0 0 10px;
+}
+
+.stage .stage-kicker p {
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
+.stage .stage-switch {
+  display: flex;
+  justify-content: center;
+  margin-top: 22px;
+}
+
+.stage .stage-switch-link a:any-link {
+  display: block;
+  padding: 9px 26px;
+  font-size: 20px;
+  line-height: 24px;
+  color: rgb(255 255 255 / 60%);
+  text-shadow: none;
+  background-image:
+    linear-gradient(
+      110deg,
+      transparent 20px,
+      rgb(0 0 0 / 60%) 21px,
+      rgb(0 0 0 / 60%) calc(100% - 21px),
+      transparent calc(100% - 20px)
+    );
+}
+
+.stage .stage-switch-link.is-active a:any-link {
+  color: #fff;
+  background-image:
+    linear-gradient(
+      110deg,
+      transparent 20px,
+      var(--loctite-red) 21px,
+      var(--loctite-red) calc(100% - 21px),
+      transparent calc(100% - 20px)
+    );
+}
+
+.stage .stage-switch-link + .stage-switch-link {
+  margin-left: -24px;
+}
+
+.stage .stage-headline :is(h1, h2) {
+  width: fit-content;
+  margin: 53px auto 0;
+  font-family: var(--font-headings);
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 86.4px;
+  color: inherit;
+}
+
+.stage .stage-lede p {
+  margin-top: 0;
+  font-size: 28px;
+  line-height: 33.6px;
+}
+
+@media (width <= 767px) {
+  .stage {
+    height: 471px;
+  }
+
+  .stage .stage-bg.has-mobile .stage-bg-desktop {
+    display: none;
+  }
+
+  .stage .stage-bg.has-mobile .stage-bg-mobile {
+    display: block;
+  }
+
+  .stage .stage-content {
+    padding-top: 66px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .stage .stage-headline :is(h1, h2) {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .stage .stage-lede p {
+    font-size: 16px;
+    line-height: 21.6px;
+  }
+}

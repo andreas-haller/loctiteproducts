@@ -1,0 +1,202 @@
+/* inspiration — lifted from stardust/prototypes/css/index.css § inspiration */
+main .section.inspiration-container {
+  padding: 60px 0;
+  background: var(--surface);
+}
+
+.inspiration .idea-card {
+  position: relative;
+  flex: 0 0 237px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 28px;
+  box-shadow: var(--card-shadow);
+  background: #fff;
+  color: var(--text);
+}
+
+.inspiration .idea-card:hover {
+  box-shadow: rgb(0 0 0 / 80%) 0 0 10px 0;
+}
+
+.inspiration .idea-card-media {
+  line-height: 0;
+}
+
+.inspiration .idea-card-media img {
+  width: 237px;
+  height: 237px;
+  max-width: none;
+  object-fit: cover;
+}
+
+.inspiration .idea-card-title {
+  padding: 8px 10px 0;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.inspiration .idea-card-arrow {
+  margin-top: auto;
+  padding-left: 10px;
+}
+
+.inspiration .idea-card-arrow svg {
+  width: 29px;
+  height: 29px;
+  fill: var(--text);
+}
+
+/* carousel — lifted from stardust/prototypes/css/index.css § shared card sections */
+.inspiration {
+  position: relative;
+  margin-top: 50px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.inspiration .carousel-viewport {
+  overflow: hidden;
+  padding: 10px;
+}
+
+.inspiration .carousel-arrow {
+  position: absolute;
+  top: -10px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  height: calc(100% - 100px);
+  color: #fff;
+}
+
+.inspiration .carousel-arrow-prev {
+  left: -78px;
+}
+
+.inspiration .carousel-arrow-next {
+  right: -78px;
+}
+
+.inspiration .carousel-arrow svg {
+  width: 35px;
+  height: 35px;
+  opacity: 0;
+  transform: scale(0.6);
+  transition: opacity 0.6s, transform 0.6s;
+}
+
+.inspiration:hover .carousel-arrow svg {
+  opacity: 1;
+  transform: none;
+}
+
+.inspiration .carousel-track {
+  position: relative;
+  left: 0;
+  display: flex;
+  gap: 20px;
+  transition: left 0.7s ease;
+}
+
+.inspiration .carousel-bullets {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  margin-top: 30px;
+}
+
+.inspiration .carousel-bullets button {
+  display: none;
+  width: 14px;
+  height: 14px;
+  margin: 0 14px;
+  padding: 0;
+  border-radius: 50%;
+  background: var(--text);
+  transform: scale(1);
+  transition: transform 0.7s, background-color 0.3s;
+}
+
+.inspiration .carousel-bullets :is(.is-active, .is-next, .is-next-next, .is-prev) {
+  display: block;
+}
+
+.inspiration .carousel-bullets .is-next,
+.inspiration .carousel-bullets .is-prev {
+  transform: scale(0.5714);
+  background: #aaa;
+}
+
+.inspiration .carousel-bullets .is-next-next {
+  transform: scale(0.2857);
+  background: #aaa;
+}
+
+.inspiration .card-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.inspiration .carousel-track img {
+  transition: opacity 0.6s;
+}
+
+.inspiration .carousel-track img.is-loading {
+  opacity: 0;
+}
+
+/* section head + CTA: default content styled in place */
+main .section.inspiration-container .default-content-wrapper {
+  text-align: center;
+}
+
+main .section.inspiration-container .default-content-wrapper :is(h1, h2, h3) {
+  font-family: var(--font-headings);
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  text-align: center;
+  color: var(--text);
+}
+
+main .section.inspiration-container .default-content-wrapper p:not(:has(a)) {
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
+@media (width <= 767px) {
+  main .section.inspiration-container .default-content-wrapper :is(h1, h2, h3) {
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+
+  .inspiration {
+    margin-top: 40px;
+  }
+
+  .inspiration .carousel-arrow {
+    display: none;
+  }
+
+  .inspiration .idea-card {
+    flex-basis: 284px;
+    padding-bottom: 38px;
+  }
+
+  .inspiration .idea-card-media img {
+    width: 284px;
+    height: 284px;
+  }
+
+  .inspiration .idea-card-arrow svg {
+    width: 51px;
+    height: 24px;
+  }
+}

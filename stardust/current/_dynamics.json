@@ -1,0 +1,924 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-11-05T08:16:10.504Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://www.loctiteproducts.com/"
+  ]
+ },
+ "pages": {
+  "/": {
+   "url": "https://www.loctiteproducts.com/",
+   "status": 200,
+   "host": "www.loctiteproducts.com",
+   "title": "Homepage",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "PRODUCTS",
+     "href": "https://www.loctiteproducts.com/products.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Project",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "All categories",
+     "href": "https://www.loctiteproducts.com/products.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "KNOW HOW",
+     "href": "https://www.loctiteproducts.com/ideas.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Build things",
+     "href": "https://www.loctiteproducts.com/ideas/build-things.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Fix stuff",
+     "href": "https://www.loctiteproducts.com/ideas/fix-stuff.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Technical Bulletins",
+     "href": "https://www.loctiteproducts.com/ideas/technical-bulletins.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Inspiration",
+     "href": "https://www.loctiteproducts.com/ideas/inspiration.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "SUSTAINABILITY",
+     "href": "https://www.loctiteproducts.com/sustainability.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "OUR ACTIONS",
+     "href": "https://www.loctiteproducts.com/our-actions.html",
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "I'm a DIYer",
+     "href": "https://www.loctiteproducts.com/meta/re-direct-to-homepage.html",
+     "marker": "data-components-params-calltoactionmodalcontrol",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 11,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "I'm a PRO",
+     "href": "https://www.loctiteproducts.com/pro.html",
+     "marker": "data-components-params-calltoactionmodalcontrol",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 9,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Explore More",
+     "href": "https://www.loctiteproducts.com/products.html",
+     "marker": "data-components-params-calltoactionmodalcontrol",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 12,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Explore More",
+     "href": "https://www.loctiteproducts.com/ideas.html",
+     "marker": "data-components-params-calltoactionmodalcontrol",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 12,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Explore More",
+     "href": "https://www.loctiteproducts.com/ideas.html",
+     "marker": "data-components-params-calltoactionmodalcontrol",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 12,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "WHERE TO BUY",
+     "href": "https://www.loctiteproducts.com/where-to-buy.html",
+     "marker": "data-components-params-calltoactionmodalcontrol",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 12,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "LOCTITE.AI Assistant",
+     "href": "https://www.loctiteproducts.com/gloolyai.html",
+     "marker": "data-components-params-calltoactionmodalcontrol",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 20,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Icon",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 11,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "This website uses cookies.",
+     "textLen": 751,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Privacy Preference Center",
+     "textLen": 4557,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "Inmoment Embedded",
+     "w": 319,
+     "h": 450
+    },
+    {
+     "src": null,
+     "title": "Inmoment Embedded",
+     "w": 319,
+     "h": 450
+    }
+   ],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en-US",
+    "hreflang": [
+     "fi-FI",
+     "en-US",
+     "hr-HR",
+     "lv-LV",
+     "lt-LT",
+     "sl-SI",
+     "no-NO",
+     "nl-BE",
+     "de-AT",
+     "bg-BG",
+     "en-AU",
+     "mk-MK",
+     "cs-CZ",
+     "ja-JP",
+     "hu-HU",
+     "bs-BA",
+     "sr-RS",
+     "pt-BR",
+     "sk-SK",
+     "es-ES",
+     "it-IT",
+     "pt-PT",
+     "ro-RO",
+     "fr-BE",
+     "sv-SE",
+     "et-EE",
+     "da-DK",
+     "fr-FR",
+     "en-GB"
+    ],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16"
+    ],
+    "adobeDataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "version",
+     "push",
+     "getState",
+     "addEventListener",
+     "removeEventListener"
+    ]
+   },
+   "framework": "angular",
+   "globals": [
+    "_satellite",
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [
+    {
+     "cls": "carousel__slider animated",
+     "cards": 3,
+     "sameSite": 3,
+     "hasDate": false
+    },
+    {
+     "cls": "teaserlist__items atomic--target",
+     "cards": 4,
+     "sameSite": 4,
+     "hasDate": false
+    },
+    {
+     "cls": "teaserlist__items atomic--target",
+     "cards": 4,
+     "sameSite": 4,
+     "hasDate": false
+    },
+    {
+     "cls": "teaserlist__items atomic--target",
+     "cards": 5,
+     "sameSite": 5,
+     "hasDate": false
+    },
+    {
+     "cls": "teaserlist__items atomic--target",
+     "cards": 5,
+     "sameSite": 5,
+     "hasDate": false
+    }
+   ],
+   "inlineScripts": 25,
+   "inlineFetch": false,
+   "mainText": 2130,
+   "domAddedAfterLoad": 926,
+   "hosts": {
+    "www.loctiteproducts.com": 84,
+    "raqn-web-static.azureedge.net": 7,
+    "dm.henkel-dam.com": 23,
+    "cdn.cookielaw.org": 10,
+    "assets.adobedtm.com": 11,
+    "adobedc.demdex.net": 1,
+    "edge.adobedc.net": 5,
+    "connect.facebook.net": 4,
+    "cdn.pricespider.com": 1,
+    "analytics.tiktok.com": 11,
+    "s.pinimg.com": 2,
+    "www.googletagmanager.com": 1,
+    "www.facebook.com": 6,
+    "ct.pinterest.com": 4,
+    "analytics-ipv6.tiktokw.us": 1,
+    "intercept.inmoment.eu": 5,
+    "www.google.com": 3,
+    "ad.doubleclick.net": 1,
+    "googleads.g.doubleclick.net": 1,
+    "intercept-client.inmoment.eu": 1,
+    "mpc-prod-23-s6uit34pua-ue.a.run.app": 1,
+    "api.raqn.io": 1,
+    "delivery-assets.squarelovin.com": 8,
+    "observability.raqn.io": 7,
+    "squarelovin-main-app.s3.eu-central-1.amazonaws.com": 1,
+    "tracking-api.squarelovin.com": 5,
+    "cdn-vid.squarelovin.com": 33
+   },
+   "thirdPartyHosts": [
+    "raqn-web-static.azureedge.net",
+    "dm.henkel-dam.com",
+    "cdn.cookielaw.org",
+    "assets.adobedtm.com",
+    "adobedc.demdex.net",
+    "edge.adobedc.net",
+    "connect.facebook.net",
+    "cdn.pricespider.com",
+    "analytics.tiktok.com",
+    "s.pinimg.com",
+    "www.googletagmanager.com",
+    "www.facebook.com",
+    "ct.pinterest.com",
+    "analytics-ipv6.tiktokw.us",
+    "intercept.inmoment.eu",
+    "www.google.com",
+    "ad.doubleclick.net",
+    "googleads.g.doubleclick.net",
+    "intercept-client.inmoment.eu",
+    "mpc-prod-23-s6uit34pua-ue.a.run.app",
+    "api.raqn.io",
+    "delivery-assets.squarelovin.com",
+    "observability.raqn.io",
+    "squarelovin-main-app.s3.eu-central-1.amazonaws.com",
+    "tracking-api.squarelovin.com",
+    "cdn-vid.squarelovin.com"
+   ],
+   "scripts": [
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/rum/opentelemetry/v1/opentelemetry.lc-247bbc5fc894f7316190ccb12d987bb2-lc.min.js",
+    "https://www.loctiteproducts.com/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/scriptinjector/v1/scriptinjector.lc-9d8426f672baf241fa00beed73bc0c19-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/calltoaction/v1/calltoaction/modalcontrol.lc-8d79204e09963f45d63ba0b1b6d18d9c-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/notifications/v1/notifications.lc-c4e580a89028aa386c61554c144571f3-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/text/v1/text.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/navigation/v1/navigation.lc-def4d30d8d7438b6779f278c1faac0db-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/teaser/v2/teaser.lc-a85b693d773dd20ea3b0969f8d3ca3c7-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/commons/tracking.lc-2742e8fc79900c737c14e9fee0539356-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish.lc-a77a5fa9bd0ad6fec4b397ecf130b47f-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/calltoaction/v1/calltoaction/setactivelink.lc-3c909c964eaf06b32396f3f92fed89c3-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/calltoaction/v1/calltoaction/dropdowncontrol.lc-b4ef6f282b2d6956a91ed9d0c82841bf-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/teaserlist/v2/teaserlist.lc-7e35a9e38e6b71fb0f6dd96f2bb0880b-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/linklist/v1/linklist.lc-d118e05f30b09cda22c05ca5bf202a40-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/tooltip.lc-9f87efe0ccbe3bb21e6a96fcbe49b027-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/badgecontainer/v1/badgecontainer.lc-307846c14bd6cf8dc2fc186e29aa1814-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/tracking/adobeanalytics/v1/adobeanalytics.lc-bcbe8de7cff955155b80897ea9232629-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/onetrust/cookiebanner/v1/cookiebanner.lc-87cd101d09fb1f238b461de12ecb96ee-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/socialwall/v1/socialwall/squarelovin.lc-f4f28169a3a754e6b8947117d2b21dc8-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/accordion/v1/accordion.lc-09dde108308f94090c2c07d6f646666d-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/header/v1/header/banner/sticky.lc-686572d207baa782b94f1651162a9aa7-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/carousel/v1/carousel.lc-8c413468aa6857ed23078a5c708c3417-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/header/v1/header/banner/collapsible.lc-366e8f87ed9fe9dd23b0b43303e03d7f-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/user/visibilityconditionalbehavior/v1/visibilityconditionalbehavior.lc-9e36d693843ee48441734ae852352559-lc.m",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/modal/v1/modal.lc-7a5cc723696add8e76a30a3712bdc428-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/integration/externalcomponent/v1/externalcomponent.lc-cbea31827e14fbe0145390678ed3b708-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/text/v1/copytoclipboard.lc-dc88fe7c40a1213fdaf84500a337c53d-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/header/v1/header/sticky.lc-802bc046d9d0c9683bad9a8eb8609aac-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/image/v1/image.lc-6c7c0b93da75713484ab260fb68b6f74-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/commons/vendors.lc-7bd08a3466c8333e1b47eaa1e69b4c33-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/teaserlist/v2/teaserlistSortAndFilterApi.lc-256cb0367f077f01c2a29e286d43cac2-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/user/redirectflow/v1/redirectflow.lc-4386529efcf6b0507e74c0920d9e0b22-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/backtotop/v1/backtotop.lc-c1f084cea1783cd3a01ca3c4dbf3d362-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/commons/commons.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/animations/v1/animations.lc-68d60b4794dc9d74c01ebc18ec0dab7f-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/commons/treeshaking.lc-4f861967c695f4c083c011a38780ed1c-lc.min.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/content/integration/iframeresizer/v1/iframeresizer.lc-aacfb1c6b1f1d45d331210514fc13c4d-lc.min.js",
+    "https://raqn-web-static.azureedge.net/glooly/polyfills.js",
+    "https://raqn-web-static.azureedge.net/glooly/main.js",
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://www.loctiteproducts.com/etc.clientlibs/heliux/clientlibs/publish/components/structure/navigation/desktopnav/v1/desktopnav.lc-ea32632f57a61e9d10585f19f67961c9-lc.js",
+    "https://cdn.cookielaw.org/scripttemplates/202511.1.0/otBannerSdk.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/launch-80ea02f39a44.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RC4a47e575d98d4d8db27f45554d9b8a54-source.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RCff0ca89dbbe249ce864201d5f498bcdb-source.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RC759ff8db0fe34a928be9e72fb6eb5d80-source.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RCbd4fdb9574c44d4f93f830452cef1569-source.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RC009cf92607a04dba93d90f035910ec68-source.min.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RC86b60c0e7e46472a99d0ea4d887b165b-source.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RCe03155bab06e4b8585d93d1ebc38e031-source.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RC209bd8cbd9cd44ea8c15c108d338bc4d-source.min.js",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RC1465a0b969e84a6db2e649af4f7ed472-source.min.js",
+    "https://cdn.pricespider.com/1/1726/ps-utid.js",
+    "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CPBKLVJC77U05PFEP9UG&lib=ttq",
+    "https://assets.adobedtm.com/6f3e7fc3f999/f4c878a0e7d1/4014dc6624f6/RC7d133cc5672f426a978473012f7822e6-source.min.js",
+    "https://s.pinimg.com/ct/core.js",
+    "https://analytics.tiktok.com/i18n/pixel/static/main.MWJhZThiYmZhMQ.js",
+    "https://s.pinimg.com/ct/lib/main.80c2b6ae.js",
+    "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CNQA25RC77U13F68ORQ0&lib=ttq"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/359f4bc6-3c98-4678-8cd8-4572b51c9beb/359f4bc6-3c98-4678-8cd8-4572b51c9b",
+    "GET raqn-web-static.azureedge.net/glooly/assets/config.json",
+    "GET raqn-web-static.azureedge.net/glooly/assets/api.json",
+    "GET cdn.cookielaw.org/consent/359f4bc6-3c98-4678-8cd8-4572b51c9beb/01a037e9-ed83-7726-89b2-77ba714313",
+    "GET cdn.cookielaw.org/scripttemplates/202511.1.0/assets/otCommonStyles.css",
+    "GET cdn.cookielaw.org/scripttemplates/202511.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202511.1.0/assets/v2/otPcCenter.json",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "GET raqn-web-static.azureedge.net/glooly/assets/i18n/en.json",
+    "POST adobedc.demdex.net/ee/v1/identity/acquire",
+    "POST edge.adobedc.net/ee/or2/v1/interact",
+    "GET ct.pinterest.com/user/",
+    "GET ct.pinterest.com/v3/",
+    "POST www.google.com/ccm/collect",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST www.google.com/rmkt/collect/758278608/",
+    "POST mpc-prod-23-s6uit34pua-ue.a.run.app/events",
+    "POST api.raqn.io/aihub/agents/product-advisor/bff/chats/reset-session",
+    "GET intercept.inmoment.eu/intercept/v1/3146/qhLF1iEJeC91EFEMIq3g==",
+    "POST intercept.inmoment.eu/intercept/v1/log",
+    "POST observability.raqn.io/intake/v2/rum/events",
+    "GET squarelovin-main-app.s3.eu-central-1.amazonaws.com/delivery/streams/7bafc4dc-a541-43f3-a69c-52251de14d21/gallery.json",
+    "POST tracking-api.squarelovin.com/api/ugc/add-event/"
+   ],
+   "postBodies": [
+    {
+     "url": "https://adobedc.demdex.net/ee/v1/identity/acquire?configId=46d31766-bb75-4b7b-838b-4f431a29fef3&requestId=6a77619f-e469-4563-9eb4-2647148f4dda",
+     "body": "{\"query\":{\"identity\":{\"fetch\":[\"ECID\",\"CORE\"]}},\"meta\":{\"target\":{\"migration\":true},\"state\":{\"domain\":\"loctiteproducts.com\",\"cookiesEnabled\":true}}}"
+    },
+    {
+     "url": "https://api.raqn.io/aihub/agents/product-advisor/bff/chats/reset-session",
+     "body": "{}"
+    },
+    {
+     "url": "https://edge.adobedc.net/ee/or2/v1/interact?configId=46d31766-bb75-4b7b-838b-4f431a29fef3&requestId=2a6f9a2b-3278-451d-ba09-cea22e0afa82",
+     "body": "{\"events\":[{\"xdm\":{\"eventType\":\"web.webpagedetails.pageViews\",\"web\":{\"webPageDetails\":{\"URL\":\"https://www.loctiteproducts.com/\",\"name\":\"en\",\"server\":\"www.loctiteproducts.com\",\"pageViews\":{\"value\":1},\"isHomePage\":false,\"isErrorPage\":false,\"siteSection\":\"/\"},\"webReferrer\":{\"URL\":\"\"}},\"device\":{\"screenHeight\":900,\"screenWidth\":1440,\"screenOrientation\":\"landscape\",\"type\":\"desktop\"},\"environment\":{\"typ"
+    },
+    {
+     "url": "https://edge.adobedc.net/ee/or2/v1/interact?configId=46d31766-bb75-4b7b-838b-4f431a29fef3&requestId=88695d26-4c67-47ce-875c-783d33192ae6",
+     "body": "{\"events\":[{\"xdm\":{\"web\":{\"webPageDetails\":{\"URL\":\"https://www.loctiteproducts.com/\",\"server\":\"www.loctiteproducts.com\",\"siteSection\":\"/\"},\"webReferrer\":{\"URL\":\"\"}},\"device\":{\"screenHeight\":900,\"screenWidth\":1440,\"screenOrientation\":\"landscape\"},\"environment\":{\"type\":\"browser\",\"browserDetails\":{\"viewportWidth\":1440,\"viewportHeight\":900}},\"placeContext\":{\"localTimezoneOffset\":0,\"localTime\":\"2026-11"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/758278608/?random=1793866573468&cv=11&fst=1793866573468&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b40h2v9184111259za208zd9184111259xecxf1&gcd=13t3t3t3",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=1709159819.1793866573&dt=Homepage&tid=AW-758278608&en=page_view&dl=https%3A%2F%2Fwww.loctiteproducts.com%2F&scrsrc=www.googletagmanager.com&r",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1709159819.1793866573&gtm=45be6b40h2v9184111259za208zd9184111259xecxf1&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://mpc-prod-23-s6uit34pua-ue.a.run.app/events?cee=no",
+     "body": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"author_article_name\\\":[{\\\"rid\\\":\\\"1662749828755342\\\",\\\"v\\\":[\\\"Homepage\\\"]}],\\\"page_title\\\":[{\\\"rid\\\":\\\"1752900922443125\\\",\\\"v\\\":[\\\"Homepage\\\"]},{\\\"rid\\\":\\\"1382617611599816\\\",\\\"v\\\":[\\\"Homepage\\\"]}],\\\"entity_name\\\":[{\\\"rid\\\":\\\"1763455364957934\\\",\\\"v\\\":[\\\"Homepage\\\"]}],\\\"page_bread_crumbs\\\":[{\\\"rid\\\":\\\"2524925621309845\\\",\\\"v\\\":[\\\"Hom"
+    },
+    {
+     "url": "https://observability.raqn.io/intake/v2/rum/events",
+     "body": ""
+    },
+    {
+     "url": "https://intercept.inmoment.eu/intercept/v1/log",
+     "body": "{\"orgId\":3146,\"visualId\":157,\"interceptId\":159,\"visualType\":\"FEEDBACK_TAB\",\"event\":\"INTERCEPT_TRIGGERED\",\"userId\":\"49a9242c-ef44-4666-b92d-26c783e9aac3\"}"
+    },
+    {
+     "url": "https://observability.raqn.io/intake/v2/rum/events",
+     "body": ""
+    },
+    {
+     "url": "https://tracking-api.squarelovin.com/api/ugc/add-event/",
+     "body": "------WebKitFormBoundaryVfAfLBobiCgWWVQa\r\nContent-Disposition: form-data; name=\"suuid\"\r\n\r\n7bafc4dc-a541-43f3-a69c-52251de14d21\r\n------WebKitFormBoundaryVfAfLBobiCgWWVQa\r\nContent-Disposition: form-data; name=\"subuuid\"\r\n\r\n3343c56f-6195-4320-aa32-889402d90eb6\r\n------WebKitFormBoundaryVfAfLBobiCgWWVQa\r\nContent-Disposition: form-data; name=\"location_url\"\r\n\r\nhttps://www.loctiteproducts.com/\r\n------WebKi"
+    }
+   ],
+   "textAtLoad": 2058,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-unknown-third-party-host-raqn-web-static-azureedge-net",
+   "class": "A",
+   "feature": "unknown third-party host raqn-web-static.azureedge.net",
+   "hint": "inspect",
+   "evidence": [
+    "raqn-web-static.azureedge.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-intercept-inmoment-eu",
+   "class": "A",
+   "feature": "unknown third-party host intercept.inmoment.eu",
+   "hint": "inspect",
+   "evidence": [
+    "intercept.inmoment.eu"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-www-google-com",
+   "class": "A",
+   "feature": "unknown third-party host www.google.com",
+   "hint": "inspect",
+   "evidence": [
+    "www.google.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-mpc-prod-23-s6uit34pua-ue-a-run-a",
+   "class": "A",
+   "feature": "unknown third-party host mpc-prod-23-s6uit34pua-ue.a.run.app",
+   "hint": "inspect",
+   "evidence": [
+    "mpc-prod-23-s6uit34pua-ue.a.run.app"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-api-raqn-io",
+   "class": "A",
+   "feature": "unknown third-party host api.raqn.io",
+   "hint": "inspect",
+   "evidence": [
+    "api.raqn.io"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-observability-raqn-io",
+   "class": "A",
+   "feature": "unknown third-party host observability.raqn.io",
+   "hint": "inspect",
+   "evidence": [
+    "observability.raqn.io"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-squarelovin-main-app-s3-eu-centra",
+   "class": "A",
+   "feature": "unknown third-party host squarelovin-main-app.s3.eu-central-1.amazonaws.com",
+   "hint": "inspect",
+   "evidence": [
+    "squarelovin-main-app.s3.eu-central-1.amazonaws.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-tracking-api-squarelovin-com",
+   "class": "A",
+   "feature": "unknown third-party host tracking-api.squarelovin.com",
+   "hint": "inspect",
+   "evidence": [
+    "tracking-api.squarelovin.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-adobedatalayer",
+   "class": "A",
+   "feature": "CMS / app settings object adobeDataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "cr-client-framework-angular",
+   "class": "CR",
+   "feature": "client framework angular",
+   "hint": "framework",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-fi-fi-en-us-hr-hr-lv-lv-lt-lt-sl-si-no-",
+   "class": "I18N",
+   "feature": "locale variants fi-FI,en-US,hr-HR,lv-LV,lt-LT,sl-SI,no-NO,nl-BE,de-AT,bg-BG,en-AU,mk-MK,cs-CZ,ja-JP,hu-HU,bs-BA,sr-RS,pt-BR,sk-SK,es-ES,it-IT,pt-PT,ro-RO,fr-BE,sv-SE,et-EE,da-DK,fr-FR,en-GB",
+   "hint": "locale",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → button:content",
+   "hint": "chrome-interaction",
+   "evidence": [
+    "https://www.loctiteproducts.com/products.html",
+    "Project",
+    "https://www.loctiteproducts.com/ideas.html"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-data-components-params-calltoactionmodalcont",
+   "class": "M",
+   "feature": "modal trigger data-components-params-calltoactionmodalcontrol → a:content",
+   "hint": "modal",
+   "evidence": [
+    "https://www.loctiteproducts.com/meta/re-direct-to-homepage.html",
+    "https://www.loctiteproducts.com/pro.html",
+    "https://www.loctiteproducts.com/products.html",
+    "https://www.loctiteproducts.com/ideas.html"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-dm-henkel-dam-com",
+   "class": "T",
+   "feature": "unknown third-party host dm.henkel-dam.com",
+   "hint": "inspect",
+   "evidence": [
+    "dm.henkel-dam.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-consent-onetrust",
+   "class": "T",
+   "feature": "consent: OneTrust",
+   "role": "consent: OneTrust",
+   "hint": "tags",
+   "evidence": [
+    "cdn.cookielaw.org"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-tag-manager-adobe-launch",
+   "class": "T",
+   "feature": "tag manager: Adobe Launch",
+   "role": "tag manager: Adobe Launch",
+   "hint": "tags",
+   "evidence": [
+    "assets.adobedtm.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-analytics-adobe-analytics-experience-cloud-id",
+   "class": "T",
+   "feature": "analytics: Adobe Analytics / Experience Cloud ID",
+   "role": "analytics: Adobe Analytics / Experience Cloud ID",
+   "hint": "tags",
+   "evidence": [
+    "adobedc.demdex.net",
+    "edge.adobedc.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "role": "marketing: ad / retargeting pixel",
+   "hint": "tags",
+   "evidence": [
+    "connect.facebook.net",
+    "analytics.tiktok.com",
+    "ct.pinterest.com",
+    "ad.doubleclick.net",
+    "googleads.g.doubleclick.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-cdn-pricespider-com",
+   "class": "T",
+   "feature": "unknown third-party host cdn.pricespider.com",
+   "hint": "inspect",
+   "evidence": [
+    "cdn.pricespider.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-s-pinimg-com",
+   "class": "T",
+   "feature": "unknown third-party host s.pinimg.com",
+   "hint": "inspect",
+   "evidence": [
+    "s.pinimg.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "role": "tag manager: Google Tag Manager",
+   "hint": "tags",
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-www-facebook-com",
+   "class": "T",
+   "feature": "unknown third-party host www.facebook.com",
+   "hint": "inspect",
+   "evidence": [
+    "www.facebook.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-analytics-ipv6-tiktokw-us",
+   "class": "T",
+   "feature": "unknown third-party host analytics-ipv6.tiktokw.us",
+   "hint": "inspect",
+   "evidence": [
+    "analytics-ipv6.tiktokw.us"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-intercept-client-inmoment-eu",
+   "class": "T",
+   "feature": "unknown third-party host intercept-client.inmoment.eu",
+   "hint": "inspect",
+   "evidence": [
+    "intercept-client.inmoment.eu"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-delivery-assets-squarelovin-com",
+   "class": "T",
+   "feature": "unknown third-party host delivery-assets.squarelovin.com",
+   "hint": "inspect",
+   "evidence": [
+    "delivery-assets.squarelovin.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-cdn-vid-squarelovin-com",
+   "class": "T",
+   "feature": "unknown third-party host cdn-vid.squarelovin.com",
+   "hint": "inspect",
+   "evidence": [
+    "cdn-vid.squarelovin.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "hint": "embed-runtime",
+   "evidence": [
+    "onetrust-text-resize",
+    "Inmoment Embedded"
+   ],
+   "pages": [
+    "/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1141 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T08:12:59.013Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "index",
+  "url": "https://www.loctiteproducts.com/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T08:12:59.013Z",
+  "finalUrl": "https://www.loctiteproducts.com/",
+  "title": "Homepage",
+  "description": null,
+  "og": {
+    "title": "Homepage",
+    "description": null,
+    "image": "https://dm.henkel-dam.com/is/image/henkel/DIY-Homepage-Desktop",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "LOCTITE FOR DIYers"
+    },
+    {
+      "tag": "h2",
+      "text": "CHOOSE YOUR PROJECT AND FIND THE RIGHT PRODUCT"
+    },
+    {
+      "tag": "h2",
+      "text": "Popular Products"
+    },
+    {
+      "tag": "h2",
+      "text": "Project Support & Inspiration"
+    },
+    {
+      "tag": "h4",
+      "text": "Social Media"
+    }
+  ],
+  "body": [
+    "Choose your profile:",
+    "Create-Craft",
+    "Install",
+    "Renovate",
+    "Repair",
+    "Loctite is the ultimate provider of strong, simple and long lasting bonds for all your gluing needs and challenging projects.",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Super Glue Ultra Gel Control #text-c6648a4545 { --scope-grid-area: 1 / 13 } Super-tough, durable bonds that resist weather, impact, shock and vibration.",
+    "Super-tough, durable bonds that resist weather, impact, shock and vibration.",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Super Glue Ultra Liquid Control #text-c6648a4545 { --scope-grid-area: 1 / 13 } Fast bonding of common materials. Pin-point control squeeze-grip applicator. Dishwasher safe!",
+    "Fast bonding of common materials. Pin-point control squeeze-grip applicator. Dishwasher safe!",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Power Grab Ultimate Crystal Clear #text-c6648a4545 { --scope-grid-area: 1 / 13 } Works in all conditions and dries crystal clear",
+    "Works in all conditions and dries crystal clear",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite PL Premium Max #text-c6648a4545 { --scope-grid-area: 1 / 13 } Our strongest, most durable construction adhesive",
+    "Our strongest, most durable construction adhesive",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Power Grab All Purpose #text-c6648a4545 { --scope-grid-area: 1 / 13 } Instant bonding that reduces the need for nails and screws. Low odor / water clean up.",
+    "Instant bonding that reduces the need for nails and screws. Low odor / water clean up.",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Super Glue Liquid Professional #text-c6648a4545 { --scope-grid-area: 1 / 13 } Professional applications where fast drytime and highest strength are desired.",
+    "Professional applications where fast drytime and highest strength are desired.",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Fun-tak Mounting Putty Tabs #text-c6648a4545 { --scope-grid-area: 1 / 13 } Loctite Fun-Tak Mounting Putty Tabs are a non-toxic, safe, reusable and repositionable putty alternative for hanging lightweight décor on walls",
+    "Loctite Fun-Tak Mounting Putty Tabs are a non-toxic, safe, reusable and repositionable putty alternative for hanging lightweight décor on walls",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Shoe Glue #text-c6648a4545 { --scope-grid-area: 1 / 13 } Extra strong, flexible, moisture resistant formula dries clear and holds up where constant flexing occurs.",
+    "Extra strong, flexible, moisture resistant formula dries clear and holds up where constant flexing occurs.",
+    "#section-62cfdebc29 { --scope-grid-area: 1 / 13 } #section-1aafc4a458 { --scope-grid-area: 1 / 13 } #ratioimage-4ecfcfe589 { --image-w: 400; --image-h: 400; --image-mw: 1; --image-mh: 1; --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-3d07aef51d { --scope-grid-area: 1 / 13 } #section-61689953e9 { --scope-grid-area: 1 / 13 } #title-c0dc180d78 { --scope-grid-area: 1 / 13 } Loctite Threadlocker Blue #text-c6648a4545 { --scope-grid-area: 1 / 13 } Loctite Threadlocker Blue 242 is designed to lock and seal threaded fasteners and prevent loosening from vibration.",
+    "Loctite Threadlocker Blue 242 is designed to lock and seal threaded fasteners and prevent loosening from vibration.",
+    "Looking for how to's and inspirational ideas? Loctite can help your big ideas come to life. Find inspiration, advice, tips and tricks to get started today.",
+    "#section-7912faa531 { --scope-grid-area: 1 / 13 } #ratioimage-5a0450fbb4 { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-c791f031bd { --scope-grid-area: 1 / 13 } #section-68a1e1568d { --scope-grid-area: 1 / 13 } #title-41c98fc4ae { --scope-grid-area: 1 / 13 } Wood Scraps to Beautiful Trim #icon-24f45e7445 { --icon-size-big:29px; }",
+    "#section-fad923d3f9 { --scope-grid-area: 1 / 13 } #ratioimage-ab5356fd9f { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-46651a755a { --scope-grid-area: 1 / 13 } #section-0da80fc35e { --scope-grid-area: 1 / 13 } #title-def202a169 { --scope-grid-area: 1 / 13 } Upgrade a Salvaged Storage Cabinet #icon-2a75f38f41 { --icon-size-big:29px; }",
+    "#section-7a8839b05c { --scope-grid-area: 1 / 13 } #ratioimage-658567ca62 { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-d106f75e04 { --scope-grid-area: 1 / 13 } #section-9db4e09298 { --scope-grid-area: 1 / 13 } #title-3d8cf7b1f8 { --scope-grid-area: 1 / 13 } Red or blue, we’ve got the right threadlocker for you! #icon-895442bfab { --icon-size-big:29px; }",
+    "#section-616c7f0010 { --scope-grid-area: 1 / 13 } #ratioimage-9df7759a64 { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-8a8b9dba8e { --scope-grid-area: 1 / 13 } #section-2b2d52bb2e { --scope-grid-area: 1 / 13 } #title-4e6a6c8314 { --scope-grid-area: 1 / 13 } How to get super glue off your hands #icon-81627c268a { --icon-size-big:29px; }",
+    "#section-3ce7fd20a4 { --scope-grid-area: 1 / 13 } #ratioimage-996291a77f { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-946b08e1fa { --scope-grid-area: 1 / 13 } #section-72c40c82b8 { --scope-grid-area: 1 / 13 } #title-7b2a844361 { --scope-grid-area: 1 / 13 } Reduce, Reuse, Restore: Give an Antique Chair a Second Chance #icon-99bc06e7c9 { --icon-size-big:29px; }",
+    "#section-5595af93b5 { --scope-grid-area: 1 / 13 } #ratioimage-3a2e6b23ef { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-0490085788 { --scope-grid-area: 1 / 13 } #section-4efb2eecdd { --scope-grid-area: 1 / 13 } #title-b32ff28b59 { --scope-grid-area: 1 / 13 } How to hang a mirror on a wall without nails #icon-2797053111 { --icon-size-big:29px; }",
+    "#section-537ec81eeb { --scope-grid-area: 1 / 13 } #ratioimage-b2750a4af4 { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-216925bf9b { --scope-grid-area: 1 / 13 } #section-c44d7335a3 { --scope-grid-area: 1 / 13 } #title-503a72f46b { --scope-grid-area: 1 / 13 } Old Bathroom Vanity Turned Modern #icon-8f482f01d8 { --icon-size-big:29px; }",
+    "#section-31279ce3b3 { --scope-grid-area: 1 / 13 } #ratioimage-3660dd863c { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-30591f9a59 { --scope-grid-area: 1 / 13 } #section-a6610a44f7 { --scope-grid-area: 1 / 13 } #title-a7747c25f4 { --scope-grid-area: 1 / 13 } DIY Idea: Fluted Wood Using Trim #icon-d055fec493 { --icon-size-big:29px; }",
+    "#section-858d6ef459 { --scope-grid-area: 1 / 13 } #ratioimage-8993c5d097 { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-af04c9650a { --scope-grid-area: 1 / 13 } #section-0422bea360 { --scope-grid-area: 1 / 13 } #title-d7cba4f6fc { --scope-grid-area: 1 / 13 } Makeover an Old Dresser #icon-32536acf2c { --icon-size-big:29px; }",
+    "#section-cf82fb29f7 { --scope-grid-area: 1 / 13 } #ratioimage-e0f4ef6ed1 { --image-w: 1; --image-h: 1; --image-mw: var(--image-m-w); --image-mh: var(--image-m-h); --image-mobile-w: var(--image-mw, var(--image-w)); --image-mobile-h: var(--image-mh, var(--image-h)); } #section-dc8eafb83e { --scope-grid-area: 1 / 13 } #section-af3ac2ab43 { --scope-grid-area: 1 / 13 } #title-56570de48a { --scope-grid-area: 1 / 13 } Create a Kids Play Kitchen Set From an Upcycled Cabinet #icon-d744c9eff7 { --icon-size-big:29px; }"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to Content",
+      "href": "#maincontent"
+    },
+    {
+      "label": "Where to Buy",
+      "href": "https://www.loctiteproducts.com/where-to-buy.html"
+    },
+    {
+      "label": "About LOCTITE",
+      "href": "https://www.loctiteproducts.com/about-loctite.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.loctiteproducts.com/meta/contact.html"
+    },
+    {
+      "label": "PRODUCTS",
+      "href": "/products.html"
+    },
+    {
+      "label": "KNOW HOW",
+      "href": "/ideas.html"
+    },
+    {
+      "label": "SUSTAINABILITY",
+      "href": "/sustainability.html"
+    },
+    {
+      "label": "OUR ACTIONS",
+      "href": "/our-actions.html"
+    },
+    {
+      "label": "PRO",
+      "href": "/pro.html"
+    },
+    {
+      "label": "I'm a DIYer",
+      "href": "/meta/re-direct-to-homepage.html"
+    },
+    {
+      "label": "I'm a PRO",
+      "href": "/pro.html"
+    },
+    {
+      "label": "Create-Craft",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-create-craft.html#results"
+    },
+    {
+      "label": "Install",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-install.html#results"
+    },
+    {
+      "label": "Renovate",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-renovate.html#results"
+    },
+    {
+      "label": "Repair",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-repair.html#results"
+    },
+    {
+      "label": "Explore More",
+      "href": "/products.html"
+    },
+    {
+      "label": "Explore More",
+      "href": "/ideas.html"
+    },
+    {
+      "label": "Create-Craft",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-create-craft.html#results"
+    },
+    {
+      "label": "Install",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-install.html#results"
+    },
+    {
+      "label": "Renovate",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-renovate.html#results"
+    },
+    {
+      "label": "Repair",
+      "href": "https://www.loctiteproducts.com/products/filterpages/products-repair.html#results"
+    },
+    {
+      "label": "View All",
+      "href": "https://www.loctiteproducts.com/products.html"
+    },
+    {
+      "label": "Build things",
+      "href": "https://www.loctiteproducts.com/ideas/build-things.html"
+    },
+    {
+      "label": "Fix stuff",
+      "href": "https://www.loctiteproducts.com/ideas/fix-stuff.html"
+    },
+    {
+      "label": "Technical Bulletins",
+      "href": "https://www.loctiteproducts.com/ideas/technical-bulletins.html"
+    },
+    {
+      "label": "Inspiration",
+      "href": "https://www.loctiteproducts.com/ideas/inspiration.html"
+    },
+    {
+      "label": "Vision",
+      "href": "https://www.loctiteproducts.com/sustainability/vision.html"
+    },
+    {
+      "label": "Our Formula & Our Packaging",
+      "href": "https://www.loctiteproducts.com/sustainability/formula-packaging.html"
+    },
+    {
+      "label": "Social Initiatives",
+      "href": "https://www.loctiteproducts.com/sustainability/social-initiatives.html"
+    },
+    {
+      "label": "Sustainability at Henkel",
+      "href": "https://www.loctiteproducts.com/sustainability/henkel.html"
+    },
+    {
+      "label": "Climate and Nature",
+      "href": "https://www.loctiteproducts.com/sustainability/climate-and-nature.html"
+    },
+    {
+      "label": "History",
+      "href": "https://www.loctiteproducts.com/about-loctite.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.loctiteproducts.com/meta/contact.html"
+    },
+    {
+      "label": "USA / EN",
+      "href": null
+    },
+    {
+      "label": "WHERE TO BUY",
+      "href": "/where-to-buy.html"
+    },
+    {
+      "label": "LOCTITE.AI Assistant",
+      "href": "/gloolyai.html"
+    },
+    {
+      "label": "Henkel",
+      "href": "https://www.henkel-northamerica.com/brands-and-businesses"
+    },
+    {
+      "label": "Site Map",
+      "href": "https:///www.loctiteproducts.com/sitemap.xml"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://www.loctiteproducts.com/meta/data-protection.html"
+    },
+    {
+      "label": "CA Privacy Rights",
+      "href": "https://www.loctiteproducts.com/meta/ca-privacy-rights.html"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.loctiteproducts.com/meta/terms-of-use.html"
+    },
+    {
+      "label": "LImited Warranty",
+      "href": "https://www.loctiteproducts.com/meta/limited-warranty.html"
+    },
+    {
+      "label": "About Ads",
+      "href": "https://www.henkel-northamerica.com/privacy-statement-na?view=content-blank#analytics"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.henkel-northamerica.com/henkel-data-privacy-request"
+    },
+    {
+      "label": "Accessibility statement",
+      "href": "https://www.loctiteproducts.com/meta/accessibility-statement.html"
+    },
+    {
+      "label": "Cookies Policy",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.loctiteproducts.com/#maincontent",
+    "https://www.facebook.com/profile.php?id=100084344770371",
+    "https://www.instagram.com/loctiteglue/",
+    "https://www.tiktok.com/@loctiteglue",
+    "https://www.youtube.com/@_loctiteglue",
+    "https://www.loctiteproducts.com/where-to-buy.html",
+    "https://www.loctiteproducts.com/about-loctite.html",
+    "https://www.loctiteproducts.com/meta/contact.html",
+    "https://www.loctiteproducts.com/products.html",
+    "https://www.loctiteproducts.com/products/filterpages/products-create-craft.html#results",
+    "https://www.loctiteproducts.com/products/filterpages/products-install.html#results",
+    "https://www.loctiteproducts.com/products/filterpages/products-renovate.html#results",
+    "https://www.loctiteproducts.com/products/filterpages/products-repair.html#results",
+    "https://www.loctiteproducts.com/products.html?filter.pimCategory=Construction+Adhesives&filter.sort=recent",
+    "https://www.loctiteproducts.com/products.html?filter.pimCategory=Specialty+Glues+%26+Epoxies&filter.sort=recent",
+    "https://www.loctiteproducts.com/products.html?filter.pimCategory=Super+Glues&filter.sort=recent",
+    "https://www.loctiteproducts.com/products.html?filter.pimCategory=Sealants+%26+Caulks&filter.sort=recent",
+    "https://www.loctiteproducts.com/products.html?filter.pimCategory=Insulating+Spray+Foam&filter.sort=recent",
+    "https://www.loctiteproducts.com/products.html?filter.pimCategory=Mounting+Putty&filter.sort=recent",
+    "https://www.loctiteproducts.com/products.html?filter.pimCategory=Spray+Adhesives&filter.sort=recent",
+    "https://www.loctiteproducts.com/ideas.html",
+    "https://www.loctiteproducts.com/ideas/build-things.html",
+    "https://www.loctiteproducts.com/ideas/build-things/arts-and-crafts-adhesives-mounting-putty-and-spray-adhesive.html",
+    "https://www.loctiteproducts.com/ideas/build-things/best-silicone-sealant.html",
+    "https://www.loctiteproducts.com/ideas/build-things/bathroom-caulk-simple-solution-for-bathroom-projects.html",
+    "https://www.loctiteproducts.com/ideas/build-things/best-epoxy-for-plastic-know-your-plastic-before-you-reach-for-mastic.html",
+    "https://www.loctiteproducts.com/ideas/build-things/best-roof-sealants.html",
+    "https://www.loctiteproducts.com/ideas/build-things/backpack-crafts-make-back-to-school-special.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff/aquarium-silicone-how-to-patch-a-leaky-fish-tank.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff/a-super-glue-with-a-brush-keeps-things-in-your-world-together.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff/ceramic-glue-tips-for-fixing-broken-ceramic-and-which-glue-is-best.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff/ceramic-tile-repair-a-quick-guide-to-saving-tile-and-money.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff/easter-basket-crafts-bunny-baskets-and-more.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff/5-minute-epoxy-repairs-done-quick.html",
+    "https://www.loctiteproducts.com/ideas/technical-bulletins.html",
+    "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-commercial-sealant-applications.html",
+    "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-moisture-and-delamination.html",
+    "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-sealant-best-practices.html",
+    "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-sealant-bubbling.html",
+    "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-sealant-paintability-and-fisheye.html",
+    "https://www.loctiteproducts.com/ideas/technical-bulletins/technical-bulletin-subfloor-assembly-considerations.html",
+    "https://www.loctiteproducts.com/ideas/inspiration.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/bathroom-vanity.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/cinder-block-raised-garden-blog.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/kids-play-kitchen-set.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/clay-candle-holders-blog.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/custom-tv-frame-blog.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/fluted-wood-blog.html",
+    "https://www.loctiteproducts.com/sustainability.html",
+    "https://www.loctiteproducts.com/sustainability/vision.html",
+    "https://www.loctiteproducts.com/sustainability/formula-packaging.html",
+    "https://www.loctiteproducts.com/sustainability/social-initiatives.html",
+    "https://www.loctiteproducts.com/sustainability/henkel.html",
+    "https://www.loctiteproducts.com/sustainability/climate-and-nature.html",
+    "https://www.loctiteproducts.com/our-actions.html",
+    "https://www.loctiteproducts.com/our-actions/loctite-2nd-chance-house-part-2.html",
+    "https://www.loctiteproducts.com/our-actions/loctite-2nd-chance-house.html",
+    "https://www.loctiteproducts.com/our-actions/us-soccer-sponsorship.html",
+    "https://www.loctiteproducts.com/pro.html",
+    "https://www.loctiteproducts.com/",
+    "https://www-loctite-nl.prod.web.raqn.io/experience-fragments/local/language-switch-modal/master.html",
+    "https://www.loctiteproducts.com/search.html",
+    "https://www.loctiteproducts.com/meta/re-direct-to-homepage.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-super-glue-ultra-gel-control/SAP_0201DGL029X9.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-super-glue-ultra-liquid-control/SAP_0201DCL029X2.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-power-grab-ultimate-crystal-clear/SAP_0201C3L029O2.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-pl-premium-max/SAP_0201CRL029P7.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-power-grab-all-purpose/SAP_0201C3L029J4.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-super-glue-liquid-professional/SAP_0201DCL029X4.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-fun-tak-mounting-putty-tabs/SAP_0201BGL02K14.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-shoe-glue/SAP_0201OHL02KB5.html",
+    "https://www.loctiteproducts.com/products/central-pdp.html/loctite-threadlocker-blue/SAP_0201OHL029W4.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/wood-scraps-to-beautiful-trim.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/salvaged-storage-cabinet.html",
+    "https://www.loctiteproducts.com/ideas/build-things/threadlocker-red-or-blue-which-ones-right-for-you.html",
+    "https://www.loctiteproducts.com/ideas/fix-stuff/glue-removal.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/restored-chair-blog.html",
+    "https://www.loctiteproducts.com/ideas/build-things/how-to-hang-a-mirror-on-a-wall-without-nails-a-guide-for-diyers.html",
+    "https://www.loctiteproducts.com/ideas/inspiration/restored-dresser-blog.html",
+    "https://www.loctiteproducts.com/gloolyai.html",
+    "https://www.henkel-northamerica.com/brands-and-businesses",
+    "https://www.loctiteproducts.com/sitemap.xml",
+    "https://www.loctiteproducts.com/meta/data-protection.html",
+    "https://www.loctiteproducts.com/meta/ca-privacy-rights.html",
+    "https://www.loctiteproducts.com/meta/terms-of-use.html",
+    "https://www.loctiteproducts.com/meta/limited-warranty.html",
+    "https://www.henkel-northamerica.com/privacy-statement-na?view=content-blank#analytics",
+    "https://www.henkel-northamerica.com/henkel-data-privacy-request",
+    "https://www.loctiteproducts.com/meta/accessibility-statement.html",
+    "https://www.loctiteproducts.com/#"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/DIY-Homepage-Desktop?wid=1440&fmt=webp&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 1425,
+        "h": 503
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite_web_banner_4096x102?wid=1280&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 1252,
+        "h": 313
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/Loctite_Ultra%20Gel%20Control_Bonus_Breakout%20Pack_FOP?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "Loctite_Ultra Gel Control_Bonus_Breakout Pack_FOP",
+        "w": 288,
+        "h": 471
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/9185739073-Loctite-ultra-liquid-4g-MOHI_Updated?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "9185739073-Loctite-ultra-liquid-4g-MOHI_Updated",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite-power-grab-ultimate-crystal-clear-9oz-cartridge?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "loctite power grab ultimate crystal clear 9oz cartridge",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite-pl-premium-max-9oz-cartridge?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "loctite pl premium max 9oz cartridge",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite-power-grab-all-purpose-6oz-tube?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "loctite power grab all purpose 6oz tube",
+        "w": 288,
+        "h": 750
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/11816172971-loctite-SG-pro-liquid-bottle-2026_OOPFpng?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "11816172971-loctite-SG-pro-liquid-bottle-2026_OOPF.png",
+        "w": 288,
+        "h": 896
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/Loctite-Funtak-FOP-carded-2oz?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "Loctite Funtak FOP carded 2oz",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/Loctite-Shoe-Glue-0.6-oz-Tube-1?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "Loctite Shoe Glue 0.6 oz Tube",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/Loctite-Threadlocker-Blue-6ml-Tube-1?wid=480&fmt=webp-alpha&qlt=90&fit=vfit",
+        "alt": "Loctite Threadlocker Blue 6ml Tube",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/us-loctite-teaser-influencer-blog-maggie-and-joe-1280x1280px?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 230
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/Chris-Yvonne-reclaimedkarma-Loctite-Reduce-Reuse-Restore-Instagram-Photo-teaser?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 230
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite-threadlocker-red-or-blue-website-article-header-image?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 153
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite-us-remove-super-glue-from-skin-1?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 154
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/bryan-and-kathy-teaser_1280x1280?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 230
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite-us-how-to-hang-a-mirror-on-a-wall-without-nails-1?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 154
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/teaser-us-loctite-influencer-amber?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 230
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/honesthome-teaser-1280x1280?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 230
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/sarah-teaser_1280x1280?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 230
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/teaser-us-loctite-influencer-kenna?wid=240&fmt=webp-alpha&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 230,
+        "h": 230
+      },
+      {
+        "src": "https://dm.henkel-dam.com/is/image/henkel/loctite-master_ideas_banner_4096x2048?wid=1440&fmt=webp&qlt=90&fit=hfit,1",
+        "alt": "",
+        "w": 1440,
+        "h": 720
+      }
+    ],
+    "allImgCount": 24,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": [
+      {
+        "src": "https://www.loctiteproducts.com/",
+        "title": "Inmoment Embedded"
+      }
+    ]
+  },
+  "customProps": {
+    "--global-h-flow-dir": "1",
+    "--brandName": "LOCTITE",
+    "--baseUrl": "https://www.loctiteproducts.com",
+    "--embeddedViewUrl": "/loctiteai-hidden.html",
+    "--surveyUrl": "https://feedback.inmoment.eu/websurvey/2/begin?gateway=GW_CKQ5E5&oc=CKQ5E5",
+    "--color-black": "#000000",
+    "--color-black-90": "rgba(0, 0, 0, 0.9)",
+    "--color-black-80": "rgba(0, 0, 0, 0.8)",
+    "--color-white": "#FFFFFF",
+    "--color-loctite-red": "#E1000F",
+    "--primary-font": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif",
+    "--secondary-font": "Gotham, headings, Helvetica Neue, Helvetica, Arial, sans-serif",
+    "--helper-text-font-size-medium": "18px",
+    "--helper-text-font-size": "16px",
+    "--helper-text-font-size-small": "14px",
+    "--helper-text-font-size-extra-small": "13px",
+    "--helper-text-font-size-tiny": "12px",
+    "--helper-text-font-size-extra-tiny": "10px",
+    "--button-font-size": "14px",
+    "--primary-theme-color": "#E1000F",
+    "--secondary-theme-color": "#E1000F",
+    "--error-text-color": "#E1000F",
+    "--button-primary": "#444444",
+    "--button-default": "#444444b3",
+    "--button-primary-focus": "#333333",
+    "--text-primary": "#444444",
+    "--text-secondary": "#fff",
+    "--bg-secondary": "#fff",
+    "--background": "#EEE",
+    "--feedback-prompt-text-line-height": "22px",
+    "--body-gradient": "linear-gradient(#EEE, #EEE)",
+    "--font-weight-bold": "700",
+    "--font-weight-regular": "400",
+    "--font-weight-button": "600",
+    "--button-radius": "50px",
+    "--textarea-radius": "8px",
+    "--overlay-bg": "rgba(0, 0, 0, 0.6)",
+    "--panel-box-shadow-button-hover": "0px 4px 20px 3px rgba(0, 0, 0, 0.3), 0 0 0 0px rgba(255, 255, 255, 0.1)",
+    "--panel-box-shadow-button": "0 4px 20px 3px rgba(0,0,0,0.25)",
+    "--line-height-normal": "1.3",
+    "--bubble-button-zindex": "1",
+    "--bubble-icon-url": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/chat.svg')",
+    "--bubble-icon-size": "40px",
+    "--bubble-button-touch-area-increase": "10px",
+    "--bubble-button-desktop-top-offset": "auto",
+    "--bubble-button-desktop-right-offset": "12px",
+    "--bubble-button-desktop-bottom-offset": "12px",
+    "--bubble-button-desktop-left-offset": "auto",
+    "--bubble-button-radius": "100%",
+    "--bubble-button-width": "76px",
+    "--bubble-button-height": "76px",
+    "--button-radius-small": "8px",
+    "--button-radius-medium": "12px",
+    "--button-radius-round": "50%",
+    "--footer-text-color": "rgba(0, 0, 0, 0.50)",
+    "--bubble-button-focus-box-shadow": "0 0 4px 5px rgba(255, 255, 255, .5)",
+    "--bubble-x-color": "#fff",
+    "--logo-url": "url('https://raqn-web-static.azureedge.net/glooly/assets/icons/loctite-logo.svg')",
+    "--logo-width": "106px",
+    "--logo-height": "20px",
+    "--logo-scale": "1",
+    "--table-header-border-top-radius": "4px",
+    "--table-header-border-right": "1px solid white",
+    "--initial-chip-button-bg": "rgba(255, 255, 255, 0.9)",
+    "--initial-chip-button-bg-hover": "#fffffff2",
+    "--initial-chip-button-box-shadow": "0 0 10px rgba(0, 0, 0, 0.5)",
+    "--initial-chip-button-box-shadow-hover": "0 6px 14px -3px rgba(225, 0, 15, 0.45)",
+    "--initial-chip-button-bg-disabled": "rgba(68, 68, 68, 0.2)",
+    "--initial-chip-button-border-disabled": "rgba(68, 68, 68, 0.4)",
+    "--chip-button-bg": "#EEE",
+    "--chip-button-bg-hover": "#EEE",
+    "--chip-button-bg-active": "#EEE",
+    "--chip-button-border": "#444444b3",
+    "--chip-button-border-hover": "#E1000F",
+    "--chip-button-border-active": "#444444",
+    "--chip-button-text-color": "#444444b3",
+    "--chip-button-text-color-hover": "#E1000F",
+    "--initial-chat-input-bg": "rgba(255, 255, 255, 0.95)",
+    "--initial-chat-input-box-shadow": "0px 0px 12px 0px #00000080",
+    "--chip-button-text-color-selected": "#444444",
+    "--chip-button-text-color-active": "#444444b3",
+    "--chat-input-text-color": "rgba(0, 0, 0, 0.5)",
+    "--chat-input-placeholder-color": "rgba(0, 0, 0, 0.5)",
+    "--chat-input-placeholder-not-active-color": "#00000080",
+    "--chat-input-background": "#FFF",
+    "--chat-input-typing-icon-background": "#888888",
+    "--chat-input-typing-icon-background-active": "#E1000F",
+    "--chat-input-initializer-icon-bg-hover": "#E1000F",
+    "--chat-input-initializer-icon-bg-active": "#444444",
+    "--chat-header-icons-bg": "#FFF",
+    "--chat-header-icons-bg-hover": "#ffffff80",
+    "--chat-header-icons-bg-hover-active": "#FFF",
+    "--chat-header-box-shadow": "0px 1px 8px 0px rgba(0, 0, 0, 0.25)",
+    "--chat-carousel-info-bg": "#000",
+    "--chat-carousel-info-trophy-icon": "#E1000F",
+    "--legal-disclaimer-bg": "rgba(217, 217, 217, 1)",
+    "--legal-disclaimer-close-hover-bg": "rgba(0, 0, 0, 0.08)",
+    "--legal-disclaimer-close-hover-fill": "#111827",
+    "--textarea-radius-20": "20px",
+    "--textarea-radius-15": "15px",
+    "--more-info-button-bg": "rgba(68, 68, 68, 0.9)",
+    "--more-info-button-bg-hover": "#fdfdfd",
+    "--more-info-button-color-hover": "#444444e5",
+    "--more-info-button-shadow-hover": "0px 0px 10px 0px #44444480",
+    "--where-to-buy-button-bg": "#E1000F",
+    "--where-to-buy-button-bg-hover": "#fefdfd",
+    "--where-to-buy-button-border-color": "#E1000F",
+    "--where-to-buy-button-shadow-hover": "0px 0px 10px 0px #e1000f80",
+    "--where-to-buy-overlay-shadow": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)",
+    "--where-to-buy-overlay-bg": "#eeeeeee5",
+    "--where-to-buy-checkbox-border": "#444444b2",
+    "--where-to-buy-row-shadow": "0px 0px 6px 0px #00000040",
+    "--where-to-buy-row-shadow-hover": "0px 6px 18px 0px rgba(0, 0, 0, 0.22)",
+    "--carousel-item-shadow": "0px 6px 10px 0px rgba(0, 0, 0, 0.25)",
+    "--carousel-item-shadow-hover": "0px 1px 15px 0px #000000bf",
+    "--carousel-close-button-bg-hover": "#44444433",
+    "--delivery-icon-color": "rgb(13, 117, 89)",
+    "--delivery-icon-color-fast": "rgb(13, 117, 89)",
+    "--delivery-icon-color-slow": "#E1000F"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 5,
+    "mainTextLen": 26170,
+    "realImageCount": 22,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "raqn-web-static.azureedge.net",
+        "path": "/glooly/assets/config.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 49092,
+        "hits": 1,
+        "example": "https://raqn-web-static.azureedge.net/glooly/assets/config.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "raqn-web-static.azureedge.net",
+        "path": "/glooly/assets/api.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 276,
+        "hits": 1,
+        "example": "https://raqn-web-static.azureedge.net/glooly/assets/api.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/359f4bc6-3c98-4678-8cd8-4572b51c9beb/359f4bc6-3c98-4678-8cd8-4572b51c9beb.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en-us.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/359f4bc6-3c98-4678-8cd8-4572b51c9beb/01a037e9-ed83-7726-89b2-77ba714313eb/en-us.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202511.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202511.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202511.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 3142,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202511.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202511.1.0/assets/v2/otPcCenter.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 13363,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202511.1.0/assets/v2/otPcCenter.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "raqn-web-static.azureedge.net",
+        "path": "/glooly/assets/i18n/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2442,
+        "hits": 1,
+        "example": "https://raqn-web-static.azureedge.net/glooly/assets/i18n/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "adobedc.demdex.net",
+        "path": "/ee/v1/identity/acquire",
+        "query": [
+          "configId",
+          "requestId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://adobedc.demdex.net/ee/v1/identity/acquire",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "edge.adobedc.net",
+        "path": "/ee/or2/v1/interact",
+        "query": [
+          "configId",
+          "requestId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://edge.adobedc.net/ee/or2/v1/interact",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ct.pinterest.com",
+        "path": "/user/",
+        "query": [
+          "cb",
+          "dep",
+          "tid"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 229,
+        "hits": 1,
+        "example": "https://ct.pinterest.com/user/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ct.pinterest.com",
+        "path": "/v3/",
+        "query": [
+          "ad",
+          "cb",
+          "event",
+          "tid"
+        ],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 35,
+        "hits": 1,
+        "example": "https://ct.pinterest.com/v3/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "mpc-prod-23-s6uit34pua-ue.a.run.app",
+        "path": "/events",
+        "query": [
+          "cee"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://mpc-prod-23-s6uit34pua-ue.a.run.app/events",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "apvc",
+          "auid",
+          "did",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "fmt",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft",
+          "tid",
+          "tids"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "did",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gdid",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/rmkt/collect/758278608/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/ccm/s/collect",
+        "query": [
+          "auid",
+          "fmt",
+          "gtm"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/ccm/s/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "api.raqn.io",
+        "path": "/aihub/agents/product-advisor/bff/chats/reset-session",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 201,
+        "bytes": 27,
+        "hits": 1,
+        "example": "https://api.raqn.io/aihub/agents/product-advisor/bff/chats/reset-session",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "intercept.inmoment.eu",
+        "path": "/intercept/v1/{n}/qhLF1iEJeC91EFEMIq3g==",
+        "query": [
+          "cacheKey",
+          "testing"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://intercept.inmoment.eu/intercept/v1/3146/qhLF1iEJeC91EFEMIq3g==",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "observability.raqn.io",
+        "path": "/intake/v2/rum/events",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 202,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://observability.raqn.io/intake/v2/rum/events",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "intercept.inmoment.eu",
+        "path": "/intercept/v1/log",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://intercept.inmoment.eu/intercept/v1/log",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "assets.adobedtm.com",
+        "count": 11
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 4
+      },
+      {
+        "host": "analytics.tiktok.com",
+        "count": 4
+      },
+      {
+        "host": "intercept.inmoment.eu",
+        "count": 3
+      },
+      {
+        "host": "raqn-web-static.azureedge.net",
+        "count": 2
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      },
+      {
+        "host": "s.pinimg.com",
+        "count": 2
+      },
+      {
+        "host": "cdn.pricespider.com",
+        "count": 1
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      },
+      {
+        "host": "ct.pinterest.com",
+        "count": 1
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "count": 1
+      },
+      {
+        "host": "intercept-client.inmoment.eu",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "angular",
+      "aem-sites"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "/products.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/products.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/ideas.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/ideas/build-things.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/ideas/fix-stuff.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/ideas/technical-bulletins.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/ideas/inspiration.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/sustainability.html"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": "/our-actions.html"
+      },
+      {
+        "marker": "data-components-params-calltoactionmodalcontrol",
+        "href": "/meta/re-direct-to-homepage.html"
+      },
+      {
+        "marker": "data-components-params-calltoactionmodalcontrol",
+        "href": "/pro.html"
+      },
+      {
+        "marker": "data-components-params-calltoactionmodalcontrol",
+        "href": "/products.html"
+      },
+      {
+        "marker": "data-components-params-calltoactionmodalcontrol",
+        "href": "/ideas.html"
+      },
+      {
+        "marker": "data-components-params-calltoactionmodalcontrol",
+        "href": "/ideas.html"
+      },
+      {
+        "marker": "data-components-params-calltoactionmodalcontrol",
+        "href": "/where-to-buy.html"
+      },
+      {
+        "marker": "data-components-params-calltoactionmodalcontrol",
+        "href": "/gloolyai.html"
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 21,
+      "thirdPartyScriptHosts": 12,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/index.png",
+  "renderedHtml": "pages/index.html"
+}

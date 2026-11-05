@@ -1,0 +1,15 @@
+{
+  "runtime": "vanilla-eds",
+  "probedFrom": ["scripts/scripts.js", "scripts/aem.js"],
+  "probedAt": "2026-11-05",
+  "blockWrapperClass": "block",
+  "blockWrapper": "div.<name>-wrapper; section gains .<name>-container; block gets .block + data-block-name",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "sectionMetadata": "server-side (pipeline renders section-metadata style → classes); aem.js decorateSections does not read section-metadata",
+  "emptySectionCollapse": true,
+  "chrome": "loadHeader/loadFooter build header/footer blocks in loadLazy; fragments /nav and /footer via blocks/fragment loadFragment (.plain.html)",
+  "icons": "span.icon.icon-<name> → <img src=/icons/<name>.svg> (decorateIcons)",
+  "fonts": "styles/fonts.css loaded by loadFonts() (eager on desktop ≥900px or session flag, always in loadLazy)"
+}

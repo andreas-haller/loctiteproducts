@@ -1,0 +1,31 @@
+{
+  "frozenAt": "2026-11-05T12:42:04.984Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "8f60621a52aad7023862f7242881ca0e9df0e63c725c216b43ac0ec4cfe4c0a1",
+    "blocks/footer/footer.js": "1ddae6d088bc1daae8c5f806ce9999c58780728616fba3458cfec06977eb460d",
+    "blocks/header/header.css": "af7c7a67c169b4779a0f92d14476c448f8d3f76ebc2a5da85e0beb326895af82",
+    "blocks/header/header.js": "68034510a32002f59ad3cd094f1cdbbabfa76363531727c3cdf4e35841899e18",
+    "fonts/LICENSING.md": "30eafbdc59f8f0183de9d3afcbd71e969ca3b0cfb1e3407e85395bfdea71d4b0",
+    "fonts/gotham-black.woff2": "1f9086639b08b55a376a9d02612f8dec6721f880770acec363118e954e971d18",
+    "fonts/gotham-bold.woff2": "7ce0f9c370fda6fa5e4541d1e42905b0e153ca7a4fc3c3e55262cb1bb2da9f23",
+    "fonts/gotham-book.woff2": "a3f8046b1657cacab3b4de03a53d24d2eaf9c8149be4c807c48aab06c7e0ab36",
+    "fonts/gotham-bookita.woff2": "cf2e3d712d8a6c163cd3a19a8908550d373fdc88f458cc734a1d7b844d123cd0",
+    "head.html": "10fec24c1b2d664e1048d2ea30780ea7599be72f6b53de2c30a5a557b99c94c8",
+    "scripts/aem.js": "786e8019b14b4c0bee9df38a3162f129c04310d9d00e7a6dd326c7e5830c84ae",
+    "scripts/consent-check.js": "ac21f825288cfc82c52a6acd9c57bbb76a2017ee1b06319d493244f32751249a",
+    "scripts/consented.js": "8a0ec7239cfab36c9bbfd8e7cde178c6c9061f68da8539879411ee9fa09b18ab",
+    "scripts/scripts.js": "4f8cec7cde8ec98bc036e183af76642efadbdb6cfb8c302b89fc93230974321a",
+    "styles/fonts.css": "b2ae0ec37257433c973f7c9d14912235f763eeabdc03d3fd8208caa909362a6a",
+    "styles/lazy-styles.css": "391d6721991eb169fa04d7c71d9b597361d76c24ab8a3d5f1dcb47457d8ca2d6",
+    "styles/styles.css": "a332f06e228f58c946d635001c66efad33be2ba6cec2dddf513f02dece1b6bf3"
+  }
+}

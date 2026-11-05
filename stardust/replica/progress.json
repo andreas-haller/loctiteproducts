@@ -1,0 +1,34 @@
+{
+  "types": {
+    "landing": {
+      "archetype": "index",
+      "pageType": "landing",
+      "url": "https://www.loctiteproducts.com/",
+      "prototype": "stardust/prototypes/index-proposed.html",
+      "status": "gated",
+      "iterationsUsed": { "1440": "iter1–iter12 + confirm/final rounds (pixel passed from iter2; later rounds were content/chrome parity)", "360": "iter1–iter12 + confirm/final rounds" },
+      "gates": {
+        "1440": { "pixel": "1.66%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost", "visualDiff": "1 advisory (CONTENT GAP: AEM grid wrapper boxes 12 vs 5; headings 7=7) — justified", "chromeParity": "quiet", "chromeCrop": { "header": "1.39%", "footer": "1.48%" }, "clip": 0, "overflow": "ok", "round": "motion2" },
+        "360": { "pixel": "3.41%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost", "visualDiff": "none", "chromeParity": "quiet", "chromeCrop": { "header": "1.35%", "footer": "1.73%" }, "clip": 0, "overflow": "ok", "round": "motion2" },
+        "capProbe": "PASS at 2560 (0 of 6 rows failed)",
+        "prototypeTable": "gates/prototypes-1440 + prototypes-360: 1 PASS each"
+      },
+      "residuals": [
+        "Licensed Gotham faces self-hosted from the source (fonts policy) — licensing alert carried to deploy",
+        "UGC wall (Squarelovin) recreated statically as captured: desktop 8-tile grid of video previews, mobile single-post 'Posted by' state; widget variance on the live origin (it sometimes does not render) may need a mask at the published gate",
+        "LOCTITE.AI assistant bar and the inMoment Feedback tab are third-party overlays: AI bar recreated visually (text via CSS, aria-hidden); Feedback tab not recreated (deferred, dynamic-features.md)"
+      ],
+      "captureState": [
+        { "what": "UGC wall preview videos (8 tiles)", "captured": "first frame, paused", "restoreAtDelivery": "autoplay muted loop previews as on the live wall" }
+      ],
+      "motion": {
+        "observed": "stardust/replica/motion/index.json",
+        "build": "stardust/replica/motion/index-build.json",
+        "implemented": ["sticky header: fixed past its own top, slides up on scroll-down, returns on scroll-up (margin 0.2s)", "carousel: bullet paging, slide via left 0.7s, bullet scale transitions", "card hover: box-shadow rgba(0,0,0,.8)", "carousel arrows fade/scale in on hover (0.6s)", "image fade-in on load (0.6s)", "back-to-top button (fixed, shown after one viewport, 0.4s)", "footer accordions (mobile)", "UGC view swap per width"],
+        "dead": ["nav item hover (no measured diff on live)", "CTA hover (no measured diff on live)"],
+        "notes": "motion-compare class lines differ by name only (is-sticky/is-up vs header__base--sticky/--isUp, is-active/is-next vs active/next); widget/hover MISSING lines are sampler re-query artifacts — verified by direct click/hover test"
+      },
+      "approvedBy": "hands-off"
+    }
+  }
+}

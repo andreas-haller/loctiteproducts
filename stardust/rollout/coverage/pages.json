@@ -1,0 +1,62 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-05T09:17:45.735Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-05T12:46:55.260Z",
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Homepage",
+      "templateId": "index",
+      "source": {
+        "migratedHtml": "stardust/migrated/index.html",
+        "metaJson": "stardust/migrated/_meta.json",
+        "sourceHash": "sha256:67b2151d6dba41077cfbd20815d4b89a1fc27e2ae75a4b24599f21f9a0ae2ce4",
+        "sourceUrl": "https://www.loctiteproducts.com/"
+      },
+      "blocks": [
+        "stage",
+        "projects",
+        "products",
+        "inspiration",
+        "ideas-teaser",
+        "ugc",
+        "carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--ba7ca764--aemcoder.aem.live/",
+        "deployedAt": "2026-11-05T10:10:56.265Z",
+        "verifiedAt": "2026-11-05T12:46:55.260Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.64,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-05T12:39:46.852Z"
+        }
+      }
+    }
+  ]
+}

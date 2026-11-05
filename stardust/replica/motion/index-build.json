@@ -1,0 +1,1126 @@
+{
+  "url": "http://localhost:8791/index-proposed.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "site-header",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "site-header",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "site-header is-sticky is-up",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "site-header is-sticky is-up",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "site-header is-sticky is-up",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3275,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1775,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "site-header is-sticky is-up",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "site-header is-sticky",
+      "position": "fixed",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "site-header",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "site-header",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "site-header",
+      "position": "relative",
+      "height": "107px",
+      "transform": "none",
+      "transition": "transform 0.2s, margin 0.2s, background-color 0.2s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".products .carousel__bullets .is-next",
+      "frames": [
+        {
+          "t": 10049.900000000373,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 10253.80000000028,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 10456.900000000373,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 10660,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".nav-l0__item",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(68, 68, 68)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(68, 68, 68)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.",
+            "transform": "none",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".product-card",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 10px 0px",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "a.card-link",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "opacity 0.6s"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 10px 0px",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "a.card-link",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "opacity 0.6s"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".cta",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(218, 41, 28)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(218, 41, 28)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2025/05/27/6835c4efc01ca4e8a0094f16/18058206992464681_1748354287.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2025/05/25/683275adf1699b83b9057d8c/17844430242490429_1748137390.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2025/05/07/681ab3dffc79a092510d3552/18340360585093017_1746580447.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2024/09/19/66ebd098ef857fc1a00d388d/3410096479103477662_1726730392.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2025/04/15/67fe8a7fb6692e177c0a8462/18068204461821946_1744734848.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2025/05/04/6816be34d4eb5ce913079cf2/18142581538390097_1746320948.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2025/04/30/68125100adb4699fb70076c4/17929159824024700_1746030849.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://cdn-vid.squarelovin.com/media/posts/production/2024/11/11/6731e620fd7653b11f02a4a4/3491986305379925285_1731323424.mp4?sq-type=preview",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      }
+    ],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "margin-top",
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 400,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 800,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 800,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 800,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 800,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "html > body > div.backtotop",
+        "y": 1200,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "html > body > div.backtotop",
+        "y": 1200,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1600,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1600,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1600,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1600,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 2000,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 2000,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 2000,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 2000,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "html > body > header.site-header.is-sticky",
+        "y": 3275,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1775,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1775,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1775,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1775,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 2400,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 2400,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1200,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1200,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1200,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1200,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "html > body > header.site-header.is-sticky",
+        "y": 1200,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "html > body > div.backtotop.is-hidden",
+        "y": 800,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "html > body > div.backtotop.is-hidden",
+        "y": 800,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 500,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 500,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 500,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.products > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 500,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 1865,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "html > body > div.backtotop",
+        "y": 1865,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "html > body > div.backtotop",
+        "y": 1865,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "background-color",
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-prev",
+        "y": 1865,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-prev",
+        "y": 1865,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-next",
+        "y": 1865,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "background-color",
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-active",
+        "y": 1865,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-active",
+        "y": 1865,
+        "dur": "0.7s, 0.3s"
+      },
+      {
+        "prop": "left",
+        "el": "section.products > div.container > section.carousel > div.carousel__viewport > ul.carousel__track.product-cards",
+        "y": 1865,
+        "dur": "0.7s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1865,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1409,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1409,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1409,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1409,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "html > body > header.site-header.is-sticky",
+        "y": 1409,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 1819,
+        "dur": "0.2s, 0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--prev > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.inspiration > div.container > section.carousel > button.carousel__arrow.carousel__arrow--next > svg",
+        "y": 1819,
+        "dur": "0.6s, 0.6s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-sticky",
+          "is-up"
+        ],
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-up"
+        ],
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-up"
+        ],
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 2400
+      },
+      {
+        "added": [
+          "is-hidden"
+        ],
+        "el": "html > body > div.backtotop.is-hidden",
+        "y": 800
+      },
+      {
+        "added": [
+          "is-sticky",
+          "is-up"
+        ],
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-up"
+        ],
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-prev"
+        ],
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-prev",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-prev"
+        ],
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-prev",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-active",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-next"
+        ],
+        "el": "section.products > div.container > section.carousel > div.carousel__bullets > button.is-next",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-up"
+        ],
+        "el": "html > body > header.site-header.is-sticky.is-up",
+        "y": 1819
+      }
+    ]
+  }
+}

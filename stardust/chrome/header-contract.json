@@ -1,0 +1,782 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://www.loctiteproducts.com/",
+ "at": "2026-11-05T09:40:30.013Z",
+ "shots": "stardust/.work/chrome/header-contract",
+ "widths": {
+  "390": {
+   "root": "#experiencefragment-4825bb645c>div>div>div>heliux-header",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-5f367a59c8>a",
+     "href": "https://www.loctiteproducts.com/",
+     "expanded": null,
+     "rect": [
+      137,
+      20,
+      117,
+      60
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Country Switch",
+     "key": "country switch",
+     "role": "link",
+     "kind": "locale",
+     "sel": "#icon-930d245af7>a",
+     "href": "https://www-loctite-nl.prod.web.raqn.io/experience-fragments/local/language-switch-modal/master.html",
+     "expanded": null,
+     "rect": [
+      20,
+      38,
+      24,
+      24
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-aabd746efd>a",
+     "href": "https://www.loctiteproducts.com/search.html",
+     "expanded": null,
+     "rect": [
+      54,
+      38,
+      24,
+      24
+     ],
+     "actions": {}
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 100,
+     "position": "relative",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 100,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 100,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 100,
+     "position": "relative",
+     "inView": true
+    }
+   ],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 84,
+   "maxRequests": 600,
+   "inputsSkipped": 0
+  },
+  "1440": {
+   "root": "#experiencefragment-4825bb645c>div>div>div>heliux-header",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-70deb5fa45>a",
+     "href": "https://www.facebook.com/profile.php?id=100084344770371",
+     "expanded": null,
+     "rect": [
+      769,
+      10,
+      40,
+      40
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-0fd62d1349>a",
+     "href": "https://www.instagram.com/loctiteglue/",
+     "expanded": null,
+     "rect": [
+      829,
+      10,
+      40,
+      40
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-5398e79e1d>a",
+     "href": "https://www.tiktok.com/@loctiteglue",
+     "expanded": null,
+     "rect": [
+      889,
+      15,
+      30,
+      30
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-d34e3e69ba>a",
+     "href": "https://www.youtube.com/@_loctiteglue",
+     "expanded": null,
+     "rect": [
+      939,
+      10,
+      40,
+      40
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Where to Buy",
+     "key": "where to buy",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-b3a94f8952>a",
+     "href": "https://www.loctiteproducts.com/where-to-buy.html",
+     "expanded": null,
+     "rect": [
+      999,
+      19,
+      115,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "About LOCTITE",
+     "key": "about loctite",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-6699b032a3>a",
+     "href": "https://www.loctiteproducts.com/about-loctite.html",
+     "expanded": null,
+     "rect": [
+      1133,
+      19,
+      131,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Contact",
+     "key": "contact",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-4e2501bb39>a",
+     "href": "https://www.loctiteproducts.com/meta/contact.html",
+     "expanded": null,
+     "rect": [
+      1284,
+      19,
+      68,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "PRODUCTS",
+     "key": "products",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#adjustablenavigation-2871c278c5>ul>li:nth-of-type(1)>div:nth-of-type(1)>a",
+     "expanded": null,
+     "rect": [
+      265,
+      103,
+      124,
+      21
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/products.html"
+      },
+      "key": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/products.html"
+      }
+     }
+    },
+    {
+     "name": "KNOW HOW",
+     "key": "know how",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#adjustablenavigation-2871c278c5>ul>li:nth-of-type(2)>div:nth-of-type(1)>a",
+     "expanded": null,
+     "rect": [
+      390,
+      103,
+      134,
+      21
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/ideas.html"
+      },
+      "key": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/ideas.html"
+      }
+     }
+    },
+    {
+     "name": "SUSTAINABILITY",
+     "key": "sustainability",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#adjustablenavigation-2871c278c5>ul>li:nth-of-type(3)>div:nth-of-type(1)>a",
+     "expanded": null,
+     "rect": [
+      524,
+      103,
+      171,
+      21
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/sustainability.html"
+      },
+      "key": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/sustainability.html"
+      }
+     }
+    },
+    {
+     "name": "OUR ACTIONS",
+     "key": "our actions",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#adjustablenavigation-2871c278c5>ul>li:nth-of-type(4)>div:nth-of-type(1)>a",
+     "expanded": null,
+     "rect": [
+      695,
+      103,
+      150,
+      21
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/our-actions.html"
+      },
+      "key": {
+       "opened": false,
+       "navigates": "https://www.loctiteproducts.com/our-actions.html"
+      }
+     }
+    },
+    {
+     "name": "PRO",
+     "key": "pro",
+     "role": "link",
+     "kind": "link",
+     "sel": "#adjustablenavigation-2871c278c5>ul>li:nth-of-type(5)>div>a",
+     "href": "https://www.loctiteproducts.com/pro.html",
+     "expanded": null,
+     "rect": [
+      844,
+      103,
+      68,
+      21
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-5f367a59c8>a",
+     "href": "https://www.loctiteproducts.com/",
+     "expanded": null,
+     "rect": [
+      88,
+      84,
+      130,
+      60
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#icon-b2e70eaf1f>button",
+     "expanded": null,
+     "rect": [
+      1162,
+      102,
+      24,
+      24
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "‎Australia, ‎English",
+          "href": "https://www.loctite-consumer.com.au/"
+         },
+         {
+          "text": "‎日本, ‎日本語 (‎Japan)",
+          "href": "https://www.loctite-consumer.jp/"
+         },
+         {
+          "text": "‎Brasil, ‎português (‎Brazil)",
+          "href": "https://www.loctite-consumo.com.br/"
+         },
+         {
+          "text": "‎Colombia, ‎español",
+          "href": "https://www.loctite-consumidor.co/"
+         },
+         {
+          "text": "‎United States, ‎English",
+          "href": "https://www.loctiteproducts.com/"
+         },
+         {
+          "text": "‎Österreich, ‎deutsch (‎Austria)",
+          "href": "https://www.loctite-superkleber.at/"
+         },
+         {
+          "text": "‎Belgique, ‎français (‎Belgium)",
+          "href": "https://www.loctite-consument.be/fr.html"
+         },
+         {
+          "text": "‎België, ‎Nederlands (‎Belgium)",
+          "href": "https://www.loctite-consument.be/nl.html"
+         },
+         {
+          "text": "‎Bosna i Hercegovina, ‎B/H/S jezik (‎Bosnia and Herzegovina)",
+          "href": "https://www.loctite-superljepilo.ba/"
+         },
+         {
+          "text": "‎България, ‎български (‎Bulgaria)",
+          "href": "https://www.henkel-loctite.bg/"
+         },
+         {
+          "text": "‎Hrvatska, ‎hrvatski (‎Croatia)",
+          "href": "https://www.loctite-superbond.com.hr/"
+         },
+         {
+          "text": "‎Česká republika, ‎čeština (‎Czech Republic)",
+          "href": "https://www.loctite-superbond.cz/"
+         },
+         {
+          "text": "‎Danmark, ‎dansk (‎Denmark)",
+          "href": "https://www.loctite-consumer.dk/"
+         },
+         {
+          "text": "‎Estonia, ‎Estonian",
+          "href": "https://www.loctite-superbond.ee/"
+         },
+         {
+          "text": "‎Suomi, ‎suomi (‎Finland)",
+          "href": "https://www.loctite-consumer.fi/"
+         },
+         {
+          "text": "‎France, ‎français",
+          "href": "https://www.loctite-consommateur.fr/"
+         },
+         {
+          "text": "‎Magyarország, ‎magyar (‎Hungary)",
+          "href": "https://www.loctite-superbond.hu/"
+         },
+         {
+          "text": "‎Italia, ‎italiano (‎Italy)",
+          "href": "https://www.loctite-consumer.it/"
+         },
+         {
+          "text": "‎Latvija, ‎Latvian (‎Latvia)",
+          "href": "https://www.loctite-superbond.lv/"
+         },
+         {
+          "text": "‎Lietuva, ‎Lietuvių (‎Lithuania)",
+          "href": "https://www.loctite-superbond.lt/"
+         },
+         {
+          "text": "‎Северна Македонија, ‎Македонски (‎North Macedonia)",
+          "href": "https://www.loctitesuperlepak.mk/"
+         },
+         {
+          "text": "‎Nederland, ‎Nederlands (‎Netherlands)",
+          "href": "https://www.loctite-consument.nl/"
+         },
+         {
+          "text": "‎Norge, ‎norsk (‎Norway)",
+          "href": "https://www.loctite-consumer.no/"
+         },
+         {
+          "text": "‎Portugal, ‎português",
+          "href": "https://www.loctitesupercola3.com/"
+         },
+         {
+          "text": "‎România, ‎română (‎Romania)",
+          "href": "https://www.loctite-superglue.ro/"
+         },
+         {
+          "text": "‎Србија, ‎српски (‎Serbia)",
+          "href": "https://www.loctitesuperlepak.rs/"
+         },
+         {
+          "text": "‎Slovensko, ‎slovenčina (‎Slovakia)",
+          "href": "https://www.loctite-superbond.sk/"
+         },
+         {
+          "text": "‎Slovenija, ‎slovenščina (‎Slovenia)",
+          "href": "https://www.loctite-superbond.si/"
+         },
+         {
+          "text": "‎España, ‎español (‎Spain)",
+          "href": "https://www.loctitesuperglue-3.com/"
+         },
+         {
+          "text": "‎Sverige, ‎svenska (‎Sweden)",
+          "href": "https://www.loctite-consumer.se/"
+         },
+         {
+          "text": "‎United Kingdom, ‎english",
+          "href": "https://www.loctite-consumer.co.uk/"
+         }
+        ],
+        "headings": [
+         "Choose your Country"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         333,
+         1440,
+         567
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": true,
+       "motion": [],
+       "shot": "1440-001-toggle-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "‎Australia, ‎English",
+          "href": "https://www.loctite-consumer.com.au/"
+         },
+         {
+          "text": "‎日本, ‎日本語 (‎Japan)",
+          "href": "https://www.loctite-consumer.jp/"
+         },
+         {
+          "text": "‎Brasil, ‎português (‎Brazil)",
+          "href": "https://www.loctite-consumo.com.br/"
+         },
+         {
+          "text": "‎Colombia, ‎español",
+          "href": "https://www.loctite-consumidor.co/"
+         },
+         {
+          "text": "‎United States, ‎English",
+          "href": "https://www.loctiteproducts.com/"
+         },
+         {
+          "text": "‎Österreich, ‎deutsch (‎Austria)",
+          "href": "https://www.loctite-superkleber.at/"
+         },
+         {
+          "text": "‎Belgique, ‎français (‎Belgium)",
+          "href": "https://www.loctite-consument.be/fr.html"
+         },
+         {
+          "text": "‎België, ‎Nederlands (‎Belgium)",
+          "href": "https://www.loctite-consument.be/nl.html"
+         },
+         {
+          "text": "‎Bosna i Hercegovina, ‎B/H/S jezik (‎Bosnia and Herzegovina)",
+          "href": "https://www.loctite-superljepilo.ba/"
+         },
+         {
+          "text": "‎България, ‎български (‎Bulgaria)",
+          "href": "https://www.henkel-loctite.bg/"
+         },
+         {
+          "text": "‎Hrvatska, ‎hrvatski (‎Croatia)",
+          "href": "https://www.loctite-superbond.com.hr/"
+         },
+         {
+          "text": "‎Česká republika, ‎čeština (‎Czech Republic)",
+          "href": "https://www.loctite-superbond.cz/"
+         },
+         {
+          "text": "‎Danmark, ‎dansk (‎Denmark)",
+          "href": "https://www.loctite-consumer.dk/"
+         },
+         {
+          "text": "‎Estonia, ‎Estonian",
+          "href": "https://www.loctite-superbond.ee/"
+         },
+         {
+          "text": "‎Suomi, ‎suomi (‎Finland)",
+          "href": "https://www.loctite-consumer.fi/"
+         },
+         {
+          "text": "‎France, ‎français",
+          "href": "https://www.loctite-consommateur.fr/"
+         },
+         {
+          "text": "‎Magyarország, ‎magyar (‎Hungary)",
+          "href": "https://www.loctite-superbond.hu/"
+         },
+         {
+          "text": "‎Italia, ‎italiano (‎Italy)",
+          "href": "https://www.loctite-consumer.it/"
+         },
+         {
+          "text": "‎Latvija, ‎Latvian (‎Latvia)",
+          "href": "https://www.loctite-superbond.lv/"
+         },
+         {
+          "text": "‎Lietuva, ‎Lietuvių (‎Lithuania)",
+          "href": "https://www.loctite-superbond.lt/"
+         },
+         {
+          "text": "‎Северна Македонија, ‎Македонски (‎North Macedonia)",
+          "href": "https://www.loctitesuperlepak.mk/"
+         },
+         {
+          "text": "‎Nederland, ‎Nederlands (‎Netherlands)",
+          "href": "https://www.loctite-consument.nl/"
+         },
+         {
+          "text": "‎Norge, ‎norsk (‎Norway)",
+          "href": "https://www.loctite-consumer.no/"
+         },
+         {
+          "text": "‎Portugal, ‎português",
+          "href": "https://www.loctitesupercola3.com/"
+         },
+         {
+          "text": "‎România, ‎română (‎Romania)",
+          "href": "https://www.loctite-superglue.ro/"
+         },
+         {
+          "text": "‎Србија, ‎српски (‎Serbia)",
+          "href": "https://www.loctitesuperlepak.rs/"
+         },
+         {
+          "text": "‎Slovensko, ‎slovenčina (‎Slovakia)",
+          "href": "https://www.loctite-superbond.sk/"
+         },
+         {
+          "text": "‎Slovenija, ‎slovenščina (‎Slovenia)",
+          "href": "https://www.loctite-superbond.si/"
+         },
+         {
+          "text": "‎España, ‎español (‎Spain)",
+          "href": "https://www.loctitesuperglue-3.com/"
+         },
+         {
+          "text": "‎Sverige, ‎svenska (‎Sweden)",
+          "href": "https://www.loctite-consumer.se/"
+         },
+         {
+          "text": "‎United Kingdom, ‎english",
+          "href": "https://www.loctite-consumer.co.uk/"
+         }
+        ],
+        "headings": [
+         "Choose your Country"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         40,
+         1440,
+         860
+        ]
+       },
+       "expanded": null,
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "fade-overlay-in",
+         "ms": 400,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal__overlay"
+        },
+        {
+         "kind": "animation",
+         "prop": "slide-from-bottom",
+         "ms": 500,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal__container"
+        }
+       ],
+       "shot": "1440-002-toggle-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#btn__calltoaction-df6745ad95",
+       "expanded": null,
+       "rect": [
+        667,
+        1365,
+        106,
+        41
+       ],
+       "actions": {
+        "hover": {
+         "opened": false,
+         "hides": 11
+        },
+        "click": {
+         "opened": false,
+         "hides": 33
+        },
+        "key": {
+         "opened": false,
+         "hides": 33
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#icon-a611d0d4b8>a",
+     "href": "https://www.loctiteproducts.com/search.html",
+     "expanded": null,
+     "rect": [
+      1206,
+      102,
+      24,
+      24
+     ],
+     "actions": {}
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 167,
+     "position": "relative",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 167,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 167,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 167,
+     "position": "relative",
+     "inView": true
+    }
+   ],
+   "states": 2,
+   "truncated": null,
+   "loads": 1,
+   "requests": 94,
+   "maxRequests": 600,
+   "inputsSkipped": 0
+  }
+ },
+ "probe": null
+}
